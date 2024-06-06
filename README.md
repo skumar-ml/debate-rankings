@@ -1,0 +1,1 @@
+NSD x DebateDrills x DebateLand elo-rankings (2021-2024). Please email info@nsdebatecamp.com with any questions.
