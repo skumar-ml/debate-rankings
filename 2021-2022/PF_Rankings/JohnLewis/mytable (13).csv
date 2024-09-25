@@ -1,0 +1,94 @@
+School,Location,Entry,Code
+American,CA/US,Kim & Naik,American KN
+American,CA/US,Raghavan & Jain,American RJ
+Archbishop Mitty,CA/US,Aggarwal & Zhang,Archbishop Mitty AZ
+Archbishop Mitty,CA/US,Chuang & Lee,Archbishop Mitty CL
+Archbishop Mitty,CA/US,Das & Ashok,Archbishop Mitty DA
+Archbishop Mitty,CA/US,Deng & Leung,Archbishop Mitty DL
+Archbishop Mitty,CA/US,Chun & Lee,Archbishop Mitty ChLe
+BC Academy,BC/CA,Chung & Ma,BC Academy CM
+BC Academy,BC/CA,Yu & Yoon,BC Academy YY
+Bethesda Chevy Chase,MD/US,Rochkind & Spellacy-Urken,Bethesda Chevy Chase RS
+Bethesda Chevy Chase,MD/US,Stares & Surendran,Bethesda Chevy Chase SS
+Brooks Debate Institute,CA/US,Bubna & Parikh,Brooks Debate Institute BP
+Brooks Debate Institute,CA/US,Parekh & Sharma,Brooks Debate Institute PS
+Canyon Crest,CA/US,Bhat & Hegde,Canyon Crest BH
+Canyon Crest,CA/US,Synn & Zhou,Canyon Crest SZ
+Centennial,MD/US,Liu & Yang,Centennial LY
+Champion,CA/US,Sudhani & Kazmi,Champion SK
+Cupertino,CA,Han & Kang,Cupertino HK
+Cupertino,CA,Malla & Ghosh,Cupertino MG
+Cupertino,CA,Tabofunda & Manjunath,Cupertino MT
+Cupertino,CA,Soma & Rao,Cupertino SR
+Cupertino,CA,Yu & Harish,Cupertino YH
+Dublin,CA/US,Ayalasomayajula & Chhatre,Dublin AC
+Dublin,CA/US,Cheng & Kataria,Dublin CK
+Fremont,CA/US,Chan & Suriya,Fremont CS
+Homestead,CA/US,Park & Khanzode,Homestead PK
+Joaquin Miller,CA/US,Dinesh & Shrivastava,Joaquin Miller DS
+Joaquin Miller,CA/US,Kumar & Saharoy,Joaquin Miller KS
+Leland,CA/US,Lu & Xie,Leland LX
+Leland,CA/US,Sengupta & Mittal,Leland SM
+Leland,CA/US,Verma & Kaushikkar,Leland VK
+Leland,CA/US,Xie & Huang,Leland XH
+Leland,CA/US,Zhao & Sher,Leland ZS
+Los Altos,CA/US,Dhanotra & Kim,Los Altos DK
+Los Altos,CA/US,Lingo & Wang,Los Altos LW
+Los Altos,CA/US,Ma & Chudasama,Los Altos MC
+Los Altos,CA/US,Mathew & Hanwadikar,Los Altos MH
+Los Altos,CA/US,Po & Crawford,Los Altos PC
+Los Altos,CA/US,Tsai & Park,Los Altos TP
+Lynbrook,CA/US,Bandopadhyay & Singh,Lynbrook BS
+Lynbrook,CA/US,Bhethanabotla & Yang,Lynbrook BY
+Lynbrook,CA/US,Gupta & Yuan,Lynbrook GY
+Lynbrook,CA/US,Jain & Emani,Lynbrook JE
+Lynbrook,CA/US,Jani & Jain,Lynbrook JJ
+Lynbrook,CA/US,Rajkumar & Pan,Lynbrook RP
+Lynbrook,CA/US,Singhal & Kamchetty,Lynbrook SK
+Madison West,WI/US,Caldararu & Grabois,Madison West CG
+Milpitas,CA,Chen & Chen,Milpitas CC
+Milpitas,CA,Vyas & Kadalayil,Milpitas VK
+Mira Loma,CA/US,Amir & Jones,Mira Loma AJ
+Mira Loma,CA/US,Anantaraman & Talukder,Mira Loma AT
+Mira Loma,CA/US,Pradeep & Mahendra,Mira Loma PM
+Mission San Jose,CA/US,Batra & Sharma,Mission San Jose BS
+Mission San Jose,CA/US,Chen & Bharadwaj,Mission San Jose CB
+Mission San Jose,CA/US,Gupta & Bhat,Mission San Jose GB
+Mission San Jose,CA/US,Vellani & Pasha,Mission San Jose VP
+Mission San Jose,CA/US,Walia & Kodnani,Mission San Jose WK
+Monta Vista,CA/US,Dev & Cui,Monta Vista DC
+Monta Vista,CA/US,Maiti & Chiu,Monta Vista MC
+Monta Vista,CA/US,Vittal & Datta,Monta Vista VD
+Mountain View,CA/US,Bayat & Ismael,Mountain View BI
+Mountain View,CA/US,Kelly & Lee,Mountain View KL
+Notre Dame San Jose,CA/US,Chaturvedi & Bhardwaj,Notre Dame San Jose CB
+Notre Dame San Jose,CA/US,Penttila & Bhaskar,Notre Dame San Jose PB
+Palo Alto,CA,Doran & Vishakan,Palo Alto DV
+Palo Alto,CA,Ho & Huang,Palo Alto HH
+Palo Alto,CA,Hong & Li,Palo Alto HL
+Palo Alto,CA,Tu & Suvarna,Palo Alto TS
+Peddie,NJ/US,Rong & Chen,Peddie RC
+Plano West,TX/US,Lee & Zhou,Plano West LZ
+Potomac,MD/US,Chaudhuri & Jani,Potomac CJ
+Potomac,MD/US,Chatterjee & Vadlamudi,Potomac CV
+Potomac,MD/US,Doshi & Sant,Potomac DS
+Potomac,MD/US,Gu & uppalapati,Potomac GU
+Potomac,MD/US,Shi & Thejaswi,Potomac ST
+Potomac,MD/US,Sane & Wu,Potomac SW
+Potomac,MD/US,Xue & Zhou,Potomac XZ
+River Hill,MD/US,Peng & Tang,River Hill PT
+San Mateo,CA/US,Kitahata & Kim,San Mateo KK
+Silver Creek,CA/US,Jain & Parthasarathi,Silver Creek JP
+Silver Creek,CA/US,Nguyen & Ly,Silver Creek NL
+Sunset,OR/US,Teh & Huang,Sunset TH
+Golden State,CA/US,Hathalia & Nagulapalli,Golden State HN
+Golden State,CA/US,Kotha & Cheethirala,Golden State KC
+Harker,CA,Amurthur & Sun,Harker AS
+Harker,CA,Bawa & Goyal,Harker BG
+Harker,CA,Gerstner & Thoppay,Harker GT
+Harker,CA,Sanghari & Pluzhnikov,Harker SP
+Harker,CA,Zhang & Zhang,Harker ZZ
+Quarry Lane,CA/US,Bajaj & Du,Quarry Lane BD
+Quarry Lane,CA/US,Vijapure & Duvvuri,Quarry Lane VD
+VDA - Vancouver,BC/CA,Han & Sun,VDA - Vancouver HS
+VDA - Vancouver,BC/CA,Wu & Zhang,VDA - Vancouver WZ
