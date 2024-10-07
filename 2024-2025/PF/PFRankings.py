@@ -188,6 +188,11 @@ def write_to_csv(elosList):
 add_tournament("SeasonOpener_InPerson", 8)
 add_tournament("SeasonOpener_Online", 8)
 add_tournament("Grapevine", 4)
+add_tournament("StephenStewart", 4)
+add_tournament("Yale", 8)
+add_tournament("MidAmericaCup", 2)
+add_tournament("JackHowe", 4)
+
 
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
