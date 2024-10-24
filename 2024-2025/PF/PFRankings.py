@@ -185,6 +185,7 @@ def write_to_csv(elosList):
     with open("PFRankings.csv","w") as fp:
         fp.write(add[:-1])
 
+# Bid level: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8)
 add_tournament("SeasonOpener_InPerson", 8)
 add_tournament("SeasonOpener_Online", 8)
 add_tournament("Grapevine", 4)
@@ -199,6 +200,7 @@ add_tournament("Gump", 1)
 add_tournament("Georgetown", 1)
 add_tournament("Fullerton", 1)
 add_tournament("NanoNagle", 4)
+add_tournament("NewYork", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
