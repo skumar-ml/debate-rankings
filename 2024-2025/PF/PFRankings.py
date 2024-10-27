@@ -91,6 +91,7 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
             line = line.split(",")
             line = [re.sub(r'\t+', ' ', item) for item in line] # Sanitizes test (replaces tabs with spaces)
             line = [item.replace("\n", "") for item in line] # Strips newlines
+            print(line)
             try:
                 team1, team2, judge, votes, result = tuple(line[0:5])
             except:
@@ -111,11 +112,11 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
                 continue
             if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin:
                 continue
-            if result == "neg" or result == "con":
+            if "neg" in result or "con" in result:
                 team1, team2 = team2, team1  # team 1 is the winning team
             try: team1, team2 = teamsDict[team1], teamsDict[team2]
             except: continue
-            print(line)
+            # print(line)
             try:
                 elo_team1 = elos_dict[team1[0]][0]
             except:
@@ -189,21 +190,21 @@ def write_to_csv(elosList):
         fp.write(add[:-1])
 
 # Bid level: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8)
-add_tournament("SeasonOpener_InPerson", 8)
-add_tournament("SeasonOpener_Online", 8)
-add_tournament("Grapevine", 4)
-add_tournament("StephenStewart", 4)
+# add_tournament("SeasonOpener_InPerson", 8)
+# add_tournament("SeasonOpener_Online", 8)
+# add_tournament("Grapevine", 4)
+# add_tournament("StephenStewart", 4)
 add_tournament("Yale", 8)
-add_tournament("MidAmericaCup", 2)
-add_tournament("JackHowe", 4)
-add_tournament("NovaTitan", 2)
-add_tournament("Delores", 1)
-add_tournament("Taiwan", 1)
-add_tournament("Gump", 1)
-add_tournament("Georgetown", 1)
-add_tournament("NanoNagle", 4)
-add_tournament("Fullerton", 1)
-add_tournament("NewYork", 8)
+# add_tournament("MidAmericaCup", 2)
+# add_tournament("JackHowe", 4)
+# add_tournament("NovaTitan", 2)
+# add_tournament("Delores", 1)
+# add_tournament("Taiwan", 1)
+# add_tournament("Gump", 1)
+# add_tournament("Georgetown", 1)
+# add_tournament("NanoNagle", 4)
+# add_tournament("Fullerton", 1)
+# add_tournament("NewYork", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)

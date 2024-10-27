@@ -20,7 +20,6 @@ def entry_dict(tournament):
             team[0] = 'Andrew Park (Mitty)'
         if (team[1] == 'Troy Independent AP') or (team[1] == 'Troy AP'):
             team[0] = 'Andrew Park (Troy)'
-        print(team)
         school, name = team[1], team[0]
         outputDict[school] = [name, school]
     return outputDict
@@ -85,14 +84,14 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
                 isBid = True
             line = line.split(",")
             line = [re.sub(r'\t+', ' ', item) for item in line] # Sanitizes test (replaces tabs with spaces)
-            line = [item.replace("\n", "") for item in line] # Strips newlines
+            line = [item.replace("\n", '') for item in line] # Strips newlines
             try:
                 team1, team2, judge, votes, result = tuple(line[0:5])
             except:
                 continue
             result = result.lower()
             try:
-                margin, result = tuple(result[1:-2].split())
+                margin, result = tuple(result.split()) # Splits ballots and results
             except:
                 continue
             if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin or "advances" in votes or "advances" in result:
