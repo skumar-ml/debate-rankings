@@ -1,7 +1,7 @@
 import glob
 import pandas as pd
-import numpy as np
 import math
+import re
 
 '''
 Notes:
@@ -84,6 +84,8 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
             if len(lines) == bid:
                 isBid = True
             line = line.split(",")
+            line = [re.sub(r'\t+', ' ', item) for item in line] # Sanitizes test (replaces tabs with spaces)
+            line = [item.replace("\n", "") for item in line] # Strips newlines
             try:
                 team1, team2, judge, votes, result = tuple(line[0:5])
             except:
@@ -93,7 +95,7 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
                 margin, result = tuple(result[1:-2].split())
             except:
                 continue
-            if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin:
+            if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin or "advances" in votes or "advances" in result:
                 continue
 
             if "neg" in result or "con" in result:

@@ -2,6 +2,7 @@ import glob
 import pandas as pd
 import numpy as np
 import math
+import re
 
 '''
 Notes:
@@ -18,7 +19,6 @@ def entry_dict(tournament):
     teams = teams.to_numpy()
     for team in teams:
         school, names = team[1], team[0]
-        print(names)
         names = names.replace("&nbsp;", "")
         if names.split()[0] < names.split()[2]:
             outputDict[school] = [names, school]
@@ -89,6 +89,8 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
             if len(lines) == bid:
                 isBid = True
             line = line.split(",")
+            line = [re.sub(r'\t+', ' ', item) for item in line] # Sanitizes test (replaces tabs with spaces)
+            line = [item.replace("\n", "") for item in line] # Strips newlines
             try:
                 team1, team2, judge, votes, result = tuple(line[0:5])
             except:
@@ -113,6 +115,7 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
                 team1, team2 = team2, team1  # team 1 is the winning team
             try: team1, team2 = teamsDict[team1], teamsDict[team2]
             except: continue
+            print(line)
             try:
                 elo_team1 = elos_dict[team1[0]][0]
             except:
