@@ -149,14 +149,14 @@ with open("24-25-LDCT-Roster.csv", "r") as fp:
     for line in fp:
         ddTeams += [line.split(",")[0].strip()]
 
-# print(ddTeams)
+print(ddTeams)
 
 nsdTeams = []
 # with open("NSD.csv", "r") as fp:
 #     for line in fp:
 #         nsdTeams += [line.split(",")[0].strip().title()]
 
-# print(nsdTeams)
+#print(nsdTeams)
 
 def write_to_csv(elosList):
     '''write the rankings to the csv'''
