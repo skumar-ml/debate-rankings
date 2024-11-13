@@ -20,6 +20,7 @@ def entry_dict(tournament):
     for team in teams:
         school, names = team[1], team[0]
         names = names.replace("&nbsp;", "")
+        print("Names:", names)
         if names.split()[0] < names.split()[2]:
             outputDict[school] = [names, school]
         else:
@@ -208,6 +209,10 @@ add_tournament("NewYork", 8)
 add_tournament("Tim Averill", 2)
 add_tournament("Florida", 8)
 add_tournament("Quarry", 1)
+add_tournament("Michigan", 1)
+add_tournament("Apple Valley", 8)
+add_tournament("Hockaday", 1)
+add_tournament("Lincoln Southwest", 1)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
