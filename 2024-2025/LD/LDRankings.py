@@ -200,6 +200,8 @@ add_tournament("Meadows", 4)
 add_tournament("Florida", 4)
 add_tournament("Apple Valley", 8)
 add_tournament("Damus", 2)
+add_tournament("Laird", 1)
+add_tournament("Badgerland", 1)
 
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
