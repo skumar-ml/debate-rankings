@@ -212,6 +212,8 @@ add_tournament("Cypress", 1)
 #add_tournament("Ridge", 2)
 add_tournament("DowlingCatholic", 1)
 add_tournament("IsidoreNewman", 2)
+add_tournament("Strake", 2)
+add_tournament("CollegePrep", 4)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)

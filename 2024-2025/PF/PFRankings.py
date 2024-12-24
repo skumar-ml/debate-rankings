@@ -229,6 +229,8 @@ add_tournament("Cypress", 4)
 add_tournament("MillardWest", 1)
 add_tournament("DowlingCatholic", 4)
 add_tournament("IsidoreNewman", 1)
+add_tournament("Blake", 8)
+#add_tournament("CheyenneEast", 1) - No Elims entries
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
