@@ -230,6 +230,13 @@ add_tournament("MillardWest", 1)
 add_tournament("DowlingCatholic", 4)
 add_tournament("IsidoreNewman", 1)
 add_tournament("Blake", 8)
+add_tournament("Newark", 1)
+add_tournament("ArizonaState", 4)
+add_tournament("ChurchillClassic", 1)
+add_tournament("PugetSound", 1)
+add_tournament("Sunvitational", 8)
+#add_tournament("SaintAndrews", 1) - No entries/results
+add_tournament("Peninsula", 1)
 #add_tournament("CheyenneEast", 1) - No Elims entries
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
