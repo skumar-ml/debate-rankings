@@ -238,6 +238,11 @@ add_tournament("Sunvitational", 8)
 #add_tournament("SaintAndrews", 1) - No entries/results
 add_tournament("Peninsula", 1)
 #add_tournament("CheyenneEast", 1) - No Elims entries
+add_tournament("JamesLogan", 4)
+add_tournament("Durham", 4)
+add_tournament("Lexington", 4)
+add_tournament("Lewis&Clark", 1)
+add_tournament("UniversityOfHouston", 1)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
