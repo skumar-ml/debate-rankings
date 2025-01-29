@@ -227,6 +227,7 @@ add_tournament("MountVernon", 1)
 add_tournament("UniversityOfHouston", 2)
 add_tournament("Lexington", 4)
 add_tournament("Lewis&Clark", 1)
+add_tournament("Emory", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
