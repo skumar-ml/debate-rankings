@@ -245,6 +245,11 @@ add_tournament("Lewis&Clark", 1)
 add_tournament("UniversityOfHouston", 1)
 add_tournament("Emory", 8)
 add_tournament("SeattleUniversity", 1)
+add_tournament("Pennsbury", 2)
+add_tournament("Cavalier", 1)
+add_tournament("Columbia", 4)
+add_tournament("GoldenDesert", 4)
+#add_tournament("UniversityOfPennsylvania", 8) - Only Entries/No Results
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
