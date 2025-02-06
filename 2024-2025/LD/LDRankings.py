@@ -166,6 +166,10 @@ def write_to_csv(elosList):
         elo, school = eloSchool[0], eloSchool[1]
         counter += 1
         name = " ".join(team.split())
+
+        if name in ["Ece Eskici"]: # Remove people from rankings
+            continue
+
         if name in bidList:
             bids = bidList[name]
         else:
