@@ -249,12 +249,15 @@ add_tournament("Pennsbury", 2)
 add_tournament("Cavalier", 1)
 add_tournament("Columbia", 4)
 add_tournament("GoldenDesert", 4)
-#add_tournament("UniversityOfPennsylvania", 8) - Only Entries/No Results
+add_tournament("UniversityOfPennsylvania", 8)
 add_tournament("UpperStClair", 1)
 add_tournament("Bellaire", 4)
 add_tournament("Jasper", 1)
 add_tournament("SFRoosevelt", 1)
 add_tournament("Stanford", 8)
+#add_tournament("Bingham", 2) // No - PF Named Entries/Results
+add_tournament("Harvard", 8)
+add_tournament("Berkeley", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
