@@ -244,6 +244,7 @@ add_tournament("Berkeley", 8)
 add_tournament("TOCDigital2", 4)
 add_tournament("MillardNorth", 1)
 add_tournament("USC", 2)
+add_tournament("TOCDigital3", 4)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
