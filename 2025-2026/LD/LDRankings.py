@@ -152,9 +152,9 @@ with open("25-26-LDCT-Roster.csv", "r") as fp:
 print(ddTeams)
 
 nsdTeams = []
-# with open("NSD.csv", "r") as fp:
-#     for line in fp:
-#         nsdTeams += [line.split(",")[0].strip().title()]
+with open("NSD.csv", "r") as fp:
+    for line in fp:
+        nsdTeams += [line.split(",")[0].strip().title()]
 
 #print(nsdTeams)
 
