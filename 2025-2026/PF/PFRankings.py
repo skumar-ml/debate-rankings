@@ -196,6 +196,7 @@ add_tournament("NSDSO_Online", 4)
 add_tournament("Grapevine", 4)
 add_tournament("JackHowe", 4)
 add_tournament("Yale", 8)
+add_tournament("MidAmerica", 2)
 
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
