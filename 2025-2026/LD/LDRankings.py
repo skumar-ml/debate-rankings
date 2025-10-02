@@ -188,12 +188,13 @@ def write_to_csv(elosList):
 
 
 # Bid level: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8)
+add_tournament("Loyola", 4)
 add_tournament("NSDSO_Online", 4)
 add_tournament("Grapevine", 4)
 add_tournament("Greenhill", 8)
 add_tournament("JackHowe", 2)
 add_tournament("Yale", 4)
-
+add_tournament("MidAmerica", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
