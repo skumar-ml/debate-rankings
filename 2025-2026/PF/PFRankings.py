@@ -204,7 +204,7 @@ add_tournament("MidAmerica", 2)
 add_tournament("StephenStewart", 4)
 add_tournament("MaristIvy", 1)
 add_tournament("NSDATaiwan", 0)
-# add_tournament("GeorgetownFall", 1)
+add_tournament("GeorgetownFall", 1)
 add_tournament("NanoNagle1", 4)
 add_tournament("NovaTitan", 2)
 
