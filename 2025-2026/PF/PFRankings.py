@@ -207,6 +207,8 @@ add_tournament("NSDATaiwan", 0)
 add_tournament("GeorgetownFall", 1)
 add_tournament("NanoNagle1", 4)
 add_tournament("NovaTitan", 2)
+add_tournament("Bronx", 8)
+add_tournament("CSUFullerton", 1)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
