@@ -198,6 +198,9 @@ add_tournament("MidAmerica", 8)
 add_tournament("NanoNagle", 4)
 add_tournament("StMarks", 8)
 add_tournament("Bronx", 8)
+add_tournament("Heritage Hall", 1)
+add_tournament("Laird Lewis", 1)
+
 
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
