@@ -161,7 +161,7 @@ nsdTeams = []
 #         nsdTeams += [line.split(",")[0].strip().split()[-1]]
 
 nsdLastNames = [string.split()[-1].strip() if string.split() else "" for string in nsdTeams]
-nsdTeams = ["East Ridge MV", "FW CB"]
+# nsdTeams = ["East Ridge MV", "FW CB", "Avenues: The World CB"]
 
 
 def write_to_csv(elosList):
@@ -185,7 +185,7 @@ def write_to_csv(elosList):
             bids = 0
 
         if school == "FW CB":
-            school = "Avenues: The World School CB"
+            school = "Avenues: The World CB"
 
         if school in ddTeams or ("DebateDrills" in school):
             add += str(counter) + "," + school + "," + names + "," + str(round(elo * 1000) / 1000) + f",Y, " + nsd + ",\n"
@@ -208,7 +208,7 @@ add_tournament("GeorgetownFall", 1)
 add_tournament("NanoNagle1", 4)
 add_tournament("NovaTitan", 2)
 add_tournament("Bronx", 8)
-add_tournament("CSUFullerton", 2)
+add_tournament("CSUFullerton", 1)
 add_tournament("Tim Averill", 2)
 # add_tournament("Jon Schamber", 1)
 add_tournament("Laird Lewis", 2)
