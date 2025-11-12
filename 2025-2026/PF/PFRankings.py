@@ -215,7 +215,10 @@ add_tournament("Laird Lewis", 2)
 add_tournament("BlueKey", 8)
 add_tournament("AppleValley", 8)
 add_tournament("QuarryLane", 1)
-
+add_tournament("Michigan", 1)
+add_tournament("Hockaday", 1)
+add_tournament("Badgerland", 2)
+add_tournament("Lincoln-Southwest", 1)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)

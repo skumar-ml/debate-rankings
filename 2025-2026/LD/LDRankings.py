@@ -203,6 +203,8 @@ add_tournament("Laird Lewis", 1)
 add_tournament("BlueKey", 4)
 add_tournament("AppleValley", 8)
 add_tournament("Meadows", 4)
+add_tournament("Badgerland", 1)
+add_tournament("Damus", 2)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
