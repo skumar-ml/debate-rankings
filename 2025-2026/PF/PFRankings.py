@@ -225,6 +225,13 @@ add_tournament("Harvard_ISDI_1", 1)
 add_tournament("JohnLewis", 4)
 add_tournament("Glenbrooks", 8)
 add_tournament("Villeger", 2)
+add_tournament("LaCosta", 4)
+add_tournament("TOCDigital1", 2)
+add_tournament("DowlingCatholic", 4)
+#add_tournament("BigGump", 2) //No Results Available
+add_tournament("Alta", 4)
+add_tournament("LonghornClassic", 4)
+add_tournament("Princeton", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
