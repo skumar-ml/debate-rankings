@@ -21,6 +21,19 @@ def entry_dict(tournament):
         school, names = team[1], team[0]
         names = names.replace("&nbsp;", "")
         print("Names:", names)
+
+        # If len(names.split()) > 3, then extract two names: before and after the "&" and reformat. NOTE: we expect name to be in the format "Name1 & Name2"
+        split_names = names.split()
+        if len(split_names) > 3:
+            amp_index = split_names.index("&")
+            # Get the name before and the name after "&"
+            if amp_index - 1 >= 0 and amp_index + 1 < len(split_names):
+                # Get the first speaker (combine all tokens before "&")
+                first_speaker = split_names[amp_index - 1]
+                second_speaker = split_names[amp_index + 1]
+                names = f"{first_speaker} & {second_speaker}"
+
+        # Swap order of speakers if not alphabetical
         if names.split()[0] < names.split()[2]:
             outputDict[school] = [names, school]
         else:
@@ -127,7 +140,6 @@ def add_elims(tournament, teamsDict, elos_dict, bid):
                 team1, team2 = teamsDict[team1], teamsDict[team2]
             except:
                 continue
-            # print(line)
             try:
                 elo_team1 = elos_dict[team1[0]][0]
             except:
