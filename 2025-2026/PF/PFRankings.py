@@ -288,6 +288,8 @@ add_tournament("PatriotGames", 1)
 add_tournament("Cavalier", 4)
 add_tournament("MountVernon", 1)
 add_tournament("JamesLogan", 4)
+add_tournament("Emory", 8)
+add_tournament("SeattleUniversity", 1)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)

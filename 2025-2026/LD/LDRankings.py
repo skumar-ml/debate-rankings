@@ -253,6 +253,7 @@ add_tournament("Cavalier", 2)
 add_tournament("MountVernon", 2)
 add_tournament("NorthAllegheny", 1)
 add_tournament("PugetSound", 2)
+add_tournament("Emory", 8)
 
 elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
 write_to_csv(elos)
