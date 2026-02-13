@@ -189,8 +189,8 @@ nsdLastNames = [string.split()[-1].strip() if string.split() else "" for string 
 
 def write_to_csv(elosList):
     """write the rankings to the csv"""
-    add = "Rank,School,Name,Elo,DD Student,NSD Student\n"
-    top_500_add = "Rank,School,Name,Elo,DD Student,NSD Student\n"
+    add = "Rank,School,Name,Elo,DD Student\n"  # ,NSD Student\n"
+    top_500_add = "Rank,School,Name,Elo,DD Student\n"  # ,NSD Student\n"
     counter = 0
     for team, eloSchool in elosList:
         elo, school = eloSchool[0], eloSchool[1]
@@ -223,9 +223,9 @@ def write_to_csv(elosList):
             + names
             + ","
             + str(round(elo * 1000) / 1000)
-            + f",{dd}, "
-            + nsd
-            + ",\n"
+            + f",{dd},\n "
+            # + nsd
+            # + ",\n"
         )
 
         add += record
