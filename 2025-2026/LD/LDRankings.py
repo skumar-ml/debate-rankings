@@ -173,8 +173,8 @@ with open("NSD.csv", "r") as fp:
 
 def write_to_csv(elosList):
     """write the rankings to the csv"""
-    add = "Rank,School,Name,Elo,Bids,DD Student\n"  # ,NSD Student\n"
-    top_500_add = "Rank,School,Name,Elo,Bids,DD Student\n"  # ,NSD Student\n"
+    add = "Rank,School,Name,Elo,DD Student\n"  # ,NSD Student\n"
+    top_500_add = "Rank,School,Name,Elo,DD Student\n"  # ,NSD Student\n"
     counter = 0
     for team, eloSchool in elosList:
         elo, school = eloSchool[0], eloSchool[1]
