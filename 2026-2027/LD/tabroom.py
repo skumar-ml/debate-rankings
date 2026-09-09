@@ -52,14 +52,6 @@ def fetch_tournament(tourn_id, cache_dir, refresh=False):
     return data
 
 
-def apply_name_overrides(code, name):
-    if code == "Archbishop Mitty AP":
-        return "Andrew Park (Mitty)"
-    if code in ("Troy Independent AP", "Troy AP"):
-        return "Andrew Park (Troy)"
-    return name
-
-
 def _event_name(event):
     return str(event.get("name") or "").strip()
 
@@ -212,7 +204,7 @@ def _round_is_prelim(round_obj):
 
 def _add_entry(entries, code, name):
     if code not in entries:
-        entries[code] = [apply_name_overrides(code, name), code]
+        entries[code] = [name, code]
 
 
 def parse_ld_tournament(data, event_id=None):

@@ -9,6 +9,7 @@ order:
 
 Bid levels: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8).
 Optional event_id can pin the LD event if auto-detect is wrong.
+Competitors are identified by Tabroom entry_code (e.g. "Lynbrook JR"), not name.
 
 Usage (from this directory):
     python LDRankings.py
@@ -45,12 +46,13 @@ def add_prelims(parsed, elos_dict, bid):
             team1, team2 = teams_dict[team1], teams_dict[team2]
         except KeyError:
             continue
+        code1, code2 = team1[1], team2[1]
         try:
-            elo_team1 = elos_dict[team1[0]][0]
+            elo_team1 = elos_dict[code1][0]
         except KeyError:
             elo_team1 = 1500
         try:
-            elo_team2 = elos_dict[team2[0]][0]
+            elo_team2 = elos_dict[code2][0]
         except KeyError:
             elo_team2 = 1500
         elo_diff = elo_team1 - elo_team2
@@ -58,8 +60,8 @@ def add_prelims(parsed, elos_dict, bid):
         shift = K * (1 - win_prob) * ((bid / 8) ** 0.5)
         elo_team1 += shift
         elo_team2 -= shift
-        elos_dict[team1[0]] = [elo_team1, team1[1]]
-        elos_dict[team2[0]] = [elo_team2, team2[1]]
+        elos_dict[code1] = [elo_team1, team1[0]]
+        elos_dict[code2] = [elo_team2, team2[0]]
     return elos_dict
 
 
@@ -75,12 +77,13 @@ def add_elims(parsed, elos_dict, bid):
                 team1, team2 = teams_dict[team1], teams_dict[team2]
             except KeyError:
                 continue
+            code1, code2 = team1[1], team2[1]
             try:
-                elo_team1 = elos_dict[team1[0]][0]
+                elo_team1 = elos_dict[code1][0]
             except KeyError:
                 elo_team1 = 1500
             try:
-                elo_team2 = elos_dict[team2[0]][0]
+                elo_team2 = elos_dict[code2][0]
             except KeyError:
                 elo_team2 = 1500
             elo_diff = elo_team1 - elo_team2
@@ -92,8 +95,8 @@ def add_elims(parsed, elos_dict, bid):
                 continue
             elo_team1 += shift + bid
             elo_team2 -= shift / 2
-            elos_dict[team1[0]] = [elo_team1, team1[1]]
-            elos_dict[team2[0]] = [elo_team2, team2[1]]
+            elos_dict[code1] = [elo_team1, team1[0]]
+            elos_dict[code2] = [elo_team2, team2[0]]
     return elos_dict
 
 
@@ -119,16 +122,16 @@ def write_to_csv(elos_list):
     rows = "Rank,School,Name,Elo\n"
     top_500 = "Rank,School,Name,Elo\n"
     counter = 0
-    for team, elo_school in elos_list:
-        elo, school = elo_school[0], elo_school[1]
+    for code, elo_name in elos_list:
+        elo, name = elo_name[0], elo_name[1]
         counter += 1
-        name = " ".join(team.split())
+        name = " ".join(name.split())
         if name in ["Ece Eskici"]:
             continue
         record = (
             str(counter)
             + ","
-            + school
+            + code
             + ","
             + name
             + ","
