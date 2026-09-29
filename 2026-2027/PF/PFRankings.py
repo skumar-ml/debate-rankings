@@ -130,6 +130,7 @@ def write_to_csv(elos_list):
         elo, name = elo_name[0], elo_name[1]
         counter += 1
         name = " ".join(name.split())
+        code = " ".join(code.replace(",", " ").split())
         record = str(counter) + "," + code + "," + name + "," + str(round(elo * 1000) / 1000) + "\n"
         rows += record
         if counter < 501:

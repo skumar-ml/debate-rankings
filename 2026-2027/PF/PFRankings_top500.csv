@@ -52,12 +52,12 @@ Rank,School,Name,Elo
 51,Robinson BV,Borunda & Vidrine,1574.835
 52,Livingston GL,Gupta & Li,1574.477
 53,Harker AM,Ahuja & Miduthuri,1573.479
-54,Strake Jesuit  MM,Magon & Murthy,1571.969
+54,Strake Jesuit MM,Magon & Murthy,1571.969
 55,Evergreen Valley CZ,Corbu & Zhang,1571.937
 56,Interlake Youlan Wang & Jingqi Li,Li & Wang,1571.747
 57,Dougherty Valley KK,Kiran & Kummariguntla,1571.689
 58,Potomac AL,Ai & Lennard,1571.406
-59,Strake Jesuit  KH,Hadi & Kirichenko,1568.537
+59,Strake Jesuit KH,Hadi & Kirichenko,1568.537
 60,Fairmont Prep TK,Kang & Tsai,1567.543
 61,Cambridge LK,Kim & Lee,1567.057
 62,Mission San Jose PS,Pala & Shah,1566.149
@@ -111,7 +111,7 @@ Rank,School,Name,Elo
 110,Flintridge Prep LR,Liu & Rathi,1535.63
 111,Cranbrook FZ,Feng & Zhou,1535.385
 112,Acton-Boxborough SV,Senani & Vatsa,1534.953
-113,Strake Jesuit  HJ,Hasan & Jumalon,1534.216
+113,Strake Jesuit HJ,Hasan & Jumalon,1534.216
 114,Pittsburgh Central Catholic Kavin Dassanaike-Perera & Adhhrith,Dassanaike-Perera & Nagrath,1533.96
 115,Lexington Carrie Li & Lily Xia,Li & Xia,1533.733
 116,VDA - Vancouver Josh Zhou & Flora Tu,Tu & Zhou,1533.411
@@ -131,7 +131,7 @@ Rank,School,Name,Elo
 130,Livingston Vedant Baijal & Jacob Heifetz,Baijal & Heifetz,1522.869
 131,Campbell Hall HM,Hein-Martin & McCullers,1520.712
 132,Independent Hamilton GD,Duan & Grewal,1520.635
-133,Strake Jesuit  LW,Li & Wang,1520.626
+133,Strake Jesuit LW,Li & Wang,1520.626
 134,Plano West ZZ,Zhang & Zhao,1520.605
 135,Christopher Columbus RC,Caram & Ross,1520.554
 136,McLean HL,Hu & Lee,1519.811
@@ -170,7 +170,7 @@ Rank,School,Name,Elo
 169,Archbishop Mitty DH,Daniher & Huang,1514.283
 170,Campbell Hall BK,Bart & Kosloff,1513.757
 171,Fairmont Prep SL,Lunde & Shah,1513.753
-172,Strake Jesuit  HS,Hill & Segraves,1513.688
+172,Strake Jesuit HS,Hill & Segraves,1513.688
 173,Plano West WX,Wang & Xie,1513.245
 174,Blake DS,Deng & Sosseh,1513.218
 175,Nueva ZK,Kulkarni & Zhang,1513.19
@@ -196,7 +196,7 @@ Rank,School,Name,Elo
 195,Arlington MC,Carman & Munoz Broder,1507.656
 196,Gunn HK,Hayes & Kabe,1507.526
 197,Equality Independent ND,Davidowitz & Nabi,1507.363
-198,Bellarmine  KE,Ekanth & Khurana,1507.329
+198,Bellarmine KE,Ekanth & Khurana,1507.329
 199,James Clemens Vamsi Gollapudi & Guhan Sivasenthil,Gollapudi & Sivasenthil,1507.027
 200,Saratoga RT,Ravishankar & Tirthapura,1506.905
 201,Scarsdale PA,Auerbach & Pascutti,1506.839
@@ -256,7 +256,7 @@ Rank,School,Name,Elo
 255,Marist DC,Crunk & Devassy,1500.608
 256,Horace Mann YB,Bowers-Poulad & Youm,1500.605
 257,Durham LR,Lee & Rudolph,1500.59
-258,Strake Jesuit  SD,Davis & Srinivas,1500.589
+258,Strake Jesuit SD,Davis & Srinivas,1500.589
 259,Jasper SZ,Sunil & Zhou,1500.589
 260,Lakeville North SM,Menon & shao,1500.44
 261,Leland RM,Madhav & Rao,1500.369
@@ -281,12 +281,12 @@ Rank,School,Name,Elo
 280,Hunter UY,Urena-Bernabel & Yeh,1500.049
 281,Madison West PT,Prabhakaran & Trewartha,1500.042
 282,Plano West CY,Cheng & Yu,1500.037
-283,Strake Jesuit  KB,Bhardwaj & Keswani,1500.036
+283,Strake Jesuit KB,Bhardwaj & Keswani,1500.036
 284,Valley Christian CM,Chen & Ma,1500.036
 285,Nueva YA,Arkin & Yi,1500.034
 286,Lincoln East BN,Bobaru & Neamu,1500.024
 287,Bergen YD,Dave & Yuan,1500.024
-288,Strake Jesuit  DS,Donovan & Sadare,1500.02
+288,Strake Jesuit DS,Donovan & Sadare,1500.02
 289,Cranbrook Taiwen Feng & William Zhou,Feng & Zhou,1500.019
 290,Southlake Carroll GM,Gupta & Mugilan,1500.019
 291,Archbishop Mitty MC,Chakravarthy & Mishra,1500.018
@@ -320,11 +320,11 @@ Rank,School,Name,Elo
 319,Westlake SC,Cheema & Siraj,1499.982
 320,Southlake Carroll GF,Farooqi & Golla,1499.981
 321,Chaska RS,Ray & Stoebner,1499.981
-322,Strake Jesuit  BH,Brooks & Higgins,1499.979
+322,Strake Jesuit BH,Brooks & Higgins,1499.979
 323,Millburn LD,Dai & Liu,1499.973
 324,Lexington LX,Li & Xia,1499.971
-325,Strake Jesuit  SK,Kyle & Saini,1499.965
-326,Bellarmine  BI,Banka & Iyengar,1499.963
+325,Strake Jesuit SK,Kyle & Saini,1499.965
+326,Bellarmine BI,Banka & Iyengar,1499.963
 327,Theodore Roosevelt HN,Hopper-Hedges & Narayanan,1499.953
 328,American Heritage Palm Beach ZG,Guan & Zhen,1499.951
 329,Livingston NT,Nistala & Tripathi,1499.951
@@ -363,7 +363,7 @@ Rank,School,Name,Elo
 362,Fairmont Prep NP,Ngo & Park,1499.49
 363,Archbishop Mitty HK,Huang & Kwok,1499.488
 364,Fairview HS,Harrington & sharma,1499.46
-365,Strake Jesuit  SJ,Jiang & Shatby,1499.43
+365,Strake Jesuit SJ,Jiang & Shatby,1499.43
 366,Plano West JP,Jiang & Park,1499.409
 367,Southlake Carroll CN,Chitra & Nepal,1499.409
 368,Westwood IG,Gupta & Iyer,1499.409
@@ -449,7 +449,7 @@ Rank,School,Name,Elo
 448,Harker RV,Reddy & Vailaya,1479.396
 449,Westwood TV,Travkin & Vemula,1479.395
 450,Jasper ZL,Li & Zhang,1479.376
-451,Strake Jesuit  CC,Chen & Choi,1479.358
+451,Strake Jesuit CC,Chen & Choi,1479.358
 452,Southlake Carroll AL,Abbasi & Lingala,1479.358
 453,Fairmont Prep HT,Harrison & Teng,1479.228
 454,Mission San Jose CM,Chatterjee & Manadhata,1479.173
@@ -495,7 +495,7 @@ Rank,School,Name,Elo
 494,Bronx Science LT,Lowell & Treinkman,1471.134
 495,Granite Bay TS,Singh & Theethira,1471.129
 496,Bergen KS,Kathawala & Singh,1471.088
-497,Bellarmine  BJ,Belligundu & Jiang,1471.086
+497,Bellarmine BJ,Belligundu & Jiang,1471.086
 498,Lexington SW,Shah & Wang,1471.083
 499,Delbarton KQ,Kim & Qiao,1471.083
 500,Los Altos RS,Rinn & Schulz,1471.081

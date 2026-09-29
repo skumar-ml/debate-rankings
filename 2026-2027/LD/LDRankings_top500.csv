@@ -18,7 +18,7 @@ Rank,School,Name,Elo
 17,Bronx Science LS,Lili Sella,1644.672
 18,St Thomas CO,Craig O'Sullivan,1644.398
 19,Phillips Exeter Independent JM,James Moon,1642.491
-20,Strake Jesuit  Matthew Zong,Matthew Zong,1635.0
+20,Strake Jesuit Matthew Zong,Matthew Zong,1635.0
 21,Edgemont Arjun Gupta,Arjun Gupta,1626.679
 22,Lynbrook JR,Jason Rong,1625.594
 23,Memorial AW,Adrienne Wang,1624.064
@@ -26,7 +26,7 @@ Rank,School,Name,Elo
 25,Mountain View AW,Andrea Wong,1619.533
 26,Vestavia Hills VZ,Veronica Zhang,1618.153
 27,Little Rock Central GT,Gabrielle Torrence,1616.886
-28,Strake Jesuit  Jeffery Wei,Jeffery Wei,1615.59
+28,Strake Jesuit Jeffery Wei,Jeffery Wei,1615.59
 29,Vestavia Hills Veronica Zhang,Veronica Zhang,1607.009
 30,BASIS Silicon Valley VP,Vihaan Patel,1604.444
 31,Edgemont AG,Arjun Gupta,1603.296
@@ -56,7 +56,7 @@ Rank,School,Name,Elo
 55,Brophy AP,Adrian Piel,1571.836
 56,BASIS Silicon Valley Jason Kuo,Jason Kuo,1571.566
 57,Valley Christian VX,Vanessa Xu,1570.398
-58,Strake Jesuit  EX,Eric Xiong,1569.4
+58,Strake Jesuit EX,Eric Xiong,1569.4
 59,Memorial ES,Evelyn Shao,1566.802
 60,Marlborough RB,Rory Baskin,1566.743
 61,Danville David Nemoianu,David Nemoianu,1564.26
@@ -79,9 +79,9 @@ Rank,School,Name,Elo
 78,Plano West ZM,Zayd Mahmud,1547.566
 79,Dougherty Valley Independent PN,Pranav Narra,1547.02
 80,Holy Trinity Episcopal CH,Chance Hudson,1546.752
-81,Strake Jesuit  Diego Villareal,Diego Villareal,1546.437
+81,Strake Jesuit Diego Villareal,Diego Villareal,1546.437
 82,Mountain Brook WR,Winston Rocque,1545.458
-83,Strake Jesuit  KS,Kevin Song,1544.923
+83,Strake Jesuit KS,Kevin Song,1544.923
 84,Northern Valley AC,Aaron Choi,1544.584
 85,Gunn SP,Sophia Parang,1544.508
 86,Horace Greeley CC,Chris Correia,1544.466
@@ -91,12 +91,12 @@ Rank,School,Name,Elo
 90,Harker Jackson Yue,Jackson Yue,1540.028
 91,Dougherty Valley Independent SV,Siddharth Vedam,1539.996
 92,Harvard-Westlake JW,Jacob Waxman,1539.828
-93,Strake Jesuit  JW,Jeffery Wei,1539.191
+93,Strake Jesuit JW,Jeffery Wei,1539.191
 94,Brophy VW,Vincent Wang,1539.069
 95,Harker RG,Rohan Goyal,1538.76
 96,Pingry SH,Sophie Hao,1536.197
-97,Strake Jesuit  LC,Lucas Chritah,1536.037
-98,Strake Jesuit  NF,Nathan Fan,1535.74
+97,Strake Jesuit LC,Lucas Chritah,1536.037
+98,Strake Jesuit NF,Nathan Fan,1535.74
 99,St John's WG,Wyatt Greenberg,1535.673
 100,Harker LX,Luke Xing,1534.054
 101,Greenhill AN,Ali Naseem,1533.867
@@ -106,16 +106,16 @@ Rank,School,Name,Elo
 105,Research Triangle KP,Karan Parekh,1531.683
 106,Millard North LT,Lucio Turco,1530.757
 107,Newark Science SR,Stella Rodriguez,1530.523
-108,Strake Jesuit  Kevin Song,Kevin Song,1530.073
+108,Strake Jesuit Kevin Song,Kevin Song,1530.073
 109,Greenhill OG,Owen Gao,1529.964
-110,Strake Jesuit  Ayaan Yakoob,Ayaan Yakoob,1529.948
+110,Strake Jesuit Ayaan Yakoob,Ayaan Yakoob,1529.948
 111,Harrison Atharv Gandhi,Atharv Gandhi,1529.922
 112,Southlake Carroll Ibraheem Mushtaq,Ibraheem Mushtaq,1529.893
 113,Sunny Hills Independent JK,Jonah Kim,1528.761
 114,Harvard-Westlake EY,Elijah Yguado,1526.384
 115,Marlborough EF,Elili Flore,1526.348
 116,Dougherty Valley Independent SL,Stanley Liu,1526.311
-117,Strake Jesuit  MZ,Matthew Zong,1525.744
+117,Strake Jesuit MZ,Matthew Zong,1525.744
 118,Palo Alto YZ,Yihan Zhao,1525.675
 119,Lake Highland Prep AD,Amitav Dalal,1525.662
 120,Harvard-Westlake OF,Owen Fua,1525.218
@@ -138,7 +138,7 @@ Rank,School,Name,Elo
 137,Mission San Jose SL,Siddharth Lagisetty,1514.016
 138,Phillips Exeter Independent TH,Tesu Ham,1513.718
 139,Southlake Carroll AT,Adhvay Thummalakunta,1513.145
-140,Russellville HS - Russellville, AR MM,Madison Mckown,1512.687
+140,Russellville HS - Russellville AR MM,Madison Mckown,1512.687
 141,Greenhill VT,Vivek Thankavel,1512.682
 142,Southlake Carroll TB,Trevor Bean,1512.54
 143,Marlborough AK,Alisha Kim,1512.464
@@ -163,17 +163,17 @@ Rank,School,Name,Elo
 162,Harker RL,Ryan Lin,1507.856
 163,Bronx Science AM,Amira Miller,1507.719
 164,Harker Ryan Lin,Ryan Lin,1507.26
-165,Strake Jesuit  Soluchi Aneji,Soluchi Aneji,1507.22
+165,Strake Jesuit Soluchi Aneji,Soluchi Aneji,1507.22
 166,Harker Aman Ahmed,Aman Ahmed,1507.035
 167,Lexington Kevin Zhang,Kevin Zhang,1506.838
 168,Riverside Independent PK,Princeton Kang,1506.755
 169,Portola JL,Jayden Lee,1506.474
 170,Milpitas AM,Aarav Mathur,1506.469
-171,Strake Jesuit  Nathan Fan,Nathan Fan,1506.447
+171,Strake Jesuit Nathan Fan,Nathan Fan,1506.447
 172,Dulles CZ,Claire Zhou,1506.402
-173,DuPont Manual HS    Youth Performing Arts AV,Aanya Veeranagoudar,1505.49
+173,DuPont Manual HS Youth Performing Arts AV,Aanya Veeranagoudar,1505.49
 174,Fulton Science AK,Adhiyan Karthikeyan,1505.375
-175,Strake Jesuit  Eric Xiong,Eric Xiong,1505.287
+175,Strake Jesuit Eric Xiong,Eric Xiong,1505.287
 176,James Logan EG,Eon Gu,1505.284
 177,Dougherty Valley Independent NM,NagaVikhyath Malineni,1505.257
 178,Peninsula AU,Ayan Uppal,1505.233
@@ -198,7 +198,7 @@ Rank,School,Name,Elo
 197,Needham Independent DC,Daniel Choi,1501.916
 198,Flintridge Prep ED,Ekam Dadwal,1501.839
 199,Pacific Collegiate JX,Jayden Xing,1501.766
-200,Strake Jesuit  AY,Ayaan Yakoob,1501.758
+200,Strake Jesuit AY,Ayaan Yakoob,1501.758
 201,Bronx Science ZY,Zuri Yaw Costello,1501.751
 202,Marlborough ST,Sara Tateshima,1501.473
 203,Eagan EM,Ethan Mann,1501.299
@@ -227,7 +227,7 @@ Rank,School,Name,Elo
 226,Geffen Academy of UCLA JP,Josephine Park,1500.599
 227,OC Policy Association NC,Natalie Chen,1500.59
 228,Marlborough MF,Maya Fischer,1500.555
-229,Strake Jesuit  SW,Samuel Wawi,1500.553
+229,Strake Jesuit SW,Samuel Wawi,1500.553
 230,Harrison GC,Gabriella Catanzariti,1500.55
 231,Millburn AK,Adyaan Kibria,1500.514
 232,Marlborough AL,Audrey Lohara,1500.36
@@ -241,7 +241,7 @@ Rank,School,Name,Elo
 240,Loyola Michael Romero,Michael Romero,1500.155
 241,West Des Moines Valley Dannick Nzimi,Dannick Nzimi,1500.104
 242,Iowa City West Advita Arora,Advita Arora,1500.102
-243,Strake Jesuit  FB,Franklin Barron,1500.092
+243,Strake Jesuit FB,Franklin Barron,1500.092
 244,Emerald AW,Advait Wankhede,1500.089
 245,Lynbrook RS,Rohin Saharoy,1500.075
 246,Colorado Academy Independent HJ,Hendrik Jordaan,1500.065
@@ -253,7 +253,7 @@ Rank,School,Name,Elo
 252,Plano West SB,Snehit Basu,1500.002
 253,Bellevue Youth EL,Emma Lu,1500.0
 254,Harvard-Westlake SL,Sydney Lee,1500.0
-255,Strake Jesuit  Benjamin Correa,Benjamin Correa,1499.999
+255,Strake Jesuit Benjamin Correa,Benjamin Correa,1499.999
 256,Lexington Ethan Le,Ethan Le,1499.999
 257,Harvard-Westlake HP,Hattie Pfanschmidt,1499.999
 258,Pingry Sophie Hao,Sophie Hao,1499.998
@@ -273,7 +273,7 @@ Rank,School,Name,Elo
 272,University AA,Avi Asur,1499.762
 273,University SS,Sam Streem,1499.757
 274,Iowa City West AA,Advita Arora,1499.705
-275,Strake Jesuit  DV,Diego Villareal,1499.509
+275,Strake Jesuit DV,Diego Villareal,1499.509
 276,McNeil KV,Kashyap Vadlamani,1499.467
 277,Notre Dame San Jose TB,Tara Balaji,1499.451
 278,Westwood AP,Aarya Patel,1499.45
@@ -287,7 +287,7 @@ Rank,School,Name,Elo
 286,Lexington KZ,Kevin Zhang,1499.187
 287,Marlborough KR,Kensi Renwick,1499.042
 288,West Des Moines Valley Judah Carpenter Hutchcroft,Judah Carpenter Hutchcroft,1498.968
-289,Strake Jesuit  Jonathan Yang,Jonathan Yang,1498.967
+289,Strake Jesuit Jonathan Yang,Jonathan Yang,1498.967
 290,Laurel CW,Claire Witalec,1498.96
 291,Clark Advanced Learning Center MG,Michael Guffin,1498.934
 292,West Des Moines Valley Seth Smith,Seth Smith,1498.889
@@ -349,7 +349,7 @@ Rank,School,Name,Elo
 348,Seven Lakes VS,Vladislav Shumskiy,1480.006
 349,Harvard-Westlake AR,Ayla Rahmani,1479.968
 350,Westridge KD,Katherine Duan,1479.889
-351,Strake Jesuit  SA,Soluchi Aneji,1479.749
+351,Strake Jesuit SA,Soluchi Aneji,1479.749
 352,Equality Independent VM,Vincent Melendez,1479.725
 353,Sid Batchu Independent SB,Sid Batchu,1479.678
 354,Lake Highland Prep SA,Sebastian Adam,1479.542

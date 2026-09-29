@@ -132,6 +132,7 @@ def write_to_csv(elos_list):
         name = " ".join(name.split())
         if name in ["Ece Eskici"]:
             continue
+        code = " ".join(code.replace(",", " ").split())
         record = str(counter) + "," + code + "," + name + "," + str(round(elo * 1000) / 1000) + "\n"
         rows += record
         if counter < 501:
