@@ -1,20 +1,21 @@
 """
-2026-2027 LD ELO rankings.
+2026-2027 PF ELO rankings.
 
 Pulls results from the Tabroom download_data API. After a tournament has
-published Varsity LD results, append it to TOURNAMENTS below in calendar
+published Varsity/Gold PF results, append it to TOURNAMENTS below in calendar
 order:
 
     {"name": "Grapevine", "tourn_id": 39477, "bid": 4},  # Quarterfinals
 
 Bid levels: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8).
-Optional event_id can pin the LD event if auto-detect is wrong.
-Competitors are identified by Tabroom entry_code (e.g. "Lynbrook JR"), not name.
+Optional event_id can pin the PF event if auto-detect is wrong.
+Teams are identified by Tabroom entry_code (e.g. "Nueva WM"), not names.
+Partner names are alphabetized for display (e.g. "McLaughlin & Wojin").
 
 Usage (from this directory):
-    python LDRankings.py
-    python LDRankings.py --refresh
-    python LDRankings.py --refresh-id 40342
+    python PFRankings.py
+    python PFRankings.py --refresh
+    python PFRankings.py --refresh-id 39477
 """
 
 import argparse
@@ -26,13 +27,12 @@ import tabroom
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CACHE_DIR = os.path.join(SCRIPT_DIR, "cache")
 
-# Append tournaments here after confirming Tabroom has published LD results.
+# Append tournaments here after confirming Tabroom has published PF results.
 TOURNAMENTS = [
-    {"name": "Loyola", "tourn_id": 40342, "bid": 4},  # Quarterfinals
     {"name": "Grapevine", "tourn_id": 39477, "bid": 4},  # Quarterfinals
-    {"name": "Season Opener", "tourn_id": 40313, "bid": 4},  # Quarterfinals
-    {"name": "Greenhill", "tourn_id": 40192, "bid": 8},  # Octofinals
-    {"name": "Mid America Cup", "tourn_id": 40918, "bid": 8},  # Octofinals
+    {"name": "Season Opener", "tourn_id": 40313, "bid": 8},  # Octofinals
+    {"name": "Stephen Stewart", "tourn_id": 33088, "bid": 4},  # Quarterfinals
+    {"name": "Mid America Cup", "tourn_id": 40918, "bid": 2},  # Semifinals
 ]
 
 K = 30
@@ -111,7 +111,7 @@ def add_tournament(tournament, refresh=False):
     bid = tournament["bid"]
     print(f"Adding {name} (tourn_id={tourn_id}, bid={bid})")
     data = tabroom.fetch_tournament(tourn_id, CACHE_DIR, refresh=refresh)
-    parsed = tabroom.parse_ld_tournament(data, event_id=tournament.get("event_id"))
+    parsed = tabroom.parse_pf_tournament(data, event_id=tournament.get("event_id"))
     print(
         f"  {parsed['event_name']}: "
         f"{len(parsed['prelims'])} prelim debates, "
@@ -130,22 +130,20 @@ def write_to_csv(elos_list):
         elo, name = elo_name[0], elo_name[1]
         counter += 1
         name = " ".join(name.split())
-        if name in ["Ece Eskici"]:
-            continue
         record = str(counter) + "," + code + "," + name + "," + str(round(elo * 1000) / 1000) + "\n"
         rows += record
         if counter < 501:
             top_500 += record
 
-    with open(os.path.join(SCRIPT_DIR, "LDRankings.csv"), "w") as handle:
+    with open(os.path.join(SCRIPT_DIR, "PFRankings.csv"), "w") as handle:
         handle.write(rows[:-1])
 
-    with open(os.path.join(SCRIPT_DIR, "LDRankings_top500.csv"), "w") as handle:
+    with open(os.path.join(SCRIPT_DIR, "PFRankings_top500.csv"), "w") as handle:
         handle.write(top_500[:-1])
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Compute 2026-2027 LD ELO rankings")
+    parser = argparse.ArgumentParser(description="Compute 2026-2027 PF ELO rankings")
     parser.add_argument(
         "--refresh",
         action="store_true",
@@ -171,4 +169,4 @@ if __name__ == "__main__":
 
     elos = sorted(elos_dict.items(), key=lambda item: item[1], reverse=True)
     write_to_csv(elos)
-    print(f"Wrote rankings for {len(elos_dict)} competitors")
+    print(f"Wrote rankings for {len(elos_dict)} teams")

@@ -1,4 +1,4 @@
-"""Fetch and parse Tabroom tournament JSON for LD rankings."""
+"""Fetch and parse Tabroom tournament JSON for PF rankings."""
 
 import json
 import os
@@ -12,10 +12,10 @@ MAX_FETCH_ATTEMPTS = 5
 BAD_GATEWAY_RETRY_SECONDS = 2
 
 EXCLUDED_EVENT = re.compile(
-    r"\b(jv|novice|ms|middle|junior\s+varsity|round\s+robin|rr)\b",
+    r"\b(jv|novice|ms|middle|junior\s+varsity|round\s+robin|rr|silver)\b",
     re.IGNORECASE,
 )
-PREFERRED_EVENT = ("varsity", "open", "championship", "toc")
+PREFERRED_EVENT = ("gold", "varsity", "open", "championship", "toc")
 PRELIM_TYPES = {"prelim", "highlow"}
 ELIM_TYPES = {"elim", "final"}
 
@@ -33,7 +33,7 @@ def fetch_tournament(tourn_id, cache_dir, refresh=False):
 
     url = DOWNLOAD_URL.format(tourn_id=tourn_id)
     request = urllib.request.Request(
-        url, headers={"User-Agent": "LDRankings/2026-2027"}
+        url, headers={"User-Agent": "PFRankings/2026-2027"}
     )
     raw = None
     for attempt in range(1, MAX_FETCH_ATTEMPTS + 1):
@@ -71,9 +71,9 @@ def _event_name(event):
     return str(event.get("name") or "").strip()
 
 
-def _is_ld_event(name):
+def _is_pf_event(name):
     lowered = name.lower()
-    if "ld" not in lowered and "lincoln" not in lowered:
+    if "pf" not in lowered and "public forum" not in lowered:
         return False
     if EXCLUDED_EVENT.search(lowered):
         return False
@@ -95,7 +95,7 @@ def _all_events(data):
     return events
 
 
-def find_ld_event(data, event_id=None):
+def find_pf_event(data, event_id=None):
     events = _all_events(data)
     if event_id is not None:
         for event in events:
@@ -103,11 +103,22 @@ def find_ld_event(data, event_id=None):
                 return event
         raise Exception(f"Event id {event_id} not found.")
 
-    matches = [event for event in events if _is_ld_event(_event_name(event))]
+    matches = [event for event in events if _is_pf_event(_event_name(event))]
     if not matches:
-        raise Exception("No Varsity LD event found.")
+        raise Exception("No Varsity PF event found.")
     matches.sort(key=lambda event: _event_preference(_event_name(event)))
     return matches[0]
+
+
+def normalize_pf_name(name):
+    """Alphabetize partner last names: 'Chavez & Bhattacharya' -> 'Bhattacharya & Chavez'."""
+    cleaned = str(name or "").replace("&nbsp;", "")
+    parts = [part.strip() for part in cleaned.split("&")]
+    parts = [part for part in parts if part]
+    if len(parts) >= 2:
+        parts = sorted(parts, key=str.lower)
+        return " & ".join(parts)
+    return " ".join(cleaned.split())
 
 
 def _winloss(ballot):
@@ -151,7 +162,7 @@ def _is_bye_section(section, by_side):
 def _side_entry(ballots):
     for ballot in ballots:
         code = ballot.get("entry_code")
-        name = ballot.get("entry_name")
+        name = normalize_pf_name(ballot.get("entry_name"))
         if code and name:
             return code, name
     return None, None
@@ -218,13 +229,14 @@ def _round_is_prelim(round_obj):
 
 
 def _add_entry(entries, code, name):
-    if code not in entries:
+    name = normalize_pf_name(name)
+    if code and name and code not in entries:
         entries[code] = [name, code]
 
 
-def parse_ld_tournament(data, event_id=None):
-    """Return entries, prelim debates, and elim rounds for the Varsity LD event."""
-    event = find_ld_event(data, event_id=event_id)
+def parse_pf_tournament(data, event_id=None):
+    """Return entries, prelim debates, and elim rounds for the Varsity PF event."""
+    event = find_pf_event(data, event_id=event_id)
     event_id_str = str(event.get("id"))
     entries = {}
 
@@ -232,10 +244,7 @@ def parse_ld_tournament(data, event_id=None):
         for entry in school.get("entries") or []:
             if str(entry.get("event")) != event_id_str:
                 continue
-            code = entry.get("code")
-            name = entry.get("name")
-            if code and name:
-                _add_entry(entries, code, name)
+            _add_entry(entries, entry.get("code"), entry.get("name"))
 
     prelims = []
     elims = []
