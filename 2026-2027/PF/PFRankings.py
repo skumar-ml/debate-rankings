@@ -33,6 +33,12 @@ TOURNAMENTS = [
     {"name": "Season Opener", "tourn_id": 40313, "bid": 8},  # Octofinals
     {"name": "Stephen Stewart", "tourn_id": 33088, "bid": 4},  # Quarterfinals
     {"name": "Mid America Cup", "tourn_id": 40918, "bid": 2},  # Semifinals
+    {"name": "Beehive Bonanza", "tourn_id": 40700, "bid": 1},  # Finals
+    {"name": "SSIS", "tourn_id": 40789, "bid": 1},  # Finals
+    {"name": "Marist Ivy", "tourn_id":39594, "bid": 1},  # Finals
+    {"name": "Bellaire", "tourn_id": 40228, "bid": 2},  # Semifinals
+    {"name" : "Yale" , "tourn_id": 38436, "bid": 8},  # Octofinals
+    {"name" : "Jack Howe" , "tourn_id": 40450, "bid": 8},  # Octofinals
 ]
 
 K = 30

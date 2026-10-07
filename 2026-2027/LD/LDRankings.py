@@ -33,6 +33,7 @@ TOURNAMENTS = [
     {"name": "Season Opener", "tourn_id": 40313, "bid": 4},  # Quarterfinals
     {"name": "Greenhill", "tourn_id": 40192, "bid": 8},  # Octofinals
     {"name": "Mid America Cup", "tourn_id": 40918, "bid": 8},  # Octofinals
+    {"name": "Yale", "tourn_id": 38436, "bid": 4},  # Quarterfinals
 ]
 
 K = 30
