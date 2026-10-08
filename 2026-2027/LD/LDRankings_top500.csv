@@ -18,484 +18,484 @@ Rank,School,Name,Elo
 17,Harrison SE,Sebastian Engle,1653.634
 18,Harker Ethan Xu,Ethan Xu,1651.955
 19,Strath Haven Noel Springer,Noel Springer,1645.993
-20,Bronx Science LS,Lili Sella,1644.672
-21,St Thomas CO,Craig O'Sullivan,1644.398
-22,Phillips Exeter Independent JM,James Moon,1642.491
-23,Harrison KI,Kevin Iwanski,1635.372
-24,Strake Jesuit Matthew Zong,Matthew Zong,1635.0
-25,Syosset AP,Anabella Pisapia De Marco,1626.875
-26,Edgemont Arjun Gupta,Arjun Gupta,1626.679
-27,Lynbrook JR,Jason Rong,1625.594
-28,Memorial AW,Adrienne Wang,1624.064
-29,Iowa City West Faisal Hamzeh,Faisal Hamzeh,1620.948
-30,Mountain View AW,Andrea Wong,1619.533
-31,Millburn VS,Vidushi Sinha,1618.603
-32,Vestavia Hills VZ,Veronica Zhang,1618.153
-33,Little Rock Central GT,Gabrielle Torrence,1616.886
-34,Strake Jesuit Jeffery Wei,Jeffery Wei,1615.59
-35,Strath Haven NS,Noel Springer,1612.501
-36,Vestavia Hills Veronica Zhang,Veronica Zhang,1607.009
-37,BASIS Silicon Valley VP,Vihaan Patel,1604.444
-38,Edgemont AG,Arjun Gupta,1603.296
-39,BASIS Silicon Valley JK,Jason Kuo,1602.971
-40,Harvard-Westlake AS,August Sone,1602.927
-41,Lynbrook AS,Angeline Su,1599.431
-42,New York State Independent AS,Avi Sawhney,1598.206
-43,Memorial BL,Brendan Liu,1595.153
-44,Montville AS,Ansh Shamdasani,1591.995
-45,Flintridge Prep CX,Colin Xiang,1591.951
-46,Clear Lake CW,Cathryn Wu,1590.836
-47,Harker NB,Nikhil Bawa,1590.378
-48,Southlake Carroll AB,Aarav Bollini,1588.838
-49,Harker Ishaan Dhillon-Patel,Ishaan Dhillon-Patel,1585.83
-50,Papaya Valley AA,Adit Agarwal,1584.779
-51,Harker AS,Arush Savla,1583.749
-52,Huang Independent HH,Han Huang,1582.704
-53,Mountain View CS,Christopher Shin,1581.93
-54,Isidore Newman DC,Dylan Carey,1581.515
-55,BASIS Chandler WI,Wareesha Islam,1581.079
-56,Harker JS,Jonathan Sun,1578.123
-57,Pingry SH,Sophie Hao,1573.876
-58,Riverside Independent SH,Shiwen Huang,1573.401
-59,Ridge HK,Himnish Koul,1572.583
-60,Loyola Thatcher Hartman,Thatcher Hartman,1572.356
-61,Brophy AP,Adrian Piel,1571.836
-62,BASIS Silicon Valley Jason Kuo,Jason Kuo,1571.566
-63,Valley Christian VX,Vanessa Xu,1570.398
-64,Strake Jesuit EX,Eric Xiong,1569.4
-65,Memorial ES,Evelyn Shao,1566.802
-66,Marlborough RB,Rory Baskin,1566.743
-67,Danville David Nemoianu,David Nemoianu,1564.26
-68,American Heritage Palm Beach NI,Nico Ignatowich,1562.753
-69,RFS Independent EW,Elliott Wildman,1562.598
-70,Danville Area DN,David Nemoianu,1562.117
-71,Lynbrook ST,Shrihan Thangam,1561.735
-72,American Heritage Broward CA,Cristina Alvarez,1558.278
-73,Independent Hamilton GJ,Grace Jiao,1558.191
-74,Harker EX,Ethan Xu,1558.05
-75,Ridge AM,Aakash Mehta,1556.415
-76,Rock Hill TI,Tilak Datta Iyer,1554.864
-77,Stuyvesant AQ,Alexis Qian,1553.906
-78,Cary Acad RP,Riley Powell,1552.832
-79,Lynbrook VK,Vihaan Kandala,1552.739
-80,McNeil JL,Joseph Lijoy,1552.381
-81,Sharks Independent KZ,Kevin Zhang,1552.08
-82,Wheatley AM,Ayan Mahajan,1550.326
-83,Jericho Unaffiliated LL,Lori Li,1550.315
-84,Durham GW,Gabriel Whangbo-Olvera,1549.154
-85,Harrison Kevin Iwanski,Kevin Iwanski,1549.07
-86,Lake Highland Prep AW,Adam Wayne,1548.553
-87,Bronx Science CH,Cooper Halpern,1547.93
-88,Plano West ZM,Zayd Mahmud,1547.566
-89,Dougherty Valley Independent PN,Pranav Narra,1547.02
-90,Holy Trinity Episcopal CH,Chance Hudson,1546.752
-91,Strake Jesuit Diego Villareal,Diego Villareal,1546.437
-92,Mountain Brook WR,Winston Rocque,1545.458
-93,Strake Jesuit KS,Kevin Song,1544.923
-94,Gunn SP,Sophia Parang,1544.508
-95,Horace Greeley CC,Chris Correia,1544.466
-96,Carlsbad GT,Graham Tipton,1542.561
-97,Tom Glenn JM,Jackson Meekma,1541.933
-98,Cary Acad TB,Teagan Bolt,1541.684
-99,American Heritage Broward RN,Roshni Nair,1540.164
-100,Harker Jackson Yue,Jackson Yue,1540.028
-101,Dougherty Valley Independent SV,Siddharth Vedam,1539.996
-102,Harvard-Westlake JW,Jacob Waxman,1539.828
-103,Strake Jesuit JW,Jeffery Wei,1539.191
-104,Brophy VW,Vincent Wang,1539.069
-105,Harker RG,Rohan Goyal,1538.76
-106,Hill SM,Sahith Mangu,1537.671
-107,Stuyvesant KS,Kiren Sitwala,1537.213
-108,Strake Jesuit LC,Lucas Chritah,1536.037
-109,Strake Jesuit NF,Nathan Fan,1535.74
-110,St John's WG,Wyatt Greenberg,1535.673
-111,Lake Highland Prep ZM,Zachary Morley,1534.307
-112,Bronx Science SS,Sarita Satynarayana,1534.226
-113,Harker LX,Luke Xing,1534.054
-114,Greenhill AN,Ali Naseem,1533.867
-115,Half Hollow Hills HS East MH,Mehreen Hunjan,1533.383
-116,University AH,Alex Huang,1532.991
-117,Lake Highland Prep NA,Neel Aparanji,1532.745
-118,Hunter AC,Aditya Carter,1532.603
-119,City Honors JB,Jacob Brace,1532.144
-120,Research Triangle KP,Karan Parekh,1531.683
-121,Millard North LT,Lucio Turco,1530.757
-122,Strake Jesuit Kevin Song,Kevin Song,1530.073
-123,Greenhill OG,Owen Gao,1529.964
-124,Strake Jesuit Ayaan Yakoob,Ayaan Yakoob,1529.948
-125,Harrison Atharv Gandhi,Atharv Gandhi,1529.922
-126,Southlake Carroll Ibraheem Mushtaq,Ibraheem Mushtaq,1529.893
-127,Sunny Hills Independent JK,Jonah Kim,1528.761
-128,Maccabees RS,Rachel Stein,1528.106
-129,Bronx Science AM,Amira Miller,1527.024
-130,Harvard-Westlake EY,Elijah Yguado,1526.384
-131,Marlborough EF,Elili Flore,1526.348
-132,Dougherty Valley Independent SL,Stanley Liu,1526.311
-133,Strake Jesuit MZ,Matthew Zong,1525.744
-134,Palo Alto YZ,Yihan Zhao,1525.675
-135,Lake Highland Prep AD,Amitav Dalal,1525.662
-136,Harvard-Westlake OF,Owen Fua,1525.218
-137,Brearley IL,Izzy Lee,1524.802
-138,Trinity Prep GP,Graham Paul,1524.725
-139,Archbishop Mitty AG,Ayush Gupta,1524.573
-140,Harrison AG,Atharv Gandhi,1524.237
-141,Danville DN,David Nemoianu,1524.198
-142,Flintridge Prep CK,Connor Kao,1524.055
-143,Monta Vista SC,Steven Chi,1523.733
-144,Fairmont Prep AW,Aaron Wang,1523.126
-145,Harker ID,Ishaan Dhillon-Patel,1519.249
-146,Eagan Nickole Lin,Nickole Lin,1519.091
-147,Strath Haven MC,Michael Chen,1517.735
-148,Meadows TB,Teighlor Bloyd,1516.44
-149,Gunn HS Independent IT,Ira Tiwary,1515.698
-150,Lexington NP,Noah Perry,1515.346
-151,Southlake Carroll IM,Ibraheem Mushtaq,1515.168
-152,Park City MS,Mia Sawyer,1514.467
-153,Sharks Independent KW,Kylin Wu,1514.231
-154,Phillips Exeter Independent GK,Gabriel Koh,1514.111
-155,Mission San Jose SL,Siddharth Lagisetty,1514.016
-156,Phillips Exeter Independent TH,Tesu Ham,1513.718
-157,Olentangy T,Tejas Sriram,1513.707
-158,Roslyn HH,Han Huang,1513.635
-159,Wooster CS,Cameron Stansifer,1513.189
-160,Southlake Carroll AT,Adhvay Thummalakunta,1513.145
-161,Russellville HS - Russellville AR MM,Madison Mckown,1512.687
-162,Greenhill VT,Vivek Thankavel,1512.682
-163,Southlake Carroll TB,Trevor Bean,1512.54
-164,Marlborough AK,Alisha Kim,1512.464
-165,Memorial AD,Anna Dong,1512.456
-166,Southlake Carroll Adhvay Thummalakunta,Adhvay Thummalakunta,1512.385
-167,Honor AS,Aryan Sharma,1512.207
-168,Immaculate Heart AE,Audrey Eckert,1512.166
-169,Marlborough DK,Daena Kim,1511.723
-170,Shipley Independent DM,Draco Ma,1511.525
-171,Cary Acad LM,Levin Ma,1511.333
-172,All Saints Episcopal School - Tyler ID,Isaac Dale,1511.106
-173,Harker JC,Jessie Cao,1509.714
-174,Immaculate Heart OA,Olivia Amir,1509.645
-175,Harrison JB,Jordan Blake,1509.533
-176,Westridge YW,Yuna Wu,1509.443
-177,Millard North Lucio Turco,Lucio Turco,1509.259
-178,Phillips Exeter Independent AD,Amber Deng,1508.472
-179,Grapevine IH,Isabella Hu,1508.236
-180,Flower Mound KK,Krish Kulkarni,1508.104
-181,Edgemont AP,Anya Pathak,1507.899
-182,Harker RL,Ryan Lin,1507.856
-183,Harker Ryan Lin,Ryan Lin,1507.26
-184,Strake Jesuit Soluchi Aneji,Soluchi Aneji,1507.22
-185,Scarsdale KL,Katherine Lin,1507.117
-186,Harker Aman Ahmed,Aman Ahmed,1507.035
-187,Lexington Kevin Zhang,Kevin Zhang,1506.838
-188,Riverside Independent PK,Princeton Kang,1506.755
-189,Portola JL,Jayden Lee,1506.474
-190,Milpitas AM,Aarav Mathur,1506.469
-191,Strake Jesuit Nathan Fan,Nathan Fan,1506.447
-192,Dulles CZ,Claire Zhou,1506.402
-193,West Des Moines Valley LV,Linni Vo,1506.113
-194,Loyola ED,Ethan Dumper,1506.1
-195,Newark Science SR,Stella Rodriguez,1505.69
-196,DuPont Manual HS Youth Performing Arts AV,Aanya Veeranagoudar,1505.49
-197,Strake Jesuit Eric Xiong,Eric Xiong,1505.287
-198,James Logan EG,Eon Gu,1505.284
-199,Dougherty Valley Independent NM,NagaVikhyath Malineni,1505.257
-200,Peninsula AU,Ayan Uppal,1505.233
-201,Princeton JZ,Jaden Zarate,1505.224
-202,Pinewood CA,Claire Au,1505.166
-203,Harker Stephen Gao,Stephen Gao,1505.103
-204,San Marino EC,Ethan Chow,1504.922
-205,Princeton Day MW,Maximus Wang,1504.452
-206,La Salle AR,Aiden Randolph,1504.358
-207,Northwood NC,Natalie Chen,1504.35
-208,RFS Independent JM,Jayveer Mehta,1503.664
-209,Harker JA,Jay Agarwal,1503.419
-210,Archbishop Mitty YS,Yatharth Sathya,1503.241
-211,Commonwealth JB,Julian Bernhoft,1503.057
-212,Peninsula SP,Stella Pellier,1502.981
-213,Dougherty Valley NM,NagaVikhyath Malineni,1502.969
-214,RFS Independent RA,Rishi Andhe,1502.94
-215,LAMP RK,Rahaf Kunnibhavi,1502.93
-216,Mountain Lakes IG,Ishaan Goyal,1502.783
-217,American Heritage Broward JG,Juley Guan,1502.772
-218,Olentangy NK,Netanya Kupari,1502.768
-219,LAMP JL,Jongwoo Lee,1502.679
-220,Iowa City West FH,Faisal Hamzeh,1502.48
-221,Millburn AK,Adyaan Kibria,1502.286
-222,Lake Highland Prep SM,Sanjana Mannepalli,1502.268
-223,Boerne Champion CW,Caleb Wells,1502.188
-224,Rye SV,Sahil Velamoor,1502.087
-225,Ridge TL,Thomas Li,1502.015
-226,Coppell MM,Mezi Mbanugo,1501.961
-227,Needham Independent DC,Daniel Choi,1501.916
-228,Flintridge Prep ED,Ekam Dadwal,1501.839
-229,Pacific Collegiate JX,Jayden Xing,1501.766
-230,Strake Jesuit AY,Ayaan Yakoob,1501.758
-231,Walpole RM,Ramu Muthukaruppan,1501.751
-232,Marlborough ST,Sara Tateshima,1501.473
-233,Bronx Science ZY,Zuri Yaw Costello,1501.403
-234,Half Hollow Hills HS East SP,Sophia Pane,1501.373
-235,Eagan EM,Ethan Mann,1501.299
-236,Southlake Carroll AA,Agasthya Akella,1501.298
-237,St Andrew's Episcopal MK,Melissa Khadivi,1501.257
-238,Lake Highland Prep SS,Shiva Sambandam,1501.241
-239,Winston Churchill TC,Teague Cantey,1501.236
-240,Hawken EB,Evan Bai,1501.235
-241,Harvard-Westlake SB,Sage Bonotto,1501.208
-242,Mountain Brook JB,James Burnette,1501.188
-243,Jericho Unaffiliated SS,Sylvia Song,1501.15
-244,LAMP Minjoo Kwak,Minjoo Kwak,1501.127
-245,Research Triangle Karan Parekh,Karan Parekh,1501.127
-246,Ridge AB,Aditya Bajaj,1501.107
-247,Stuyvesant EJ,Emily Johnson,1501.044
-248,Half Hollow Hills HS East ST,Spencer Tell,1500.985
-249,Cupertino Independent AC,Aarini Chadha,1500.894
-250,Mountain Brook SW,Sam Williams,1500.816
-251,Chaminade OS,Owen Sack,1500.799
-252,Harker JY,Jackson Yue,1500.664
-253,Eagan NL,Nickole Lin,1500.645
-254,Harker KA,Krish Arora,1500.624
-255,Bellaire ER,Ethan Reichek,1500.61
-256,McNeil AP,Anshul Pancholi,1500.608
-257,Peninsula JT,Jiayu Tang,1500.607
-258,Geffen Academy of UCLA JP,Josephine Park,1500.599
-259,OC Policy Association NC,Natalie Chen,1500.59
-260,Marlborough MF,Maya Fischer,1500.555
-261,Strake Jesuit SW,Samuel Wawi,1500.553
-262,Harrison GC,Gabriella Catanzariti,1500.55
-263,Belen Jesuit Prep LC,Lucas Conde,1500.51
-264,Loyola UT,Upton Ta-Beadle,1500.398
-265,Marlborough AL,Audrey Lohara,1500.36
-266,Dougherty Valley Independent MJ,Matthew Jacob,1500.331
-267,Peninsula JE,Jack Erikson,1500.314
-268,Immaculate Heart CO,Charlotte Obdrzalek-Souls,1500.295
-269,Lynbrook SV,Skanda Vasishta,1500.295
-270,Millburn SI,Sahana Iyer,1500.281
-271,Peninsula WJ,Wenxi Jiang,1500.276
-272,Scarsdale AR,Anushri Rana,1500.27
-273,Harvard-Westlake TK,Trevor Kim,1500.258
-274,Loyola Michael Romero,Michael Romero,1500.155
-275,Ridge MJ,Myesha Jain,1500.11
-276,West Des Moines Valley Dannick Nzimi,Dannick Nzimi,1500.104
-277,Iowa City West Advita Arora,Advita Arora,1500.102
-278,Strake Jesuit FB,Franklin Barron,1500.092
-279,Emerald AW,Advait Wankhede,1500.089
-280,Lynbrook RS,Rohin Saharoy,1500.075
-281,Colorado Academy Independent HJ,Hendrik Jordaan,1500.065
-282,Brophy AG,Adrish Gande,1500.058
-283,Ardsley Naumika Naresh,Naumika Naresh,1500.051
-284,Research Triangle Yadhu Bharath,Yadhu Bharath,1500.051
-285,Harvard-Westlake DK,Dylan Kaw,1500.036
-286,Mullen JS,Jack Simmons,1500.02
-287,Plano West SB,Snehit Basu,1500.002
-288,Bellevue Youth EL,Emma Lu,1500.0
-289,Harvard-Westlake SL,Sydney Lee,1500.0
-290,Strake Jesuit Benjamin Correa,Benjamin Correa,1499.999
-291,Lexington Ethan Le,Ethan Le,1499.999
-292,Harvard-Westlake HP,Hattie Pfanschmidt,1499.999
-293,Pingry Sophie Hao,Sophie Hao,1499.998
-294,Sacred Heart Atherton DM,Derek Meng,1499.991
-295,Marlborough JW,Joy Wei,1499.982
-296,Westwood AT,Ayushi Thakur,1499.981
-297,Westlake SB,Siyona Biswas,1499.968
-298,Loyola Cooper Kun,Cooper Kun,1499.958
-299,West Des Moines Valley Linni Vo,Linni Vo,1499.947
-300,Westwood DV,Diya Venkataragavan,1499.944
-301,Coppell JS,Jenani Sivamani,1499.927
-302,Monta Vista Steven Chi,Steven Chi,1499.896
-303,Eagan Ethan Mann,Ethan Mann,1499.891
-304,Valley Christian YN,Yohaan Narayanan,1499.868
-305,LAMP Jongwoo Lee,Jongwoo Lee,1499.829
-306,Bronx Science BM,Bernadette Mahoney,1499.824
-307,RFS Independent EE,Ennis Elferrane,1499.776
-308,University AA,Avi Asur,1499.762
-309,University SS,Sam Streem,1499.757
-310,Iowa City West AA,Advita Arora,1499.705
-311,Half Hollow Hills HS East LB,Layla Bleiweiss,1499.673
-312,Concord Carlisle JC,John Chien,1499.636
-313,Strake Jesuit DV,Diego Villareal,1499.509
-314,McNeil KV,Kashyap Vadlamani,1499.467
-315,Notre Dame San Jose TB,Tara Balaji,1499.451
-316,Westwood AP,Aarya Patel,1499.45
-317,James Logan AJ,Akhil Jalagam,1499.443
-318,Kinkaid CM,Chris Mo,1499.429
-319,JBS Law Magnet AF,Asher Fragapane,1499.429
-320,Westwood Aarya Patel,Aarya Patel,1499.382
-321,Marlborough CSa,Ceci Sanchez Gagerman,1499.367
-322,Marlborough SS,Sami Shapiro,1499.355
-323,Lexington VM,Vasily Morozov,1499.337
-324,Lexington KZ,Kevin Zhang,1499.187
-325,Newark Science ZC,Zoe Corporan-Pinto,1499.174
-326,Montville JA,Joshika Agnel Bestus,1499.045
-327,Marlborough KR,Kensi Renwick,1499.042
-328,West Des Moines Valley Judah Carpenter Hutchcroft,Judah Carpenter Hutchcroft,1498.968
-329,Strake Jesuit Jonathan Yang,Jonathan Yang,1498.967
-330,Laurel CW,Claire Witalec,1498.96
-331,Clark Advanced Learning Center MG,Michael Guffin,1498.934
-332,West Des Moines Valley Seth Smith,Seth Smith,1498.889
-333,Equality Independent SJ,Santiago Jimenez Butcher,1498.869
-334,San Marino CJ,Caden Jin,1498.772
-335,American Heritage Palm Beach AI,Angelina Isaac,1498.58
-336,Saratoga SG,Soham Garg,1498.389
-337,Walpole SP,Shaurya Panchal,1498.295
-338,Harrison Paige Bianchini,Paige Bianchini,1498.269
-339,Apple Valley ZC,Zachary Craig,1498.227
-340,Boston Latin AH,Abrielle Huang,1498.212
-341,Leland SS,Shivansh Sathya,1498.191
-342,American Heritage Palm Beach ES,Ella Shuter,1498.169
-343,Harker Krish Arora,Krish Arora,1498.149
-344,Lake Highland Prep AM,Aayan Malik,1498.073
-345,Westwood Ayushi Thakur,Ayushi Thakur,1497.922
-346,Harker LK,Leah Koo,1497.869
-347,Harker MS,Maggie Sun,1497.753
-348,Neenah OB,Olivia Bushman,1497.738
-349,Littleton MK,Maddie Kusner,1497.658
-350,Millard North Alexis Jamal,Alexis Jamal,1497.622
-351,Valley Christian EM,Ellie Mui,1497.622
-352,University KB,Karan Bahl,1497.557
-353,Harker BF,Benjamin Fu,1497.483
-354,Sandy Independent OS,Olivia Sandy,1497.363
-355,Syosset SC,Sofia Chen,1497.139
-356,Montgomery Blair OR,Olivia Ren,1496.414
-357,Westlake MH,Miranda He,1494.841
-358,Lake Highland Prep AB,Aarav Bansal,1494.703
-359,Harrison PB,Paige Bianchini,1494.277
-360,West Des Moines Valley AM,Abbie Miller,1492.008
-361,Holy Trinity Episcopal SP,Shanvi Patel,1491.882
-362,St John's DH,Daren Hu,1491.368
-363,Sage Hill SC,Sebastian Chang,1490.573
-364,Frazer LD,Leo Dudas,1490.512
-365,Marlborough CS,Chloe Swidler,1490.224
-366,Lexington CZ,Claire Zhang,1490.054
-367,Jericho Unaffiliated YG,Yifan Gao,1489.992
-368,St Mary's Hall VB,Veeraj Bajaj,1489.798
-369,West Des Moines Valley RS,Reighlee Sowden,1489.438
-370,Plano West NS,Natalia Souvalian,1489.393
-371,Marlborough GC,Gia Clarke,1489.393
-372,Eagan NB,Niveditha Bethi,1489.081
-373,North Allegheny SA,Sanjeev Arora,1488.998
-374,Harrison AC,Ashley Cho,1488.801
-375,Marlborough JK,Julia Kang,1488.78
-376,Stuyvesant EC,Ethan Chen,1488.444
-377,Millburn SK,Saumya Katariya,1485.878
-378,BASIS Phoenix VN,Vismai Nair,1484.455
-379,Acton-Boxborough SD,Siddharth Deshmukh,1484.036
-380,Marlborough EP,Ella Pishva,1483.44
-381,Bronx Science SF,Saide Feliz,1483.439
-382,John Cooper KL,Kevin Liu,1483.037
-383,Jericho Unaffiliated AL,Alice Liu,1482.511
-384,Bronx Science CL,Cynthia Li,1482.431
-385,Millard North AJ,Alexis Jamal,1482.37
-386,Eagan ML,Myan Ly,1482.186
-387,Able2Shine AF,Avery Feng,1482.024
-388,Brooklyn Technical NG,Nathaniel Georges,1481.964
-389,Leland AT,Alex Tang,1481.897
-390,Iowa City West VDu,Vivaan Dudeja,1481.674
-391,Sharks Independent JF,Jacob Fu,1481.639
-392,Lexington EL,Ethan Le,1481.289
-393,Colorado HJ,Hendrik Jordaan,1480.905
-394,Trinity Prep SH,Sami Haddadin,1480.768
-395,Able2Shine JX,justin xu,1480.695
-396,Mission San Jose AB,Anirudh Balaji,1480.691
-397,Able2Shine MS,Mason Sterling,1480.282
-398,Lexington RC,Ray Cui,1480.109
-399,Newark Science KR,Kevin Ramos,1480.037
-400,Marlborough ML,Mila Lanin,1480.032
-401,Seven Lakes VS,Vladislav Shumskiy,1480.006
-402,Hudson ZS,Zelin Shen,1479.997
-403,Harvard-Westlake AR,Ayla Rahmani,1479.968
-404,Strath Haven PK,Patrick Keefe,1479.89
-405,Westridge KD,Katherine Duan,1479.889
-406,Wheatley AMa,Ayman Mahajan,1479.859
-407,Hoover HC,Heena Carter,1479.777
-408,Strake Jesuit SA,Soluchi Aneji,1479.749
-409,Equality Independent VM,Vincent Melendez,1479.725
-410,Sid Batchu Independent SB,Sid Batchu,1479.678
-411,Lake Highland Prep SA,Sebastian Adam,1479.542
-412,Newark Science NB,Nalayna Bunion,1479.527
-413,Plano West TL,Tharon Lei,1479.477
-414,Tom Glenn HO,Holly O'Daniel,1479.453
-415,Jasper OS,Ojas Sonawane,1479.448
-416,Marlborough SK,Sarah Kim,1479.434
-417,Emerson AM,Ava Manning,1479.417
-418,Immaculate Heart VM,Vivian Molina,1479.414
-419,Premier Debate Academy LLC IA,Ilaria Allan,1479.409
-420,Plano East JN,Julia Nash,1479.383
-421,Marlborough EL,Elodie Lassere,1479.378
-422,Marlborough SR,Selvi Radia,1479.377
-423,Brooklyn Technical AG,Andrii Gubenko,1479.307
-424,Edgemont SS,Samrajya Singh,1479.233
-425,Marlborough SSh,Shani Shllaku,1479.129
-426,Marlborough CI,Carrara Ingersoll,1479.11
-427,Marlborough EB,Ella Bailey-Eisenberg,1479.109
-428,Marlborough CM,Clara Merchan,1479.091
-429,Peninsula NK,Noam Kail,1479.083
-430,Cypress AM,Aaron Mao,1479.081
-431,Youth Development Resource Center JL,Justin Li,1479.072
-432,Harvard-Westlake JL,Jaimee Lee,1479.064
-433,Hudson NS,Nadia Soljaga,1478.965
-434,Leland AK,Ananya Khandelwal,1478.939
-435,Tom Glenn MM,Manvi Merothiya,1478.937
-436,Westwood MB,Meileen Bulger,1478.936
-437,Pine View MA,Michael Ammirati,1478.92
-438,Acton-Boxborough AA,Aneesh Angadi,1478.909
-439,McDowell JR,Julia Rastatter,1478.889
-440,University AN,Andrew Noel,1478.884
-441,Southlake Carroll SA,Sneha Athipatla,1478.88
-442,Immaculate Heart ML,Mercer Lavietes,1478.849
-443,Webb LS,Lloyd Shin,1478.843
-444,McDowell CZ,Caleb Zhou,1478.823
-445,Greenhill GA,Gitanjali Agastya,1478.823
-446,Immaculate Heart SH,Semiah Huang,1478.823
-447,Dripping Springs AG,Annika Gillella,1478.808
-448,Sage Hill IH,Isabella Huang,1478.807
-449,Gunn IT,Ira Tiwary,1478.806
-450,Bellaire NP,Nathaniel Pate,1478.805
-451,Harvard-Westlake EO,Ellie Oh,1478.803
-452,Lynbrook SY,Siqi Yuan,1478.797
-453,Harker ASi,Alvin Siamwalla,1478.768
-454,Lexington SD,Sanjana Devarajan,1478.761
-455,Jasper JS,Joshua Shu,1478.587
-456,Hill SS,Sonali Sahai,1478.501
-457,West Des Moines Valley KH,Kate Hoerr,1478.323
-458,Syosset AH,Abigail Ho,1478.322
-459,Ridge SP,Sehyun Park,1478.314
-460,Dougherty Valley VV,Vidir Vasa,1478.309
-461,Dulles SK,Sanvi Kankatala,1478.238
-462,Immaculate Heart MY,Miya Yamato,1478.225
-463,Marlborough SC,Sofia Cwikla,1478.216
-464,Iowa City West VD,Vanya Dudeja,1478.2
-465,Marlborough SW,Sophie Weiss,1478.199
-466,Dulles DE,Diya Ethiraj,1478.196
-467,Peninsula EE,Eytan Ek,1478.178
-468,Millburn SB,Svara Buch,1478.079
-469,Chapin AF,Amelia Fox,1477.92
-470,William G. Enloe AN,Anvith Narayana,1477.893
-471,Harrison JA,Jazlah Ahmed,1477.807
-472,Trinity Prep SK,Srian Kondapalli,1477.679
-473,Canyon Crest JY,Jayden Yoon,1477.658
-474,Myers Park IL,Isabella Lore,1477.643
-475,Jasper EX,Ethan Xu,1477.587
-476,Lake Highland Prep SR,Suhana Ranawat,1477.43
-477,Lovett RS,Rhys Stieglitz,1477.207
-478,Harker AA,Aman Ahmed,1477.105
-479,Honor LC,Leslie Choi,1477.038
-480,Canyon Crest CD,Calista Ding,1476.827
-481,Walnut Grove Secondary JY,Chenyin Ye,1476.476
-482,Edgemont YA,Yuvraj Arora,1475.993
-483,Homestead Independent NK,Neil Khandekar,1475.768
-484,Louis D. Brandeis SR,Siddharth Rao,1475.401
-485,Lake Travis AS,Annika Shah,1474.985
-486,West Des Moines Valley DN,Dannick Nzimi,1474.897
-487,Stratford RR,Rhea Roy,1474.753
-488,Cupertino AS,Ayeshwarya Sisodia,1474.213
-489,Isidore Newman BD,Beauregard Dirks,1473.056
-490,Isidore Newman MM,Maxwell McBride,1472.96
-491,Harker Jason Kim,Jason Kim,1472.471
-492,Montgomery Blair Olivia Ren,Olivia Ren,1472.227
-493,Harrison Sebastian Engle,Sebastian Engle,1471.252
-494,Harker Aleesa Karim,Aleesa Karim,1471.185
-495,Loyola Thomas Corcoran,Thomas Corcoran,1471.152
-496,Stanford OHS Yi Jei Zhan,Yi Jei Zhan,1471.136
-497,Iowa City West Duru Akgun,Duru Akgun,1471.132
-498,Youth Development Resource Center Jingcheng Wang,Jingcheng Wang,1471.132
-499,West Des Moines Valley Reighlee Sowden,Reighlee Sowden,1471.085
-500,West Des Moines Valley Daniel Wang,Daniel Wang,1470.597
+20,Flintridge Prep CX,Colin Xiang,1645.43
+21,Bronx Science LS,Lili Sella,1644.672
+22,St Thomas CO,Craig O'Sullivan,1644.398
+23,Phillips Exeter Independent JM,James Moon,1642.491
+24,Harrison KI,Kevin Iwanski,1635.372
+25,Strake Jesuit Matthew Zong,Matthew Zong,1635.0
+26,Harvard-Westlake MR,Michael Reola,1632.598
+27,Mountain View CS,Christopher Shin,1631.389
+28,Syosset AP,Anabella Pisapia De Marco,1626.875
+29,Edgemont Arjun Gupta,Arjun Gupta,1626.679
+30,Lynbrook JR,Jason Rong,1625.594
+31,Memorial AW,Adrienne Wang,1624.064
+32,Iowa City West Faisal Hamzeh,Faisal Hamzeh,1620.948
+33,Mountain View AW,Andrea Wong,1619.533
+34,Millburn VS,Vidushi Sinha,1618.603
+35,Vestavia Hills VZ,Veronica Zhang,1618.153
+36,Little Rock Central GT,Gabrielle Torrence,1616.886
+37,Strake Jesuit Jeffery Wei,Jeffery Wei,1615.59
+38,Strath Haven NS,Noel Springer,1612.501
+39,Vestavia Hills Veronica Zhang,Veronica Zhang,1607.009
+40,BASIS Silicon Valley VP,Vihaan Patel,1604.444
+41,Edgemont AG,Arjun Gupta,1603.296
+42,BASIS Silicon Valley JK,Jason Kuo,1602.971
+43,Harvard-Westlake AS,August Sone,1602.927
+44,Sharks Independent KW,Kylin Wu,1601.75
+45,Lynbrook AS,Angeline Su,1599.431
+46,New York State Independent AS,Avi Sawhney,1598.206
+47,Memorial BL,Brendan Liu,1595.153
+48,Loyola TH,Thatcher Hartman,1594.805
+49,Montville AS,Ansh Shamdasani,1591.995
+50,Clear Lake CW,Cathryn Wu,1590.836
+51,Harker NB,Nikhil Bawa,1590.378
+52,Southlake Carroll AB,Aarav Bollini,1588.838
+53,Harker Ishaan Dhillon-Patel,Ishaan Dhillon-Patel,1585.83
+54,Harker EX,Ethan Xu,1585.69
+55,Papaya Valley AA,Adit Agarwal,1584.779
+56,Harker AS,Arush Savla,1583.749
+57,Huang Independent HH,Han Huang,1582.704
+58,Isidore Newman DC,Dylan Carey,1581.515
+59,BASIS Chandler WI,Wareesha Islam,1581.079
+60,Harker JS,Jonathan Sun,1578.123
+61,Pingry SH,Sophie Hao,1573.876
+62,Riverside Independent SH,Shiwen Huang,1573.401
+63,Ridge HK,Himnish Koul,1572.583
+64,Loyola Thatcher Hartman,Thatcher Hartman,1572.356
+65,Brophy AP,Adrian Piel,1571.836
+66,BASIS Silicon Valley Jason Kuo,Jason Kuo,1571.566
+67,Valley Christian VX,Vanessa Xu,1570.398
+68,Strake Jesuit EX,Eric Xiong,1569.4
+69,Memorial ES,Evelyn Shao,1566.802
+70,Marlborough RB,Rory Baskin,1566.743
+71,Danville David Nemoianu,David Nemoianu,1564.26
+72,American Heritage Palm Beach NI,Nico Ignatowich,1562.753
+73,RFS Independent EW,Elliott Wildman,1562.598
+74,Danville Area DN,David Nemoianu,1562.117
+75,Lynbrook ST,Shrihan Thangam,1561.735
+76,San Marino KH,Kaihann Hashimi,1561.576
+77,American Heritage Broward CA,Cristina Alvarez,1558.278
+78,Independent Hamilton GJ,Grace Jiao,1558.191
+79,Ridge AM,Aakash Mehta,1556.415
+80,Rock Hill TI,Tilak Datta Iyer,1554.864
+81,CorCan AR,Anna Luiza Rivelles,1554.016
+82,Stuyvesant AQ,Alexis Qian,1553.906
+83,Cary Acad RP,Riley Powell,1552.832
+84,Lynbrook VK,Vihaan Kandala,1552.739
+85,McNeil JL,Joseph Lijoy,1552.381
+86,Sharks Independent KZ,Kevin Zhang,1552.08
+87,Parker KW,Kenji Wetherell,1550.519
+88,Wheatley AM,Ayan Mahajan,1550.326
+89,Jericho Unaffiliated LL,Lori Li,1550.315
+90,Durham GW,Gabriel Whangbo-Olvera,1549.154
+91,Harrison Kevin Iwanski,Kevin Iwanski,1549.07
+92,Lake Highland Prep AW,Adam Wayne,1548.553
+93,Bronx Science CH,Cooper Halpern,1547.93
+94,Plano West ZM,Zayd Mahmud,1547.566
+95,Dougherty Valley Independent PN,Pranav Narra,1547.02
+96,Marlborough AL,Audrey Lohara,1546.88
+97,Holy Trinity Episcopal CH,Chance Hudson,1546.752
+98,Strake Jesuit Diego Villareal,Diego Villareal,1546.437
+99,Palo Alto YZ,Yihan Zhao,1546.275
+100,Mountain Brook WR,Winston Rocque,1545.458
+101,Peninsula AU,Ayan Uppal,1545.452
+102,Strake Jesuit KS,Kevin Song,1544.923
+103,Gunn SP,Sophia Parang,1544.508
+104,Horace Greeley CC,Chris Correia,1544.466
+105,Tom Glenn JM,Jackson Meekma,1541.933
+106,Cary Acad TB,Teagan Bolt,1541.684
+107,Harker LX,Luke Xing,1541.114
+108,American Heritage Broward RN,Roshni Nair,1540.164
+109,Harker Jackson Yue,Jackson Yue,1540.028
+110,Dougherty Valley Independent SV,Siddharth Vedam,1539.996
+111,Harvard-Westlake JW,Jacob Waxman,1539.828
+112,Strake Jesuit JW,Jeffery Wei,1539.191
+113,Brophy VW,Vincent Wang,1539.069
+114,Harker RG,Rohan Goyal,1538.76
+115,Marlborough EF,Elili Flore,1538.006
+116,Hill SM,Sahith Mangu,1537.671
+117,Stuyvesant KS,Kiren Sitwala,1537.213
+118,Strake Jesuit LC,Lucas Chritah,1536.037
+119,Strake Jesuit NF,Nathan Fan,1535.74
+120,St John's WG,Wyatt Greenberg,1535.673
+121,Lake Highland Prep ZM,Zachary Morley,1534.307
+122,Bronx Science SS,Sarita Satynarayana,1534.226
+123,Greenhill AN,Ali Naseem,1533.867
+124,Half Hollow Hills HS East MH,Mehreen Hunjan,1533.383
+125,Archbishop Mitty AG,Anika Goyal,1533.347
+126,University AH,Alex Huang,1532.991
+127,Lake Highland Prep NA,Neel Aparanji,1532.745
+128,Hunter AC,Aditya Carter,1532.603
+129,City Honors JB,Jacob Brace,1532.144
+130,Davis AF,Amelia Futey,1531.997
+131,Able2Shine MS,Mason Sterling,1531.74
+132,Research Triangle KP,Karan Parekh,1531.683
+133,Millard North LT,Lucio Turco,1530.757
+134,Marlborough SSh,Sami Shapiro,1530.433
+135,Cupertino AK,Andrew Kim,1530.398
+136,Immaculate Heart OA,Olivia Amir,1530.275
+137,Strake Jesuit Kevin Song,Kevin Song,1530.073
+138,Greenhill OG,Owen Gao,1529.964
+139,Strake Jesuit Ayaan Yakoob,Ayaan Yakoob,1529.948
+140,Harrison Atharv Gandhi,Atharv Gandhi,1529.922
+141,Southlake Carroll Ibraheem Mushtaq,Ibraheem Mushtaq,1529.893
+142,Sunny Hills Independent JK,Jonah Kim,1528.761
+143,San Marino EC,Ethan Chow,1528.465
+144,Maccabees RS,Rachel Stein,1528.106
+145,Immaculate Heart AE,Audrey Eckert,1527.222
+146,Bronx Science AM,Amira Miller,1527.024
+147,Harvard-Westlake EY,Elijah Yguado,1526.384
+148,Dougherty Valley Independent SL,Stanley Liu,1526.311
+149,Strake Jesuit MZ,Matthew Zong,1525.744
+150,Lake Highland Prep AD,Amitav Dalal,1525.662
+151,Harvard-Westlake OF,Owen Fua,1525.218
+152,Westridge YW,Yuna Wu,1525.077
+153,Brearley IL,Izzy Lee,1524.802
+154,Trinity Prep GP,Graham Paul,1524.725
+155,Harrison AG,Atharv Gandhi,1524.237
+156,Danville DN,David Nemoianu,1524.198
+157,Monta Vista SC,Steven Chi,1523.733
+158,Carlsbad GT,Graham Tipton,1523.244
+159,Harker JC,Jessie Cao,1522.557
+160,ParCit MS,Mia Sawyer,1521.999
+161,Marlborough AK,Alisha Kim,1520.215
+162,Cary Acad LM,Levin Ma,1520.187
+163,Harker ID,Ishaan Dhillon-Patel,1519.249
+164,Eagan Nickole Lin,Nickole Lin,1519.091
+165,Strath Haven MC,Michael Chen,1517.735
+166,WesHS LM,Luka Mishchenko,1517.075
+167,Meadows TB,Teighlor Bloyd,1516.44
+168,Gunn HS Independent IT,Ira Tiwary,1515.698
+169,Lexington NP,Noah Perry,1515.346
+170,Southlake Carroll IM,Ibraheem Mushtaq,1515.168
+171,Park City MS,Mia Sawyer,1514.467
+172,Phillips Exeter Independent GK,Gabriel Koh,1514.111
+173,Mission San Jose SL,Siddharth Lagisetty,1514.016
+174,Phillips Exeter Independent TH,Tesu Ham,1513.718
+175,Riverside Independent PK,Princeton Kang,1513.715
+176,Olentangy T,Tejas Sriram,1513.707
+177,Roslyn HH,Han Huang,1513.635
+178,Portola JL,Jayden Lee,1513.353
+179,Wooster CS,Cameron Stansifer,1513.189
+180,Southlake Carroll AT,Adhvay Thummalakunta,1513.145
+181,Russellville HS - Russellville AR MM,Madison Mckown,1512.687
+182,Greenhill VT,Vivek Thankavel,1512.682
+183,Alta JO,Jonathan Olsen,1512.62
+184,Southlake Carroll TB,Trevor Bean,1512.54
+185,Memorial AD,Anna Dong,1512.456
+186,Southlake Carroll Adhvay Thummalakunta,Adhvay Thummalakunta,1512.385
+187,Peninsula SP,Stella Pellier,1512.318
+188,Honor AS,Aryan Sharma,1512.207
+189,Harker JY,Jackson Yue,1512.074
+190,Marlborough DK,Daena Kim,1511.723
+191,Shipley Independent DM,Draco Ma,1511.525
+192,All Saints Episcopal School - Tyler ID,Isaac Dale,1511.106
+193,Alta CB,Coen Bradley,1510.754
+194,ParCit SV,Sammy Vogel,1510.675
+195,CorCan KP,Khloe Pixton,1510.448
+196,WesHS MZ,Meixin Zhuo,1510.436
+197,Alta MW,Michael Warnick,1510.296
+198,Parker SW,Sofia Williams,1510.293
+199,ParCit GC,Grace Canada,1510.284
+200,Harrison JB,Jordan Blake,1509.533
+201,Millard North Lucio Turco,Lucio Turco,1509.259
+202,Phillips Exeter Independent AD,Amber Deng,1508.472
+203,Grapevine IH,Isabella Hu,1508.236
+204,Skylin VZ,Vivien Zhang,1508.225
+205,Flower Mound KK,Krish Kulkarni,1508.104
+206,Edgemont AP,Anya Pathak,1507.899
+207,Harker RL,Ryan Lin,1507.856
+208,Harker Ryan Lin,Ryan Lin,1507.26
+209,Strake Jesuit Soluchi Aneji,Soluchi Aneji,1507.22
+210,Scarsdale KL,Katherine Lin,1507.117
+211,Harker Aman Ahmed,Aman Ahmed,1507.035
+212,Lexington Kevin Zhang,Kevin Zhang,1506.838
+213,Strake Jesuit Nathan Fan,Nathan Fan,1506.447
+214,Dulles CZ,Claire Zhou,1506.402
+215,Loyola EM,Youngwoong Min,1506.361
+216,West Des Moines Valley LV,Linni Vo,1506.113
+217,Loyola ED,Ethan Dumper,1506.1
+218,Archbishop Mitty YS,Yatharth Sathya,1506.085
+219,Newark Science SR,Stella Rodriguez,1505.69
+220,DuPont Manual HS Youth Performing Arts AV,Aanya Veeranagoudar,1505.49
+221,Flintridge Prep CK,Connor Kao,1505.343
+222,Strake Jesuit Eric Xiong,Eric Xiong,1505.287
+223,James Logan EG,Eon Gu,1505.284
+224,Dougherty Valley Independent NM,NagaVikhyath Malineni,1505.257
+225,Princeton JZ,Jaden Zarate,1505.224
+226,Harker Stephen Gao,Stephen Gao,1505.103
+227,Princeton Day MW,Maximus Wang,1504.452
+228,La Salle AR,Aiden Randolph,1504.358
+229,ModernBrain DL,Daniel Lu,1503.844
+230,Pinewood CA,Claire Au,1503.801
+231,RFS Independent JM,Jayveer Mehta,1503.664
+232,Harker JA,Jay Agarwal,1503.419
+233,Commonwealth JB,Julian Bernhoft,1503.057
+234,Dougherty Valley NM,NagaVikhyath Malineni,1502.969
+235,RFS Independent RA,Rishi Andhe,1502.94
+236,LAMP RK,Rahaf Kunnibhavi,1502.93
+237,Mountain Lakes IG,Ishaan Goyal,1502.783
+238,American Heritage Broward JG,Juley Guan,1502.772
+239,Olentangy NK,Netanya Kupari,1502.768
+240,LAMP JL,Jongwoo Lee,1502.679
+241,Iowa City West FH,Faisal Hamzeh,1502.48
+242,Northwood NC,Natalie Chen,1502.338
+243,Marlborough ST,Sara Tateshima,1502.332
+244,Millburn AK,Adyaan Kibria,1502.286
+245,Lake Highland Prep SM,Sanjana Mannepalli,1502.268
+246,Boerne Champion CW,Caleb Wells,1502.188
+247,Peninsula JT,Jiayu Tang,1502.101
+248,Rye SV,Sahil Velamoor,1502.087
+249,Ridge TL,Thomas Li,1502.015
+250,Coppell MM,Mezi Mbanugo,1501.961
+251,Needham Independent DC,Daniel Choi,1501.916
+252,Pacific Collegiate JX,Jayden Xing,1501.766
+253,Strake Jesuit AY,Ayaan Yakoob,1501.758
+254,Walpole RM,Ramu Muthukaruppan,1501.751
+255,Marlborough MF,Maya Fischer,1501.733
+256,Bright HS,Henry Slabbert,1501.62
+257,Harker DD,Derek Ding,1501.492
+258,Bronx Science ZY,Zuri Yaw Costello,1501.403
+259,Half Hollow Hills HS East SP,Sophia Pane,1501.373
+260,Eagan EM,Ethan Mann,1501.299
+261,Southlake Carroll AA,Agasthya Akella,1501.298
+262,St Andrew's Episcopal MK,Melissa Khadivi,1501.257
+263,Lake Highland Prep SS,Shiva Sambandam,1501.241
+264,Winston Churchill TC,Teague Cantey,1501.236
+265,Hawken EB,Evan Bai,1501.235
+266,Flintridge Prep ED,Ekam Dadwal,1501.219
+267,Harvard-Westlake SB,Sage Bonotto,1501.208
+268,Mountain Brook JB,James Burnette,1501.188
+269,Jericho Unaffiliated SS,Sylvia Song,1501.15
+270,LAMP Minjoo Kwak,Minjoo Kwak,1501.127
+271,Research Triangle Karan Parekh,Karan Parekh,1501.127
+272,Ridge AB,Aditya Bajaj,1501.107
+273,Stuyvesant EJ,Emily Johnson,1501.044
+274,Half Hollow Hills HS East ST,Spencer Tell,1500.985
+275,Cupertino Independent AC,Aarini Chadha,1500.894
+276,Mountain Brook SW,Sam Williams,1500.816
+277,Chaminade OS,Owen Sack,1500.799
+278,Eagan NL,Nickole Lin,1500.645
+279,Harker KA,Krish Arora,1500.624
+280,Bellaire ER,Ethan Reichek,1500.61
+281,McNeil AP,Anshul Pancholi,1500.608
+282,Geffen Academy of UCLA JP,Josephine Park,1500.599
+283,OC Policy Association NC,Natalie Chen,1500.59
+284,Strake Jesuit SW,Samuel Wawi,1500.553
+285,Harrison GC,Gabriella Catanzariti,1500.55
+286,Belen Jesuit Prep LC,Lucas Conde,1500.51
+287,Loyola UT,Upton Ta-Beadle,1500.398
+288,Dougherty Valley Independent MJ,Matthew Jacob,1500.331
+289,Peninsula JE,Jack Erikson,1500.314
+290,Lynbrook SV,Skanda Vasishta,1500.295
+291,Millburn SI,Sahana Iyer,1500.281
+292,Peninsula WJ,Wenxi Jiang,1500.276
+293,Scarsdale AR,Anushri Rana,1500.27
+294,Harvard-Westlake TK,Trevor Kim,1500.258
+295,Loyola Michael Romero,Michael Romero,1500.155
+296,Ridge MJ,Myesha Jain,1500.11
+297,West Des Moines Valley Dannick Nzimi,Dannick Nzimi,1500.104
+298,Iowa City West Advita Arora,Advita Arora,1500.102
+299,Strake Jesuit FB,Franklin Barron,1500.092
+300,Emerald AW,Advait Wankhede,1500.089
+301,Lynbrook RS,Rohin Saharoy,1500.075
+302,Colorado Academy Independent HJ,Hendrik Jordaan,1500.065
+303,Stockdale WP,William Plank,1500.059
+304,Brophy AG,Adrish Gande,1500.058
+305,Ardsley Naumika Naresh,Naumika Naresh,1500.051
+306,Research Triangle Yadhu Bharath,Yadhu Bharath,1500.051
+307,Harvard-Westlake DK,Dylan Kaw,1500.036
+308,Mullen JS,Jack Simmons,1500.02
+309,CorCan NJ,Nickolaus Jolley,1500.012
+310,Plano West SB,Snehit Basu,1500.002
+311,Bellevue Youth EL,Emma Lu,1500.0
+312,Harvard-Westlake SL,Sydney Lee,1500.0
+313,Bright BW,Bryna Weigel,1500.0
+314,Strake Jesuit Benjamin Correa,Benjamin Correa,1499.999
+315,Lexington Ethan Le,Ethan Le,1499.999
+316,Harvard-Westlake HP,Hattie Pfanschmidt,1499.999
+317,Pingry Sophie Hao,Sophie Hao,1499.998
+318,Bright MC,Max Clark-Bradley,1499.996
+319,Parker NO,Nithera Olsen,1499.995
+320,Parker AL,Acacia Land,1499.994
+321,Sacred Heart Atherton DM,Derek Meng,1499.991
+322,Marlborough JW,Joy Wei,1499.982
+323,Westwood AT,Ayushi Thakur,1499.981
+324,Westlake SB,Siyona Biswas,1499.968
+325,Loyola Cooper Kun,Cooper Kun,1499.958
+326,West Des Moines Valley Linni Vo,Linni Vo,1499.947
+327,Westwood DV,Diya Venkataragavan,1499.944
+328,Bright LT,Laila Trease,1499.931
+329,Coppell JS,Jenani Sivamani,1499.927
+330,Skylin AL,Andy Lin,1499.912
+331,ModernBrain GC,Grace Chen,1499.905
+332,Monta Vista Steven Chi,Steven Chi,1499.896
+333,Eagan Ethan Mann,Ethan Mann,1499.891
+334,Valley Christian YN,Yohaan Narayanan,1499.868
+335,Weber AR,Alexander Rockwood,1499.85
+336,Herrim SK,Sadie Kogelschatz,1499.845
+337,ParCit AB,Aidan Bizirca,1499.833
+338,LAMP Jongwoo Lee,Jongwoo Lee,1499.829
+339,Bronx Science BM,Bernadette Mahoney,1499.824
+340,RFS Independent EE,Ennis Elferrane,1499.776
+341,University AA,Avi Asur,1499.762
+342,University SS,Sam Streem,1499.757
+343,Iowa City West AA,Advita Arora,1499.705
+344,Half Hollow Hills HS East LB,Layla Bleiweiss,1499.673
+345,Archbishop Mitty AM,Aadhya Mamillapalli,1499.663
+346,Concord Carlisle JC,John Chien,1499.636
+347,Strake Jesuit DV,Diego Villareal,1499.509
+348,McNeil KV,Kashyap Vadlamani,1499.467
+349,Notre Dame San Jose TB,Tara Balaji,1499.451
+350,Westwood AP,Aarya Patel,1499.45
+351,James Logan AJ,Akhil Jalagam,1499.443
+352,Kinkaid CM,Chris Mo,1499.429
+353,JBS Law Magnet AF,Asher Fragapane,1499.429
+354,Westwood Aarya Patel,Aarya Patel,1499.382
+355,Marlborough CSa,Ceci Sanchez Gagerman,1499.367
+356,Marlborough KR,Kensi Renwick,1499.355
+357,Lexington VM,Vasily Morozov,1499.337
+358,Peninsula KT,Khushee Totla,1499.247
+359,Lexington KZ,Kevin Zhang,1499.187
+360,Newark Science ZC,Zoe Corporan-Pinto,1499.174
+361,Montville JA,Joshika Agnel Bestus,1499.045
+362,West Des Moines Valley Judah Carpenter Hutchcroft,Judah Carpenter Hutchcroft,1498.968
+363,Strake Jesuit Jonathan Yang,Jonathan Yang,1498.967
+364,Laurel CW,Claire Witalec,1498.96
+365,Clark Advanced Learning Center MG,Michael Guffin,1498.934
+366,West Des Moines Valley Seth Smith,Seth Smith,1498.889
+367,Marlborough JS,Joey Snyder,1498.881
+368,Equality Independent SJ,Santiago Jimenez Butcher,1498.869
+369,San Marino CJ,Caden Jin,1498.772
+370,American Heritage Palm Beach AI,Angelina Isaac,1498.58
+371,Golden State JM,Jayveer Mehta,1498.55
+372,Saratoga SG,Soham Garg,1498.389
+373,Archbishop Mitty AGu,Ayush Gupta,1498.343
+374,Walpole SP,Shaurya Panchal,1498.295
+375,Harrison Paige Bianchini,Paige Bianchini,1498.269
+376,Apple Valley ZC,Zachary Craig,1498.227
+377,Boston Latin AH,Abrielle Huang,1498.212
+378,Leland SS,Shivansh Sathya,1498.191
+379,American Heritage Palm Beach ES,Ella Shuter,1498.169
+380,Harker Krish Arora,Krish Arora,1498.149
+381,ModernBrain BL,Boyu (Tony) Li,1498.097
+382,Lake Highland Prep AM,Aayan Malik,1498.073
+383,Sage Hill WL,William Lin,1497.948
+384,Westwood Ayushi Thakur,Ayushi Thakur,1497.922
+385,Harker LK,Leah Koo,1497.869
+386,Neenah OB,Olivia Bushman,1497.738
+387,Littleton MK,Maddie Kusner,1497.658
+388,Millard North Alexis Jamal,Alexis Jamal,1497.622
+389,Valley Christian EM,Ellie Mui,1497.622
+390,University KB,Karan Bahl,1497.557
+391,Harker BF,Benjamin Fu,1497.483
+392,Sandy Independent OS,Olivia Sandy,1497.363
+393,Syosset SC,Sofia Chen,1497.139
+394,Fairmont Prep AW,Aaron Wang,1497.099
+395,Montgomery Blair OR,Olivia Ren,1496.414
+396,ParCit DG,Dylan Galen,1494.861
+397,Westlake MH,Miranda He,1494.841
+398,Lake Highland Prep AB,Aarav Bansal,1494.703
+399,Bingha MA,Mina Ali,1494.535
+400,Harrison PB,Paige Bianchini,1494.277
+401,Loyola CK,Cooper Kun,1492.582
+402,Sage Hill SC,Sebastian Chang,1492.17
+403,West Des Moines Valley AM,Abbie Miller,1492.008
+404,Holy Trinity Episcopal SP,Shanvi Patel,1491.882
+405,Marlborough SS,Shani Shllaku,1491.775
+406,St John's DH,Daren Hu,1491.368
+407,Frazer LD,Leo Dudas,1490.512
+408,Harker MS,Maggie Sun,1490.291
+409,Marlborough CS,Chloe Swidler,1490.224
+410,Lexington CZ,Claire Zhang,1490.054
+411,Jericho Unaffiliated YG,Yifan Gao,1489.992
+412,St Mary's Hall VB,Veeraj Bajaj,1489.798
+413,Harker AA,Aman Ahmed,1489.693
+414,West Des Moines Valley RS,Reighlee Sowden,1489.438
+415,Marlborough JK,Julia Kang,1489.405
+416,GreCan DE,Dylan England,1489.401
+417,Layton LB,Levi Booth,1489.398
+418,Plano West NS,Natalia Souvalian,1489.393
+419,Marlborough GC,Gia Clarke,1489.393
+420,Alta HM,Harlow McCleery,1489.389
+421,Eagan NB,Niveditha Bethi,1489.081
+422,North Allegheny SA,Sanjeev Arora,1488.998
+423,Harrison AC,Ashley Cho,1488.801
+424,Stuyvesant EC,Ethan Chen,1488.444
+425,Cupertino AS,Ayeshwarya Sisodia,1487.482
+426,Millburn SK,Saumya Katariya,1485.878
+427,Immaculate Heart CO,Charlotte Obdrzalek-Souls,1485.752
+428,Clovis North ID,Isabelle D'Mello,1485.61
+429,Marlborough ML,Mila Lanin,1484.604
+430,Cary Acad KJ,Kevin Jiang,1484.509
+431,CorCan EK,Emaan Khan,1484.49
+432,BASIS Phoenix VN,Vismai Nair,1484.455
+433,Geffen Academy of UCLA LP,Lydia Park,1484.45
+434,Bingha DS,Darine Safeudien,1484.41
+435,ModernBrain AH,Alex Huang,1484.396
+436,Harker SL,Serena Li,1484.38
+437,Immaculate Heart SP,Simone Pessah,1484.187
+438,WesHS KS,Keshav Sainath - Iyengar,1484.097
+439,Acton-Boxborough SD,Siddharth Deshmukh,1484.036
+440,Marlborough EP,Ella Pishva,1483.44
+441,Bronx Science SF,Saide Feliz,1483.439
+442,John Cooper KL,Kevin Liu,1483.037
+443,Jericho Unaffiliated AL,Alice Liu,1482.511
+444,Bronx Science CL,Cynthia Li,1482.431
+445,Millard North AJ,Alexis Jamal,1482.37
+446,Denver East FN,Felix Nitczynski,1482.192
+447,Eagan ML,Myan Ly,1482.186
+448,Able2Shine AF,Avery Feng,1482.024
+449,Marlborough CI,Carrara Ingersoll,1482.004
+450,Brooklyn Technical NG,Nathaniel Georges,1481.964
+451,Leland AT,Alex Tang,1481.897
+452,Iowa City West VDu,Vivaan Dudeja,1481.674
+453,Sharks Independent JF,Jacob Fu,1481.639
+454,Lexington EL,Ethan Le,1481.289
+455,Colorado HJ,Hendrik Jordaan,1480.905
+456,Trinity Prep SH,Sami Haddadin,1480.768
+457,Able2Shine JX,justin xu,1480.695
+458,Mission San Jose AB,Anirudh Balaji,1480.691
+459,Marlborough SK,Sarah Kim,1480.673
+460,Lexington RC,Ray Cui,1480.109
+461,Newark Science KR,Kevin Ramos,1480.037
+462,Seven Lakes VS,Vladislav Shumskiy,1480.006
+463,Hudson ZS,Zelin Shen,1479.997
+464,Harvard-Westlake AR,Ayla Rahmani,1479.968
+465,Strath Haven PK,Patrick Keefe,1479.89
+466,Westridge KD,Katherine Duan,1479.889
+467,Wheatley AMa,Ayman Mahajan,1479.859
+468,Hoover HC,Heena Carter,1479.777
+469,Strake Jesuit SA,Soluchi Aneji,1479.749
+470,Equality Independent VM,Vincent Melendez,1479.725
+471,Sid Batchu Independent SB,Sid Batchu,1479.678
+472,Lake Highland Prep SA,Sebastian Adam,1479.542
+473,Newark Science NB,Nalayna Bunion,1479.527
+474,Plano West TL,Tharon Lei,1479.477
+475,Tom Glenn HO,Holly O'Daniel,1479.453
+476,Jasper OS,Ojas Sonawane,1479.448
+477,WesHS ND,Neha Dhanasekaran,1479.42
+478,Emerson AM,Ava Manning,1479.417
+479,Immaculate Heart VM,Vivian Molina,1479.414
+480,Premier Debate Academy LLC IA,Ilaria Allan,1479.409
+481,Plano East JN,Julia Nash,1479.383
+482,Marlborough EL,Elodie Lassere,1479.378
+483,Brooklyn Technical AG,Andrii Gubenko,1479.307
+484,Davis BS,Bells Schvaneveldt,1479.272
+485,Parker KH,Kiran Harmeling,1479.266
+486,Edgemont SS,Samrajya Singh,1479.233
+487,Marlborough EB,Ella Bailey-Eisenberg,1479.109
+488,CorCan TS,Taran Senthil,1479.101
+489,Marlborough CM,Clara Merchan,1479.091
+490,Peninsula NK,Noam Kail,1479.083
+491,Youth Development Resource Center JL,Justin Li,1479.072
+492,San Marino SH,Sanah Hashimi,1479.07
+493,Harvard-Westlake JL,Jaimee Lee,1479.064
+494,Hudson NS,Nadia Soljaga,1478.965
+495,Bingha CM,Collin Murphy,1478.953
+496,Leland AK,Ananya Khandelwal,1478.939
+497,Tom Glenn MM,Manvi Merothiya,1478.937
+498,Westwood MB,Meileen Bulger,1478.936
+499,Pine View MA,Michael Ammirati,1478.92
+500,Acton-Boxborough AA,Aneesh Angadi,1478.909
