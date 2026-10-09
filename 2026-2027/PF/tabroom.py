@@ -164,8 +164,8 @@ def _side_entry(ballots):
         code = ballot.get("entry_code")
         name = normalize_pf_name(ballot.get("entry_name"))
         if code and name:
-            return code, name
-    return None, None
+            return code, name, ballot.get("entry")
+    return None, None, None
 
 
 def _count_votes(by_side):
@@ -192,8 +192,8 @@ def _debate_from_section(section, is_elim):
     if _is_bye_section(section, by_side):
         return None
 
-    aff_code, aff_name = _side_entry(by_side[1])
-    neg_code, neg_name = _side_entry(by_side[2])
+    aff_code, aff_name, aff_entry = _side_entry(by_side[1])
+    neg_code, neg_name, neg_entry = _side_entry(by_side[2])
     if not aff_code or not neg_code:
         return None
 
@@ -204,8 +204,10 @@ def _debate_from_section(section, is_elim):
     debate = {
         "aff_code": aff_code,
         "aff_name": aff_name,
+        "aff_entry": aff_entry,
         "neg_code": neg_code,
         "neg_name": neg_name,
+        "neg_entry": neg_entry,
         "winner_is_aff": aff_votes > neg_votes,
     }
     if is_elim:
@@ -228,10 +230,42 @@ def _round_is_prelim(round_obj):
     return not round_obj.get("label")
 
 
-def _add_entry(entries, code, name):
+def _student_ids(raw):
+    """Stable Tabroom student ids for an entry. Order does not matter."""
+    ids = []
+    for student in raw or []:
+        if isinstance(student, dict):
+            student = student.get("id")
+        if student is None:
+            continue
+        text = str(student).strip()
+        if text:
+            ids.append(text)
+    return tuple(sorted(set(ids)))
+
+
+def _index_entries(data):
+    by_id = {}
+    for school in data.get("schools") or []:
+        for entry in school.get("entries") or []:
+            entry_id = entry.get("id")
+            if entry_id is None:
+                continue
+            by_id[str(entry_id)] = _student_ids(entry.get("students"))
+    return by_id
+
+
+def _add_entry(entries, code, name, students=()):
     name = normalize_pf_name(name)
-    if code and name and code not in entries:
-        entries[code] = [name, code]
+    if not code or not name:
+        return
+    students = tuple(students or ())
+    current = entries.get(code)
+    if current is None:
+        entries[code] = {"name": name, "code": code, "students": students}
+        return
+    if not current["students"] and students:
+        current["students"] = students
 
 
 def parse_pf_tournament(data, event_id=None):
@@ -239,12 +273,18 @@ def parse_pf_tournament(data, event_id=None):
     event = find_pf_event(data, event_id=event_id)
     event_id_str = str(event.get("id"))
     entries = {}
+    by_id = _index_entries(data)
 
     for school in data.get("schools") or []:
         for entry in school.get("entries") or []:
             if str(entry.get("event")) != event_id_str:
                 continue
-            _add_entry(entries, entry.get("code"), entry.get("name"))
+            _add_entry(
+                entries,
+                entry.get("code"),
+                entry.get("name"),
+                _student_ids(entry.get("students")),
+            )
 
     prelims = []
     elims = []
@@ -256,8 +296,10 @@ def parse_pf_tournament(data, event_id=None):
             debate = _debate_from_section(section, is_elim=not is_prelim)
             if not debate:
                 continue
-            _add_entry(entries, debate["aff_code"], debate["aff_name"])
-            _add_entry(entries, debate["neg_code"], debate["neg_name"])
+            aff_students = by_id.get(str(debate.pop("aff_entry")), ())
+            neg_students = by_id.get(str(debate.pop("neg_entry")), ())
+            _add_entry(entries, debate["aff_code"], debate["aff_name"], aff_students)
+            _add_entry(entries, debate["neg_code"], debate["neg_name"], neg_students)
             debates.append(debate)
 
         if is_prelim:

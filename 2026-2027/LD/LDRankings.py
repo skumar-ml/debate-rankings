@@ -9,7 +9,9 @@ order:
 
 Bid levels: Finals (1), Semifinals (2), Quarterfinals (4), Octofinals (8).
 Optional event_id can pin the LD event if auto-detect is wrong.
-Competitors are identified by Tabroom entry_code (e.g. "Lynbrook JR"), not name.
+Competitors are identified by Tabroom student id, so one debater stays one
+row when a tournament changes the entry code (e.g. "Loyola TH" and
+"Loyola Thatcher Hartman"). The entry code is still what gets printed.
 
 Usage (from this directory):
     python LDRankings.py
@@ -43,6 +45,34 @@ K = 30
 elos_dict = {}
 
 
+def _identity(entry):
+    """Student id when Tabroom has one; otherwise the entry code."""
+    students = entry.get("students") or ()
+    if students:
+        return tuple(students)
+    return ("code", entry["code"])
+
+
+def _save(elos_dict, entry, elo):
+    key = _identity(entry)
+    name = " ".join(str(entry["name"]).split())
+    code = " ".join(str(entry["code"]).replace(",", " ").split())
+    previous = elos_dict.get(key)
+    if previous:
+        if len(previous[2]) <= len(code):
+            code = previous[2]
+        if len(previous[1]) > len(name):
+            name = previous[1]
+    elos_dict[key] = [elo, name, code]
+
+
+def _load(elos_dict, entry):
+    key = _identity(entry)
+    if key in elos_dict:
+        return elos_dict[key][0]
+    return 1500
+
+
 def add_prelims(parsed, elos_dict, bid):
     """Add prelim debates to the rankings."""
     teams_dict = parsed["entries"]
@@ -54,22 +84,15 @@ def add_prelims(parsed, elos_dict, bid):
             team1, team2 = teams_dict[team1], teams_dict[team2]
         except KeyError:
             continue
-        code1, code2 = team1[1], team2[1]
-        try:
-            elo_team1 = elos_dict[code1][0]
-        except KeyError:
-            elo_team1 = 1500
-        try:
-            elo_team2 = elos_dict[code2][0]
-        except KeyError:
-            elo_team2 = 1500
+        elo_team1 = _load(elos_dict, team1)
+        elo_team2 = _load(elos_dict, team2)
         elo_diff = elo_team1 - elo_team2
         win_prob = 1.0 / (math.pow(10.0, (-elo_diff / 400.0)) + 1.0)
         shift = K * (1 - win_prob) * ((bid / 8) ** 0.5)
         elo_team1 += shift
         elo_team2 -= shift
-        elos_dict[code1] = [elo_team1, team1[0]]
-        elos_dict[code2] = [elo_team2, team2[0]]
+        _save(elos_dict, team1, elo_team1)
+        _save(elos_dict, team2, elo_team2)
     return elos_dict
 
 
@@ -85,15 +108,8 @@ def add_elims(parsed, elos_dict, bid):
                 team1, team2 = teams_dict[team1], teams_dict[team2]
             except KeyError:
                 continue
-            code1, code2 = team1[1], team2[1]
-            try:
-                elo_team1 = elos_dict[code1][0]
-            except KeyError:
-                elo_team1 = 1500
-            try:
-                elo_team2 = elos_dict[code2][0]
-            except KeyError:
-                elo_team2 = 1500
+            elo_team1 = _load(elos_dict, team1)
+            elo_team2 = _load(elos_dict, team2)
             elo_diff = elo_team1 - elo_team2
             win_prob = 1.0 / (math.pow(10.0, (-elo_diff / 400.0)) + 1.0)
             shift = K * (1 - win_prob) * ((bid / 8) ** 0.5)
@@ -103,8 +119,8 @@ def add_elims(parsed, elos_dict, bid):
                 continue
             elo_team1 += shift + bid
             elo_team2 -= shift / 2
-            elos_dict[code1] = [elo_team1, team1[0]]
-            elos_dict[code2] = [elo_team2, team2[0]]
+            _save(elos_dict, team1, elo_team1)
+            _save(elos_dict, team2, elo_team2)
     return elos_dict
 
 
@@ -130,8 +146,8 @@ def write_to_csv(elos_list):
     rows = "Rank,School,Name,Elo\n"
     top_500 = "Rank,School,Name,Elo\n"
     counter = 0
-    for code, elo_name in elos_list:
-        elo, name = elo_name[0], elo_name[1]
+    for _key, elo_name in elos_list:
+        elo, name, code = elo_name
         counter += 1
         name = " ".join(name.split())
         if name in ["Ece Eskici"]:
