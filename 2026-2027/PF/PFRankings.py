@@ -30,6 +30,8 @@ import tabroom
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CACHE_DIR = os.path.join(SCRIPT_DIR, "cache")
 
+ # add_tournament("Georgetown", 40203, 1) # Could not identify the appropriate TOC division for PF
+ 
 # Append tournaments here after confirming Tabroom has published PF results.
 TOURNAMENTS = [
     {"name": "Grapevine", "tourn_id": 39477, "bid": 4},  # Quarterfinals
@@ -42,6 +44,10 @@ TOURNAMENTS = [
     {"name": "Bellaire", "tourn_id": 40228, "bid": 2},  # Semifinals
     {"name" : "Yale" , "tourn_id": 38436, "bid": 8},  # Octofinals
     {"name" : "Jack Howe" , "tourn_id": 40450, "bid": 8},  # Octofinals
+    {"name" : "Taiwan", "tourn_id": 37776, "bid": 1},  # Finals
+    {"name": "Nova Titan", "tourn_id": 40737, "bid": 1},  # Finals
+    {"name": "Nano Nagle", "tourn_id": 41249, "bid": 4},  # Quarterfinals
+    
 ]
 
 K = 30
