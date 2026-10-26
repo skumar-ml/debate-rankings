@@ -47,6 +47,8 @@ TOURNAMENTS = [
     {"name" : "Taiwan", "tourn_id": 37776, "bid": 1},  # Finals
     {"name": "Nova Titan", "tourn_id": 40737, "bid": 1},  # Finals
     {"name": "Nano Nagle", "tourn_id": 41249, "bid": 4},  # Quarterfinals
+    {"name": "New York City", "tourn_id": 39028, "bid": 8},  # Octofinals
+    {"name": "Laird Lewis", "tourn_id": 39489, "bid": 2},  # Semifinals
     
 ]
 

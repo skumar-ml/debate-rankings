@@ -39,6 +39,9 @@ TOURNAMENTS = [
     {"name": "Beehive Bonanza", "tourn_id": 40700, "bid": 1},  # Finals
     {"name": "Jack Howe", "tourn_id": 40450, "bid": 2},  # Semifinals
     {"name": "Nano Nagle", "tourn_id": 41249, "bid": 4},  # Quarterfinals
+    {"name": "Heart of Texas", "tourn_id": 40242, "bid": 8},  # Octofinals
+    {"name": "New York City Invitational", "tourn_id": 39028, "bid": 8},  # Octofinals
+    {"name": "Laird Lewis", "tourn_id": 39489, "bid": 1},  # Finals
 
 ]
 
