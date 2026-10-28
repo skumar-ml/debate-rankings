@@ -42,6 +42,7 @@ TOURNAMENTS = [
     {"name": "Heart of Texas", "tourn_id": 40242, "bid": 8},  # Octofinals
     {"name": "New York City Invitational", "tourn_id": 39028, "bid": 8},  # Octofinals
     {"name": "Laird Lewis", "tourn_id": 39489, "bid": 1},  # Finals
+    {"name": "JW Patterson", "tourn_id": 40089, "bid": 1},  # Finals
 
 ]
 
