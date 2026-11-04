@@ -51,6 +51,9 @@ TOURNAMENTS = [
     {"name": "Laird Lewis", "tourn_id": 39489, "bid": 2},  # Semifinals
     {"name": "Fullerton", "tourn_id": 41528, "bid": 1},  # Finals
     {"name": "Olympia International", "tourn_id": 41320, "bid": 1},  # Finals
+    {"name": "Florida Blue Key", "tourn_id": 38785, "bid": 8},  # Octofinals
+    {"name": "Michigan", "tourn_id": 40511, "bid": 1},  # Finals
+    {"name": "Tim Averill", "tourn_id": 40359, "bid": 2},  # semifinals
     
 ]
 
