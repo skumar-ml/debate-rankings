@@ -54,6 +54,10 @@ TOURNAMENTS = [
     {"name": "Florida Blue Key", "tourn_id": 38785, "bid": 8},  # Octofinals
     {"name": "Michigan", "tourn_id": 40511, "bid": 1},  # Finals
     {"name": "Tim Averill", "tourn_id": 40359, "bid": 2},  # semifinals
+    {"name": "Quarry Lane", "tourn_id": 40374, "bid": 1, "event_id": 383939},  # Finals; TOC & Junior Varsity
+    {"name": "Hockaday", "tourn_id": 39900, "bid": 1},  # Finals
+    {"name": "Silver Talon", "tourn_id": 40780, "bid": 1},  # Finals
+    {"name": "Apple Valley", "tourn_id": 38061, "bid": 4},  # Quarterfinals
     
 ]
 

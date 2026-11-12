@@ -45,6 +45,12 @@ TOURNAMENTS = [
     {"name": "JW Patterson", "tourn_id": 40089, "bid": 1},  # Finals
     {"name": "Florida Blue Key", "tourn_id": 38785, "bid": 4},  # Quarterfinals
     {"name": "Meadows", "tourn_id": 39906, "bid": 4},  # Quarterfinals
+    {"name": "Hockaday", "tourn_id": 39900, "bid": 1},  #  Finals
+    {"name": "Silver Talon", "tourn_id": 40780, "bid": 1},  # Finals
+    {"name": "Meadows", "tourn_id": 39906, "bid": 4},  # Quarterfinals
+    {"name": "Apple Valley", "tourn_id": 38061, "bid": 4},  # Quarterfinals
+    {"name": "Damus", "tourn_id": 40494, "bid": 2},  # Semifinals
+
 
 ]
 
