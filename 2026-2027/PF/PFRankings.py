@@ -58,7 +58,10 @@ TOURNAMENTS = [
     {"name": "Hockaday", "tourn_id": 39900, "bid": 1},  # Finals
     {"name": "Silver Talon", "tourn_id": 40780, "bid": 1},  # Finals
     {"name": "Apple Valley", "tourn_id": 38061, "bid": 4},  # Quarterfinals
-    
+    {"name": "Washington Warrior", "tourn_id": 40702, "bid": 1},  # Finals
+    {"name": "Badgerland", "tourn_id": 41067, "bid": 2},  # semifinals
+    {"name": "Katy Taylor", "tourn_id": 40866, "bid": 1},  # Finals
+    {"name": "Peach State", "tourn_id": 40761, "bid": 1},  # Finals
 ]
 
 K = 30

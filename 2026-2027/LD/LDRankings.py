@@ -50,6 +50,8 @@ TOURNAMENTS = [
     {"name": "Meadows", "tourn_id": 39906, "bid": 4},  # Quarterfinals
     {"name": "Apple Valley", "tourn_id": 38061, "bid": 4},  # Quarterfinals
     {"name": "Damus", "tourn_id": 40494, "bid": 2},  # Semifinals
+    {"name": "Badgerland", "tourn_id": 41067, "bid": 1},  # Finals
+    {"name": "Washington Warrior", "tourn_id": 40702, "bid": 1},  # Finals
 
 
 ]
