@@ -31,10 +31,12 @@ CSV_PATH = Path(__file__).with_name("LDRankings_top500.csv")
 COLLECTION_ID = "64cae4259ff94cbabafc5890"
 
 # Field slugs. "" skips that column. Name uses Webflow's built-in Name field.
+# dd_student is the DD Student switch: CSV "Y" turns it on, "N" turns it off.
 FIELD_SLUGS = {
     "rank": "rank",
     "school": "school",
     "elo": "elo",
+    "dd_student": "dd-student",
 }
 
 
@@ -68,6 +70,9 @@ def _rows():
                 fields[FIELD_SLUGS["school"]] = " ".join((row.get("School") or "").split())
             if FIELD_SLUGS["elo"]:
                 fields[FIELD_SLUGS["elo"]] = float(row["Elo"])
+            if FIELD_SLUGS["dd_student"]:
+                dd = " ".join((row.get("DD Student") or "").split()).upper()
+                fields[FIELD_SLUGS["dd_student"]] = dd == "Y"
             parsed.append({"name": name, "slug": item_slug(name, rank), "fields": fields})
             if len(parsed) == 500:
                 break

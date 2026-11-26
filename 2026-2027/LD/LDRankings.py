@@ -52,6 +52,8 @@ TOURNAMENTS = [
     {"name": "Damus", "tourn_id": 40494, "bid": 2},  # Semifinals
     {"name": "Badgerland", "tourn_id": 41067, "bid": 1},  # Finals
     {"name": "Washington Warrior", "tourn_id": 40702, "bid": 1},  # Finals
+    {"name": "Glenbrooks", "tourn_id": 39301, "bid": 8},  # Octofinals
+
 
 
 ]

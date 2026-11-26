@@ -62,10 +62,43 @@ TOURNAMENTS = [
     {"name": "Badgerland", "tourn_id": 41067, "bid": 2},  # semifinals
     {"name": "Katy Taylor", "tourn_id": 40866, "bid": 1},  # Finals
     {"name": "Peach State", "tourn_id": 40761, "bid": 1},  # Finals
+     {"name": "Villiger", "tourn_id": 39934, "bid": 2},  # semifinals
+    {"name": "Glenbrooks", "tourn_id": 39301, "bid": 8},  # octofinals
 ]
 
 K = 30
 elos_dict = {}
+
+
+def load_dd_roster():
+    """Names from PFCT-Roster.csv. The first field of each row is the student."""
+    path = os.path.join(SCRIPT_DIR, "PFCT-Roster.csv")
+    names = set()
+    with open(path, "r") as handle:
+        for line in handle:
+            name = " ".join(line.split(",")[0].split())
+            if not name or name == "Student Name":
+                continue
+            names.add(name)
+    return names
+
+
+dd_teams = load_dd_roster()
+
+
+def _is_dd_team(name, code):
+    """Y when the team name, entry code, or either partner is on the roster."""
+    if name in dd_teams or code in dd_teams:
+        return "Y"
+    partners = [part.strip() for part in name.split("&") if part.strip()]
+    partner_lasts = {part.split()[-1] for part in partners if part.split()}
+    for student in dd_teams:
+        if student in partners:
+            return "Y"
+        last = student.split()[-1] if student.split() else ""
+        if last and last in partner_lasts:
+            return "Y"
+    return "N"
 
 
 def _identity(entry):
@@ -166,15 +199,27 @@ def add_tournament(tournament, refresh=False):
 
 def write_to_csv(elos_list):
     """Write the rankings to CSV."""
-    rows = "Rank,School,Name,Elo\n"
-    top_500 = "Rank,School,Name,Elo\n"
+    rows = "Rank,School,Name,Elo,DD Student\n"
+    top_500 = "Rank,School,Name,Elo,DD Student\n"
     counter = 0
     for _key, elo_name in elos_list:
         elo, name, code = elo_name
         counter += 1
         name = " ".join(name.split())
         code = " ".join(code.replace(",", " ").split())
-        record = str(counter) + "," + code + "," + name + "," + str(round(elo * 1000) / 1000) + "\n"
+        dd = _is_dd_team(name, code)
+        record = (
+            str(counter)
+            + ","
+            + code
+            + ","
+            + name
+            + ","
+            + str(round(elo * 1000) / 1000)
+            + ","
+            + dd
+            + "\n"
+        )
         rows += record
         if counter < 501:
             top_500 += record

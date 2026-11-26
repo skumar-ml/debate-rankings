@@ -1,501 +1,501 @@
-Rank,School,Name,Elo
-1,College Prep FS,Falk & Sabnani,2048.675
-2,Fairmont Prep LS,Lunde & Shah,2004.667
-3,BASIS Phoenix PG,Grabel & Pehkonen,1906.589
-4,Fairmont Prep SP,Park & Seth,1899.742
-5,Emerald KG,Gabada & Karur-Parekh,1884.987
-6,Millburn SK,Kapur & Sinha,1819.044
-7,Strake Jesuit MM,Magon & Murthy,1813.978
-8,Nueva DY,D'Agostino & Yang,1812.921
-9,Acton-Boxborough EK,Eadala & Kozlov,1806.197
-10,Nueva IR,Iyer & Rong,1804.223
-11,Oakwood TT,Turk & Turk,1795.256
-12,Fairmont Prep JK,Ji & Kang,1791.744
-13,Stuyvesant DB,Bovenzi & Devery Michaelson,1783.608
-14,Dougherty Valley BT,Barodawala & Thacker,1764.279
-15,University CC,Chan & Chhabra,1756.237
-16,Marist SM,Mastella & Scherrer,1754.662
-17,Robinson BV,Borunda & Vidrine,1754.626
-18,Ridge LO,Li & Olesnyckyj,1751.338
-19,Lincoln-Sudbury CA,Ayala & Chen,1750.989
-20,Bergen SW,Song & Wadhera,1745.389
-21,College Prep JL,Jhaveri & Lee,1732.281
-22,Hunter CD,Chisholm & Deng,1728.044
-23,Harker LL,Le & Luo,1715.449
-24,Horace Mann SY,Subramanian & Yao,1713.434
-25,Oakwood HR,Harmon & Rosenfelt,1710.829
-26,Milpitas XP,Partha & Xie,1707.848
-27,Lawrenceville CM,Chidambaram & Miao,1707.017
-28,Fairmont Prep PP,Patel & Patel,1704.929
-29,Palm Harbor ML,Lawrence & Mrkva,1703.848
-30,Miramonte CC,Chen & Chung,1701.766
-31,Blake DS,Deng & Sosseh,1701.727
-32,BASIS Peoria KC,Cho & Kusurkar,1696.702
-33,Lake Highland Prep MA,Armoghan & Muppala,1692.005
-34,Acton-Boxborough ES,Ebbin & Shang,1691.08
-35,Richard Montgomery WY,Wei & Yuan,1687.194
-36,Pittsburgh Central Catholic DN,Dassanaike-Perera & Nagrath,1686.232
-37,Emerald RS,Ramalingam & Saravanan,1682.919
-38,Walton HS Independent KL,Kalra & Leger,1680.691
-39,VDA - Vancouver TZ,Tu & Zhou,1679.084
-40,Bellaire AC,Ahmed & Cheng,1678.337
-41,Christopher Columbus RC,Caram & Ross,1674.09
-42,Blake VP,Padmanabhan & Vora,1672.999
-43,Eden Prairie VD,Deep & Virdi,1670.046
-44,Arlington PC,Carman & Potere,1668.242
-45,McLean TL,Lowe & Thomas,1665.693
-46,Millburn CT,Chung & Tyagi,1662.518
-47,Newton South LP,Liang & Pang,1660.573
-48,University AS,Anwar & Samuels,1658.464
-49,National Debate Club (NDC) BP,Bose & Peddibhotla,1657.822
-50,College Prep BD,Beamer & Dhillon,1657.413
-51,Archbishop Mitty KC,Chakravarthy & Kwok,1656.779
-52,Independent Hamilton GD,Duan & Grewal,1656.411
-53,Bergen RZ,Ren & Zhang,1654.155
-54,Livingston BH,Baijal & Heifetz,1652.698
-55,Winston Churchill KF,Fan & Kella,1650.662
-56,Winchester YH,Han & Yang,1650.46
-57,James Logan SN,Nair & Sandhu,1648.536
-58,Strake Jesuit HJ,Hasan & Jumalon,1642.121
-59,Horace Mann SM,Minervini & Shah,1640.717
-60,Marist FT,Findley & Thakur,1640.397
-61,Wang Ai Independent WA,Ai & Wang,1637.102
-62,Iowa City West EA,Abudagga & El-Fadil,1636.888
-63,Emeral RH,Haile & Ramalingam,1636.128
-64,Summit MT,Mudgal & Tham,1634.169
-65,Robinson MW,Mulay & Walker,1632.611
-66,Taipei American CC,Chao & Chen,1632.527
-67,Archbishop Mitty SH,Huang & Shim,1632.148
-68,Arlington PZ,Potere & Zaganjori,1631.846
-69,NS Independent SZ,Shraytah & Ziv Petreanu,1627.727
-70,East Ridge VN,Namgung & Vijayakumar,1626.215
-71,McLean CL,Cai & Liu,1625.863
-72,Plano West HL,Harika & Liang,1625.18
-73,Dougherty Valley WK,Kummariguntla & Wu,1624.743
-74,Archbishop Mitty NV,Nair & Venkatraman,1622.909
-75,Nueva ZK,Kulkarni & Zhang,1622.293
-76,Summit AH,Arora & Huang,1617.226
-77,Stockdale DW,Deleon & Woodman,1616.409
-78,Harker AM,Ahuja & Miduthuri,1616.293
-79,Durham HE,Estigarribia & Hechema,1616.073
-80,Mission San Jose BP,Bhutoria & Pan,1614.503
-81,Colorado IM,Iyengar & Miller,1614.198
-82,Syosset MZ,Meng & Zhao,1613.754
-83,American PJ,Jyothis & Parikh,1610.019
-84,Strake Jesuit HS,Hill & Segraves,1608.869
-85,Emerald LX,Liao & Xu,1605.813
-86,Stuyvesant XC,Chanda & Xu,1605.036
-87,Leland MR,Madhav & Rao,1604.997
-88,Legacy Prep VZ,Volkov & Zhao,1604.612
-89,Nueva WM,McLaughlin & Wojin,1599.896
-90,Lakeville North WK,Kosobud & Wells,1599.853
-91,Theodore Roosevelt HB,Baruri & Hollis,1599.794
-92,Head-Royce AB,Ahn & Bauer-Kahan,1599.68
-93,Horace Mann EC,Chang & Ergin,1598.912
-94,Livingston SZ,Shah & Zhang,1598.538
-95,Lexington LX,Li & Xia,1597.658
-96,NS Independent CK,Choudhury & Kapoor,1597.598
-97,Mira Loma GS,Gargas & Singh,1597.444
-98,National Debate Club (NDC) PH,Hong & Paul,1596.05
-99,Awty Honors BX,Brace & Xu,1595.127
-100,Westwood GA,Annamreddy & Guduru,1594.098
-101,Newton South Iris Ai & Audrey Wang,Ai & Wang,1592.806
-102,Thomas Wootton Independent PL,Lee & Parmar,1591.334
-103,Stratford WW,Wang & Wu,1588.999
-104,Westridge PK,Khoury & Pan,1588.989
-105,Newton North ZA,Aneja & Zheng,1588.893
-106,Taipei American BL,Bate Agborsangaya & Lin,1587.7
-107,Bhatt and Rao Independent BR,Bhatt & Rao,1586.742
-108,Lincoln East NS,Neamu & Suh,1586.741
-109,Gabrielino CF,Chung & Fern,1586.036
-110,Strake Jesuit KH,Hadi & Kirichenko,1585.205
-111,Acton-Boxborough MJ,Ji & Misro,1583.817
-112,Plano Senior SG,Garg & Shankar,1583.603
-113,Thomas S. Wootton WP,Parmar & Wu,1583.143
-114,McLean LG,Glass & Li,1582.979
-115,Choudhury Kapoor Independent CK,Choudhury & Kapoor,1582.569
-116,Bronx Science TT,Tan & Tsao,1581.428
-117,Acton-Boxborough GW,Gupta & Wu,1580.844
-118,Ridge GO,Ginsberg & Ostapczuk,1579.199
-119,Interlake Youlan Wang & Jingqi Li,Li & Wang,1578.92
-120,Regis FP,Feldman & Picciano,1578.29
-121,Mission San Jose SP,Pala & Sethuraman,1577.452
-122,Mustang SG,Gokaraju & Shamdasani,1577.119
-123,Newton South PW,Paltrowitz & Wang,1576.422
-124,Lexington RR,Raythatha & Revankar,1575.306
-125,Saratoga LJ,Julka & Liu,1574.599
-126,McLean KR,Kang & Rucker,1573.842
-127,James Bowie OV,Ozgun & Verghese,1573.39
-128,Lexington RK,Kasi & Roy,1573.159
-129,Acton-Boxborough WP,Pandey & Walia,1572.856
-130,Marist PZ,Powell & Zeigler,1572.585
-131,American Heritage Broward XM,Matos & Xia,1571.793
-132,Dougherty Valley KK,Kiran & Kummariguntla,1571.689
-133,Potomac AL,Ai & Lennard,1571.406
-134,Southlake Carroll Dharani & Subhash,Dharani & Subhash,1571.318
-135,Lexington ZS,Sawant & Zhao,1569.975
-136,Richland CH,Chalamalasetty & Hernandez,1569.798
-137,Potomac MS,Mankovsky & Shanmugam,1569.569
-138,Nueva YA,Arkin & Yi,1568.383
-139,Cambridge YK,Kim & Yang,1568.24
-140,Harker YL,Lin & Yuan,1567.536
-141,JR Masterman KK,Kelberg-Gross & Kelberg-Gross,1567.1
-142,East Ridge MV,Mahajan & Vijayakumar,1566.338
-143,Bergen HH,Hoshovsky & Hoshovsky,1565.596
-144,Nexus LK,Kalra & Leger,1564.343
-145,Taipei American LL,Lee & Lee,1564.323
-146,Fairmont Prep TN,Ngo & To,1564.18
-147,Scarsdale PA,Auerbach & Pascutti,1564.102
-148,Livingston GL,Gupta & Li,1562.627
-149,Nexus KC,Choudhury & Kapoor,1562.443
-150,Paul Laurence Dunbar VM,Mardini & Vaish,1562.17
-151,College Prep BR,Boscardin & Rees,1562.072
-152,Bronx Science SV,Sweet & Vora,1561.941
-153,Oakwood BK,Birnbaum & Kreilkamp,1561.056
-154,Jellyfish Independent YF,Fan & Yadav,1560.629
-155,Bob Jones EF,Edwards & Francis,1560.606
-156,Christopher Columbus GG,Gell & Gonzalez,1560.209
-157,Dougherty Valley RM,Mehta & Rawal,1560.19
-158,Bergen LC,Chen & Lee,1559.834
-159,Horace Mann VP,Pande & Venkateswaran,1559.704
-160,Strake Jesuit SK,Kyle & Saini,1558.502
-161,BASIS Peoria CK,Cho & Kim,1556.977
-162,Ransom Everglades CT,Cramer & Thurber,1556.85
-163,Bellaire KK,Khadse & Korampally,1555.519
-164,CR North KY,Kulshrestha & Ye,1555.358
-165,American Heritage Palm Beach SW,Shleifer & Wang,1555.248
-166,Plano West LY,Lee & Yang,1555.2
-167,Lincoln East NN,Neamu & Ng,1554.844
-168,Southlake Carroll ST,Subhash & Tamirisa,1554.624
-169,American MP,Maram & Pathuri,1553.831
-170,Strake Higgins & Villareal,Higgins & Villareal,1553.565
-171,Madison West BB,Benish & Bernstein,1553.13
-172,Westwood TL,Lim & Tran,1552.765
-173,Lakeville North SM,menon & shao,1552.371
-174,GreCan TS,Simper & Thompson,1551.657
-175,Lincoln East WP,Peterson & Williams,1551.315
-176,Carrollton QB,Brodsky & Quinonez,1551.275
-177,Lexington PR,Pokharna & Revankar,1551.253
-178,Lexington HH,Hassan & Hosamani,1550.517
-179,Campbell Hall BK,Bart & Kosloff,1550.201
-180,Dougherty Valley KR,Kiran & Ramanna,1550.063
-181,Westwood TV,Travkin & Vemula,1549.656
-182,Hunter SC,Celestin & Schonfeld,1549.621
-183,Langley KS,Kumar & Skvortsov,1549.265
-184,Eagan BV,Bonthala & Victor,1548.732
-185,Olympia CP,Cumberbatch & Parikh,1548.598
-186,Millburn HD,Dholakia & Huang,1547.808
-187,Jellyfish Independent LW,Li & Wang,1547.783
-188,Team Harbinger,Cao & Li,1547.463
-189,Cranbrook FZ,Feng & Zhou,1547.457
-190,Eden Prairie DB,Baroda & Deep,1547.373
-191,Stuyvesant HR,Harrington & Rajda,1546.788
-192,Plano West ZZ,Zhang & Zhao,1546.564
-193,VDA - Vancouver ZV,Volkov & Zhao,1545.859
-194,Taipei American LP,Lee & Pimentel,1545.803
-195,Hunter SA,Arora & Shah,1545.675
-196,Southlake Carroll GF,Farooqi & Golla,1545.515
-197,National Debate Club (NDC) RS,Ray & stoebner,1545.118
-198,Lambert SP,Paul & Sun,1545.052
-199,Emeral WG,Garg & Wankhede,1544.579
-200,Dougherty Valley HS Independent RK,Kiran & Ramanna,1544.506
-201,Nexus PW,Paltrowitz & Wang,1543.958
-202,Palm Harbor PG,Gupta & Popuri,1542.643
-203,Delbarton CD,Caravello & Dufner,1541.942
-204,Cary Acad PK,Kim & Parekh,1541.355
-205,Newton South TW,Thomas & Wang,1541.195
-206,Bergen SS,Singh & Song,1541.161
-207,Strake Jesuit CM,Chaffin & Moore,1539.885
-208,HAR Wells & Arain,Arain & Wells,1539.602
-209,Magnolia HJ,Huynh & Julakanti,1539.099
-210,Flintridge Prep OR,Ochoa & Robinson,1538.721
-211,Saratoga CZ,Chen & Zhao,1538.611
-212,Hunter SR,Rodriguez & Snodgrass,1538.569
-213,Olympia WS,Senatus & Williams,1537.756
-214,Bergen YL,Li & Yang,1537.501
-215,SFC VanDenTop & Johnson,Johnson & VanDenTop,1536.824
-216,Westlake SC,Cheema & Siraj,1536.753
-217,McLean HL,Hu & Lee,1536.256
-218,George Washington SY,Sheehan & Yaakobi,1536.214
-219,Leland YH,Harsh & Yin,1536.195
-220,Flintridge Prep LR,Liu & Rathi,1535.63
-221,SaiSou NL,Loh & Nguyen,1535.598
-222,SRV Independent TB,Barodawala & Thacker,1535.514
-223,SFJ Mayen & Hiruy,Hiruy & Mayen,1534.271
-224,Lincoln East NS,Ng & Suh,1533.817
-225,Nueva CW,Cedar & Wojin,1533.808
-226,Ridge PP,Pant & Pyloore,1533.774
-227,Lincoln East NP,Neamu & Peterson,1533.634
-228,Mountain View HK,Huang & Kim,1533.601
-229,Awty International XL,Lo & Xu,1533.486
-230,Ardrey Kell VS,Sureneni & Venkatachalam,1533.022
-231,Jellyfish Independent QY,Qiu & Yang,1532.887
-232,Acton-Boxborough ND,Dibya & Nambiar,1532.584
-233,Theodore Roosevelt MC,Chilongo & McIver,1532.422
-234,Cranbrook ZQ,Qian & Zhang,1532.297
-235,Taipei American CC,Chen & Chen,1532.249
-236,Blake SS,Silva & Smith,1532.242
-237,Cambridge DL,D'Souza & Lee,1532.11
-238,Southlake Carroll CT,Chelluri & Tummala,1532.071
-239,Bergen County Academies LP,Lee & Park,1531.767
-240,Lexington GB,Basu & Gillen,1530.504
-241,Alta WH,Henderson & Welch,1529.383
-242,RCS Birch & Burdick,Birch & Burdick,1528.87
-243,Richard Montgomery YM,Madia & Yu,1528.713
-244,Durham ND,Desai & Nanda,1528.474
-245,Strake Shatby & Gadin,Gadin & Shatby,1528.335
-246,Fairmont Prep NM,Milik & Ngo,1528.3
-247,Delbarton TT,Thomas & Thomas,1528.155
-248,Saratoga CV,Chen & Vu,1528.016
-249,Saigon South In MN,Mach & Nguyen,1527.991
-250,Livingston BR,Bhatt & Rao,1527.648
-251,Oxbridge VB,Bruneau & Vining,1527.249
-252,National Debate Club (NDC) ID,Dandekar & Iyengar,1527.057
-253,Nueva CC,Cedar & Cofino,1526.849
-254,Trinity WW,Wagner & Watts,1526.633
-255,Bellarmine VA,Arutla & Vijendran,1526.435
-256,Horace Mann EH,Ergin & Hussain,1526.428
-257,Ridge HS,Huang & Singh,1526.348
-258,SaiSou ZT,Tran & Zou,1526.064
-259,Bronx Science AB,Advani & Bermudez,1526.06
-260,Fairmont Prep GM,Ghaeli & Milik,1525.737
-261,Seven Lakes OW,Otieno & Wu,1525.501
-262,Summit SP,Patel & Shen,1525.351
-263,Bellarmine EJ,Ekanth & Jilani,1525.33
-264,Lawrenceville VA,Agarwal & Vattipulusu,1525.266
-265,New York State Independent CT,Chan & Tae,1525.253
-266,SaiSou TB,Bautista & Truong,1524.833
-267,Newton South LuSo,Lu & Song,1524.45
-268,Marist MB,Baldwin & Mastella,1523.649
-269,Fairmont Prep KC,Cho & Kan,1523.625
-270,Strake Barron & Xiong,Barron & Xiong,1523.531
-271,Lincoln East BN,Bobaru & Neamu,1523.395
-272,Horace Mann AP,Au & Pinchuk,1523.31
-273,Strake Jesuit DS,Donovan & Sadare,1523.258
-274,Arlington MC,Carman & Munoz Broder,1523.177
-275,Delbarton HD,Dufner & Hosler,1523.086
-276,Nueva CH,Chen & Hui,1523.042
-277,Nexus Mahajan & Baroda,Baroda & Mahajan,1523.015
-278,Cupertino XG,Gudala & Xiong,1522.729
-279,Lexington WM,Marri & Wang,1522.566
-280,Fairmont Prep LH,Harrison & Li,1522.541
-281,Cambridge YC,Chan & Yang,1522.474
-282,Lexington KG,Gillen & Kim,1522.416
-283,Stuyvesant AS,Advani & Shahbaz,1522.336
-284,Ransom Everglades CG,Chinoy & Gold,1522.062
-285,National Debate Club (NDC) RS,Rahemtulla & St. John,1521.757
-286,Durham RB,Bass & Rudolph,1521.73
-287,Archbishop Mitty DL,De Jesus & Lai,1521.335
-288,Summit SB,Borkar & Sood,1521.136
-289,Olympia PB,Nguyen & Phan,1521.06
-290,Eagan PS,Palanikumar & Simon,1520.656
-291,Bishop Moore Catholic NB,Brewer & Nadeau,1520.595
-292,Strake Jesuit PD,Davis & Pruneda Hernandez,1519.76
-293,Taipei American LL,Lee & Liu,1519.707
-294,Bergen County Academies LW,Lee & Wu,1519.669
-295,Delta WH,Hickson & Whitaker,1519.618
-296,St Mary's Hall JM,Jafferali & Manso,1519.476
-297,Colorado Academy Independent MI,Iyengar & Miller,1519.352
-298,Lambert School Independent SB,Baddela & Sood,1519.313
-299,Olympia MP,Meyers & Patel,1519.268
-300,Strake Jesuit LW,Li & Wang,1519.148
-301,Theodore Roosevelt NL,Larson & Narayanan,1519.082
-302,Olympia GG,Gopaul & Grace,1519.039
-303,Monte Vista HS Independent BM,Balaji & Muthuraman,1518.902
-304,Bronx Science CC,Comisarow & Croft,1518.86
-305,Horace Mann AD,Au & Desai,1518.804
-306,Cary Acad CS,Campbell & Shyamal,1518.778
-307,Orca Independent PR,Padwalkar & Ramaswamy,1518.676
-308,Ridgewood Independent ZY,Yang & Zhang,1518.633
-309,ModernBrain ZL,Lu & Zhang,1518.632
-310,Potomac NL,Lanke & Narang,1518.621
-311,Brentwood MW,Marassa & Wang,1518.482
-312,Jellyfish Independent WZ,Wu & Zheng,1518.045
-313,Plano West WX,Wang & Xie,1517.852
-314,Brother Rice BS,Barbat & Szura,1517.731
-315,Brooklyn Technical AS,Ademi & Sharma,1517.662
-316,Avenues: The World BY,Boinpally & Yi,1517.662
-317,NS Independent WT,Thomas & Wang,1517.642
-318,Cary Acad RK,Kantor & Rao,1517.38
-319,Delbarton HS,Hosler & Sardar,1517.203
-320,Lincoln Southwest KK,Kadiri & Keshk,1517.057
-321,ParCit DH,DuBois & Hadar,1516.998
-322,American Heritage Palm Beach ZG,Guan & Zhen,1516.556
-323,Southlake Carroll HR,Hussain & Reddy,1516.467
-324,Rock Ridge Independent UP,Paradkar & Uppalapati,1516.353
-325,Elko SP,Pond & Sholty,1516.235
-326,Mira Loma GK,Gundimeda & Kate,1516.225
-327,Regis CM,Cupido Carlorosi & Moszuti,1516.148
-328,Newsome SM,Mane & Surapuraju,1516.067
-329,Lynbrook XX,Xiong & Xu,1515.787
-330,HAR Berg & Mayland,Berg & Mayland,1515.749
-331,Dowling Catholic AC,Antezano & Chhatlani,1515.729
-332,Leland ST,Sathya & Tsai,1515.691
-333,Nexus Qiu & Yang,Qiu & Yang,1515.662
-334,Germantown Friends PJ,Jun & Park,1515.651
-335,McLean SK,Kim & Sandhu,1515.642
-336,Nexus KZ,Kapasi & Ziv Petreanu,1515.549
-337,Miramonte CC,Chung & Chung,1515.524
-338,Southlake Carroll CV,Chitra & Vishnukumar,1515.42
-339,Harbinger ZA,Abulikemu & Zou,1515.198
-340,McLean SG,Glass & Sandhu,1514.609
-341,Bellarmine KV,Kumar & Vish,1514.319
-342,HAR Sharma & Olinger,Olinger & Sharma,1514.285
-343,Durham DN,Del gaizo & Nanda,1514.188
-344,Grace Church FF,Fennessey & Fiszel,1513.978
-345,ABC Berg & Blackburn,Berg & Blackburn,1513.968
-346,BASIS Scottsdale BP,Batra & Pomatto,1513.823
-347,Valley Christian MC,Chen & Ma,1513.792
-348,Nightingale Bamford BS,Berggrun & Spiridakis,1513.767
-349,Carrollton NW,Neill & Walker,1513.652
-350,Plano West BK,Bhakkad & Kim,1513.624
-351,Bronx Science BM,Buchalter & Makino Siller,1513.465
-352,Oakwood FL,Fischer & Light,1513.41
-353,National Debate Club (NDC) ZV,Varada & Zhou,1513.404
-354,Cary Acad XT,Thomas & Xia,1513.37
-355,National Debate Club (NDC) MG,Ge & Ma,1513.337
-356,Stockdale CJ,Corona & Jiang,1513.088
-357,Langley SK,Killian & Shi,1512.938
-358,Saigon South In LN,Loh & Nguyen,1512.931
-359,Stuyvesant MS,Massim & Silakov,1512.809
-360,Newton South Independent AW,Ai & Wang,1512.509
-361,Jordan CJ,Chawla & Jahingir,1512.07
-362,Cambridge LT,Lee & Tang,1511.906
-363,McLean CL,Cai & Lowe,1511.771
-364,Westwood Shah & Puramandla,Puramandla & Shah,1511.489
-365,Midtown RW,Reed & Warrier,1511.478
-366,Lincoln East SJ,Jangala & Sathish,1511.316
-367,Olympia RM,Martin & Reed,1511.278
-368,Lexington CL,Chen & Liu,1511.093
-369,Thomas Jefferson HSST independent Loren Zhouyin & Joshua Umapat,Umapathi & Zhouyin,1511.067
-370,Southlake Carroll DT,Dharani & Tummala,1511.059
-371,Ascent WL,Lung & Wei,1510.749
-372,James Clemens GS,Gollapudi & Sivasenthil,1510.681
-373,Saigon South In YK,Kim & Yeseong,1510.609
-374,Saigon South In SJ,Jin & Sam,1510.601
-375,Dougherty Valley JC,Cheng & Jiang,1510.553
-376,Saigon South In PY,Ping & Yeh,1510.452
-377,Olympia PFA,Nguyen & Tristan,1510.288
-378,Regis MT,Moszuti & Tomeo,1510.153
-379,Durham DR,Desai & Rudolph,1510.125
-380,Hamilton BM,Bhaskarpandit & Midhe,1510.041
-381,Marvin Ridge DK,Dadhania & Kale,1509.761
-382,Lambert Vishesh Sood & Neev Paul,Paul & Sood,1509.739
-383,Hamilton DG,Duan & Grewal,1509.507
-384,Eden Ridge Independent BM,Baroda & Mahajan,1509.47
-385,Emerald BA,Aroun & Bhandari,1509.454
-386,College Prep FP,Fiman & Perkins,1509.404
-387,James Logan MJ,Juvekar & Mutti,1509.294
-388,Strake Jesuit SD,Davis & Srinivas,1509.224
-389,Brearley ST,Sahni & Tsesarsky,1509.149
-390,Delbarton LK,Kapp & Leidl,1509.12
-391,Flintridge Prep ZL,Liu & Zhang,1509.068
-392,Zhouyin and Umapathi Indepedent UZ,Umapathi & Zhouyin,1509.029
-393,Alta TC,Carlton & Thaut-Lavange,1508.948
-394,Davis WH,Hardy & Widdison,1508.925
-395,Bellaire CL,Chen & Lavi,1508.853
-396,College Prep BL,Boscardin & Lin,1508.853
-397,Gunn SK,Kabe & Swaminathan,1508.81
-398,Davis PR,Pulley & Roane,1508.789
-399,College Prep GY,Guan & Youman,1508.579
-400,Lincoln-Sudbury KS,Karmacharya & Sivaram,1508.54
-401,Archbishop Mitty YR,Raisinghani & Yang,1508.53
-402,Mountain Brook MH,Holden & Murphy,1508.504
-403,Dougherty Valley RJ,Jiang & Ramanna,1508.467
-404,Chapin ST,Spence & Trinh,1508.402
-405,CR North AA,Acereda & Acereda,1508.391
-406,Bellarmine PM,Mitra & Prasanna,1508.381
-407,Bronx Science PA,Advani & Park,1508.319
-408,American JD,Devarashetty & Jindal,1508.318
-409,Monte Vista HS Independent GV,Gajjar & Vasudeva,1508.303
-410,Leland DQ,Dubey & Qamar,1508.296
-411,Oxbridge VP,Poikane & Vining,1508.296
-412,Winchester BZ,Bernstein & Zhang,1508.279
-413,Archbishop Mitty CH,Chang & Han,1508.038
-414,American JS,Jindal & Sinu,1507.932
-415,Bronx Science GM,Greenberg & Mattoo,1507.893
-416,Cranbrook GE,Ezhil & Guo,1507.799
-417,Brooklyn Technical UK,Kakumanu & Urban,1507.735
-418,Arlington BR,Burke & Ryu,1507.706
-419,Chagrin Falls LS,Lyndall & Shein,1507.705
-420,Vel Phillips Memorial AS,Arianathan & Sadnoor,1507.682
-421,LEN Van Sickle & Sayler,Sayler & Van Sickle,1507.619
-422,Winchester AH,Apostadero & Hu,1507.573
-423,Harker BD,Bao & Du,1507.522
-424,Milpitas DN,Damaraju & Nguyen,1507.515
-425,Brearley AK,Agarwal & Kalaycioglu,1507.415
-426,Equality Independent ND,Davidowitz & Nabi,1507.363
-427,Bellarmine KE,Ekanth & Khurana,1507.329
-428,Marvin Ridge RD,Dasika & Ramakrishnan,1507.275
-429,Syosset HS,Huang & Sahu,1507.274
-430,Nexus Kapasi & Thomas,Kapasi & Thomas,1507.239
-431,Flintridge Prep DC,Chung & Ding,1507.229
-432,Stuyvesant ZZ,Zhang & Zheng,1507.124
-433,Nexus Fan & Yadav,Fan & Yadav,1507.124
-434,Oxbridge SM,Macias & Shrikhande,1507.075
-435,Newton South Independent KX,Kapasi & Xiong,1507.023
-436,Robinson PB,Baker & Panos,1506.851
-437,Summit LD,Davies & Liang,1506.813
-438,George Washington SS,Sawyer & Sheehan,1506.636
-439,Carrollton YL,Long & Yancey,1506.626
-440,Unionville MC,Cai & Mohapatra,1506.619
-441,Bronx Science LP,Leem & Pasman,1506.582
-442,LawS DP,Do Vuong Chinh & Phan,1506.573
-443,Taipei American SM,Ma & Shih,1506.53
-444,Magnolia NX,Nguyen & Xu,1506.416
-445,Brooks GP,Gopinath Mannar & Parhar,1506.329
-446,SaiSou LN,La & Nguyen,1506.31
-447,Canyon Crest PD,Ding & Peng,1506.221
-448,Robinson BM,Barna & Madabhushanam,1506.121
-449,Ransom Everglades SG,Geronemus & Sirinyan,1506.106
-450,Mission San Jose BM,Bhattiprolu & Mandala,1506.092
-451,Legacy Prep ZH,Heifetz & Zhao,1506.092
-452,Edina AG,Allocco & Gotte,1506.018
-453,Coppell SB,Balaji & Sanadi,1506.013
-454,Hun LT,Lee & Tran,1505.875
-455,Plano West JP,Jiang & Park,1505.783
-456,Ridge ZD,Doshi & Zhang,1505.759
-457,Bronx Science HZ,Hur & Zhou,1505.708
-458,Rhodes GK,Guan & Ko,1505.616
-459,Solon HS Independant BS,Balasundaram & Song,1505.602
-460,Millburn CT,Chung & Tyagi,1505.586
-461,Frist Institute CG,Chen & Ganesh,1505.454
-462,Milpitas ML,Lo & Mathur,1505.438
-463,Saigon South NM,Mach & Nguyen,1505.415
-464,Archbishop Mitty YN,Nair & Yang,1505.415
-465,Lambert VP,Patil & Verma,1505.397
-466,Montville AB,Arora & Barve,1505.384
-467,Denver East CM,Cavens & Mohare,1505.171
-468,Southlake Carroll MK,Karna & Mallampati,1505.171
-469,Newton South WX,Wang & Xiao,1505.142
-470,Southlake Carroll SI,Ingu & Shah,1505.081
-471,Nexus Tian & Wang,Tian & Wang,1505.04
-472,ParCit KF,Fellow & Kuck,1505.006
-473,Lincoln-Sudbury GW,Ghalib & Wang,1504.855
-474,Strake Jesuit Jo & Gao,Gao & Jo,1504.851
-475,Thomas Jefferson HSST independent Ray Tian & Benjamin Wang,Tian & Wang,1504.694
-476,Acton-Boxborough SV,Senani & Vatsa,1504.463
-477,Newton South CL,Castillo & Lin,1504.442
-478,College Prep SZ,Struyk & Zedlewski,1504.424
-479,Cary Acad AS,Almony & Soldevila,1504.406
-480,Newton South ZS,Shraytah & Ziv Petreanu,1504.397
-481,West Windsor Plainsboro South RW,Raut & Walia,1504.221
-482,Madison West AS,Auman & Sydnor,1504.205
-483,Chelmsford AR,Aman & Roy,1504.115
-484,Charlotte Latin BG,Berkovich & Gaddam,1504.091
-485,Harker GZ,Georgiev & Zhang,1504.067
-486,Chaska RS,Ray & Stoebner,1503.923
-487,Flintridge Prep RC,Chopra & Rathi,1503.873
-488,Los Altos LZ,Lee & Zhang,1503.861
-489,Medina Senior GC,Campbell & Gallagher,1503.825
-490,Browning BS,Brodlieb & Sadowski,1503.677
-491,Cypress Bay CP,Chittiprol & Pham,1503.602
-492,Bergen LS,Lee & Shen,1503.596
-493,Denver East AB,Abrams & Bograd,1503.559
-494,Sequoyah TS,Sriram & Thammana,1503.552
-495,Boston Latin LP,Li & Parsi,1503.499
-496,Cooper City PM,Meadows & Petrova-Woodard,1503.469
-497,Fairmont Prep CN,Chang & Ngo,1503.465
-498,La Salle LP,Lee & Posada-Awad,1503.455
-499,New Horizons LC,Carmona & Lugo,1503.389
-500,Midtown PB,Boland & Prince,1503.362
+Rank,School,Name,Elo,DD Student
+1,College Prep FS,Falk & Sabnani,2151.004,N
+2,Emerald KG,Gabada & Karur-Parekh,2031.72,N
+3,Fairmont Prep LS,Lunde & Shah,1977.502,N
+4,Fairmont Prep SP,Park & Seth,1917.305,N
+5,Millburn SK,Kapur & Sinha,1897.29,N
+6,Acton-Boxborough EK,Eadala & Kozlov,1849.555,N
+7,BASIS Phoenix PG,Grabel & Pehkonen,1844.89,N
+8,Arlington PC,Carman & Potere,1828.189,N
+9,Fairmont Prep JK,Ji & Kang,1823.877,N
+10,Stuyvesant DB,Bovenzi & Devery Michaelson,1818.253,N
+11,Strake Jesuit MM,Magon & Murthy,1813.978,N
+12,Nueva IR,Iyer & Rong,1804.223,N
+13,Taipei American CC,Chao & Chen,1796.826,N
+14,Oakwood TT,Turk & Turk,1795.256,N
+15,Ridge LO,Li & Olesnyckyj,1783.551,N
+16,Nueva DY,D'Agostino & Yang,1767.85,N
+17,Dougherty Valley BT,Barodawala & Thacker,1764.279,N
+18,Acton-Boxborough ES,Ebbin & Shang,1761.018,N
+19,Marist SM,Mastella & Scherrer,1754.662,N
+20,Palm Harbor ML,Lawrence & Mrkva,1753.632,N
+21,Robinson BV,Borunda & Vidrine,1750.766,N
+22,Bergen SW,Song & Wadhera,1745.389,N
+23,University CC,Chan & Chhabra,1745.224,N
+24,Horace Mann SY,Subramanian & Yao,1728.44,N
+25,Pittsburgh Central Catholic DN,Dassanaike-Perera & Nagrath,1728.064,N
+26,Lincoln-Sudbury CA,Ayala & Chen,1721.685,N
+27,Harker LL,Le & Luo,1715.449,N
+28,Oakwood HR,Harmon & Rosenfelt,1710.829,N
+29,Hunter CD,Chisholm & Deng,1709.084,N
+30,Milpitas XP,Partha & Xie,1707.848,N
+31,Christopher Columbus RC,Caram & Ross,1707.435,N
+32,Lawrenceville CM,Chidambaram & Miao,1707.017,N
+33,Blake DS,Deng & Sosseh,1701.727,N
+34,College Prep BD,Beamer & Dhillon,1698.756,N
+35,BASIS Peoria KC,Cho & Kusurkar,1696.702,N
+36,Lake Highland Prep MA,Armoghan & Muppala,1692.005,N
+37,Richard Montgomery WY,Wei & Yuan,1687.194,N
+38,Fairmont Prep PP,Patel & Patel,1686.106,N
+39,Emerald RS,Ramalingam & Saravanan,1682.919,N
+40,College Prep BR,Boscardin & Rees,1682.271,N
+41,Walton HS Independent KL,Kalra & Leger,1680.691,N
+42,VDA - Vancouver TZ,Tu & Zhou,1679.084,N
+43,Miramonte CC,Chen & Chung,1678.106,N
+44,College Prep JL,Jhaveri & Lee,1673.353,N
+45,Blake VP,Padmanabhan & Vora,1672.999,N
+46,Dougherty Valley KT,Kummariguntla & Thacker,1671.281,N
+47,Eden Prairie VD,Deep & Virdi,1670.046,N
+48,McLean TL,Lowe & Thomas,1665.693,N
+49,Millburn CT,Chung & Tyagi,1662.518,N
+50,Newton South LP,Liang & Pang,1660.573,N
+51,National Debate Club (NDC) BP,Bose & Peddibhotla,1657.822,N
+52,Ridge GO,Ginsberg & Ostapczuk,1656.799,N
+53,Archbishop Mitty KC,Chakravarthy & Kwok,1656.779,N
+54,Independent Hamilton GD,Duan & Grewal,1656.411,N
+55,Bergen RZ,Ren & Zhang,1654.155,N
+56,Bellaire AC,Ahmed & Cheng,1654.127,N
+57,East Ridge VN,Namgung & Vijayakumar,1653.701,N
+58,Livingston BH,Baijal & Heifetz,1652.698,N
+59,Winston Churchill KF,Fan & Kella,1650.662,N
+60,University AS,Anwar & Samuels,1650.495,N
+61,Winchester YH,Han & Yang,1650.46,N
+62,Strake Jesuit LW,Li & Wang,1641.971,N
+63,Horace Mann SM,Minervini & Shah,1640.717,N
+64,Marist FT,Findley & Thakur,1640.397,N
+65,Harker AM,Ahuja & Miduthuri,1637.364,N
+66,Wang Ai Independent WA,Ai & Wang,1637.102,N
+67,Iowa City West EA,Abudagga & El-Fadil,1636.888,N
+68,Horace Mann EC,Chang & Ergin,1636.469,N
+69,Summit MT,Mudgal & Tham,1634.169,N
+70,Robinson MW,Mulay & Walker,1632.611,N
+71,Emeral RH,Haile & Ramalingam,1632.026,N
+72,Arlington PZ,Potere & Zaganjori,1631.846,N
+73,Christopher Columbus GG,Gell & Gonzalez,1631.438,N
+74,Regis FP,Feldman & Picciano,1628.485,N
+75,NS Independent SZ,Shraytah & Ziv Petreanu,1627.727,N
+76,Plano West HL,Harika & Liang,1627.491,N
+77,Dougherty Valley WK,Kummariguntla & Wu,1624.743,N
+78,Archbishop Mitty NV,Nair & Venkatraman,1622.909,N
+79,McLean CL,Cai & Liu,1620.395,N
+80,Head-Royce AB,Ahn & Bauer-Kahan,1618.714,N
+81,Summit AH,Arora & Huang,1617.226,N
+82,Nueva ZK,Kulkarni & Zhang,1616.458,N
+83,Stockdale DW,Deleon & Woodman,1616.409,N
+84,Stuyvesant XC,Chanda & Xu,1616.319,N
+85,Durham HE,Estigarribia & Hechema,1616.073,N
+86,Mission San Jose BP,Bhutoria & Pan,1614.503,N
+87,Colorado IM,Iyengar & Miller,1614.198,N
+88,Syosset MZ,Meng & Zhao,1613.754,N
+89,American PJ,Jyothis & Parikh,1610.019,N
+90,Lexington HH,Hassan & Hosamani,1609.787,N
+91,Lexington RR,Raythatha & Revankar,1609.591,N
+92,Strake Jesuit HS,Hill & Segraves,1608.869,N
+93,BASIS Peoria SK,Kusurkar & Sumesh,1608.64,N
+94,Emerald LX,Liao & Xu,1605.813,N
+95,James Logan SN,Nair & Sandhu,1605.112,N
+96,Leland MR,Madhav & Rao,1604.997,N
+97,Legacy Prep VZ,Volkov & Zhao,1604.612,N
+98,McLean KR,Kang & Rucker,1603.013,N
+99,Richland CH,Chalamalasetty & Hernandez,1600.599,N
+100,Nueva WM,McLaughlin & Wojin,1599.896,N
+101,Lakeville North WK,Kosobud & Wells,1599.853,N
+102,Theodore Roosevelt HB,Baruri & Hollis,1599.794,N
+103,Livingston SZ,Shah & Zhang,1598.538,N
+104,NS Independent CK,Choudhury & Kapoor,1597.598,N
+105,Mira Loma GS,Gargas & Singh,1597.444,N
+106,Archbishop Mitty SH,Huang & Shim,1596.176,N
+107,National Debate Club (NDC) PH,Hong & Paul,1596.05,N
+108,Lexington LX,Li & Xia,1595.959,N
+109,Awty Honors BX,Brace & Xu,1595.127,N
+110,Westwood GA,Annamreddy & Guduru,1594.098,N
+111,Strake Jesuit KH,Hadi & Kirichenko,1592.861,N
+112,Newton South Iris Ai & Audrey Wang,Ai & Wang,1592.806,N
+113,Thomas Wootton Independent PL,Lee & Parmar,1591.334,N
+114,Bronx Science GY,Gu & Yi,1590.676,N
+115,Stratford WW,Wang & Wu,1588.999,N
+116,Newton North ZA,Aneja & Zheng,1588.893,N
+117,Taipei American BL,Bate Agborsangaya & Lin,1587.7,N
+118,Lexington RK,Kasi & Roy,1587.261,N
+119,Bhatt and Rao Independent BR,Bhatt & Rao,1586.742,N
+120,Gabrielino CF,Chung & Fern,1586.036,N
+121,Westwood TL,Lim & Tran,1585.977,N
+122,Horace Mann VP,Pande & Venkateswaran,1584.305,N
+123,Acton-Boxborough MJ,Ji & Misro,1583.817,N
+124,Plano Senior SG,Garg & Shankar,1583.603,N
+125,Thomas S. Wootton WP,Parmar & Wu,1583.143,N
+126,McLean LG,Glass & Li,1582.979,N
+127,Harker YL,Lin & Yuan,1582.764,N
+128,Choudhury Kapoor Independent CK,Choudhury & Kapoor,1582.569,N
+129,Bronx Science TT,Tan & Tsao,1581.428,N
+130,Dougherty Valley RM,Mehta & Rawal,1580.881,N
+131,Acton-Boxborough GW,Gupta & Wu,1580.844,N
+132,Bellaire KK,Khadse & Korampally,1580.23,N
+133,Interlake Youlan Wang & Jingqi Li,Li & Wang,1578.92,N
+134,Mission San Jose SP,Pala & Sethuraman,1577.452,N
+135,Plano West LY,Lee & Yang,1577.291,N
+136,Mustang SG,Gokaraju & Shamdasani,1577.119,N
+137,St Mary's Hall JM,Jafferali & Manso,1576.873,N
+138,Newton South PW,Paltrowitz & Wang,1576.422,N
+139,Saratoga LJ,Julka & Liu,1574.599,N
+140,Strake Jesuit HJ,Hasan & Jumalon,1574.299,N
+141,James Bowie OV,Ozgun & Verghese,1573.39,N
+142,Bronx Science AB,Advani & Bermudez,1573.309,N
+143,Acton-Boxborough WP,Pandey & Walia,1572.856,N
+144,Marist PZ,Powell & Zeigler,1572.585,N
+145,American Heritage Broward XM,Matos & Xia,1571.793,N
+146,Dougherty Valley KK,Kiran & Kummariguntla,1571.689,N
+147,Potomac AL,Ai & Lennard,1571.406,N
+148,Southlake Carroll Dharani & Subhash,Dharani & Subhash,1571.318,N
+149,Bronx Science BI,Branch & Isaacs,1570.121,N
+150,Plano West WX,Wang & Xie,1569.343,N
+151,Regis MT,Moszuti & Tomeo,1569.159,N
+152,Plano West ZZ,Zhang & Zhao,1569.06,N
+153,Cambridge YK,Kim & Yang,1568.24,N
+154,East Ridge MV,Mahajan & Vijayakumar,1566.338,N
+155,Walton KL,Kalra & Leger,1566.255,N
+156,Bergen HH,Hoshovsky & Hoshovsky,1565.596,N
+157,Nexus LK,Kalra & Leger,1564.343,N
+158,Fairmont Prep TN,Ngo & To,1564.18,N
+159,Scarsdale PA,Auerbach & Pascutti,1564.102,N
+160,BASIS Peoria CK,Cho & Kim,1563.83,N
+161,Livingston GL,Gupta & Li,1562.627,N
+162,Nexus KC,Choudhury & Kapoor,1562.443,N
+163,McLean HL,Hu & Lee,1562.174,N
+164,Paul Laurence Dunbar VM,Mardini & Vaish,1562.17,N
+165,Bronx Science SV,Sweet & Vora,1561.941,N
+166,Summit SB,Borkar & Sood,1561.481,N
+167,Oakwood BK,Birnbaum & Kreilkamp,1561.056,N
+168,Jellyfish Independent YF,Fan & Yadav,1560.629,N
+169,Bob Jones EF,Edwards & Francis,1560.606,N
+170,Bergen LC,Chen & Lee,1559.834,N
+171,Strake Jesuit SK,Kyle & Saini,1558.502,N
+172,Ransom Everglades CT,Cramer & Thurber,1556.85,N
+173,Lexington ZS,Sawant & Zhao,1555.597,N
+174,CR North KY,Kulshrestha & Ye,1555.358,N
+175,American Heritage Palm Beach SW,Shleifer & Wang,1555.248,N
+176,Lincoln East NN,Neamu & Ng,1554.844,N
+177,Southlake Carroll ST,Subhash & Tamirisa,1554.624,N
+178,JR Masterman KK,Kelberg-Gross & Kelberg-Gross,1554.398,N
+179,Cary Acad PK,Kim & Parekh,1554.064,N
+180,American MP,Maram & Pathuri,1553.831,N
+181,Strake Higgins & Villareal,Higgins & Villareal,1553.565,N
+182,Madison West BB,Benish & Bernstein,1553.13,N
+183,Lincoln East NS,Neamu & Suh,1552.957,N
+184,Theodore Roosevelt NL,Larson & Narayanan,1552.448,N
+185,Lakeville North SM,menon & shao,1552.371,N
+186,GreCan TS,Simper & Thompson,1551.657,N
+187,Lincoln East WP,Peterson & Williams,1551.315,N
+188,Carrollton QB,Brodsky & Quinonez,1551.275,N
+189,Lexington PR,Pokharna & Revankar,1551.253,N
+190,Campbell Hall BK,Bart & Kosloff,1550.201,N
+191,Westwood TV,Travkin & Vemula,1549.656,N
+192,Hunter SC,Celestin & Schonfeld,1549.621,N
+193,Langley KS,Kumar & Skvortsov,1549.265,N
+194,Eagan BV,Bonthala & Victor,1548.732,N
+195,Olympia CP,Cumberbatch & Parikh,1548.598,N
+196,Millburn HD,Dholakia & Huang,1547.808,N
+197,Jellyfish Independent LW,Li & Wang,1547.783,N
+198,Bronx Science MR,Malyukova & Rempe-Hiam,1547.717,N
+199,Team Harbinger,Cao & Li,1547.463,N
+200,Cranbrook FZ,Feng & Zhou,1547.457,N
+201,Eden Prairie DB,Baroda & Deep,1547.373,N
+202,Stuyvesant HR,Harrington & Rajda,1546.788,N
+203,Dougherty Valley KR,Kiran & Ramanna,1546.436,N
+204,VDA - Vancouver ZV,Volkov & Zhao,1545.859,N
+205,Hunter SA,Arora & Shah,1545.675,N
+206,Hunter SR,Rodriguez & Snodgrass,1545.531,N
+207,Southlake Carroll GF,Farooqi & Golla,1545.515,N
+208,National Debate Club (NDC) RS,Ray & stoebner,1545.118,N
+209,Lambert SP,Paul & Sun,1545.052,N
+210,Taipei American LL,Lee & Lee,1545.019,N
+211,Emeral WG,Garg & Wankhede,1544.579,N
+212,Dougherty Valley HS Independent RK,Kiran & Ramanna,1544.506,N
+213,Plano West BK,Bhakkad & Kim,1544.501,N
+214,Westridge PK,Khoury & Pan,1544.289,N
+215,Nexus PW,Paltrowitz & Wang,1543.958,N
+216,Palm Harbor PG,Gupta & Popuri,1542.643,N
+217,Boston Latin LP,Li & Parsi,1542.499,N
+218,Delbarton CD,Caravello & Dufner,1541.942,N
+219,Nueva CC,Cedar & Cofino,1541.739,N
+220,Newton South TW,Thomas & Wang,1541.195,N
+221,Bergen SS,Singh & Song,1541.161,N
+222,Phoenix Country Day AG,Aggarwal & Geyser,1539.914,N
+223,HAR Wells & Arain,Arain & Wells,1539.602,N
+224,Magnolia HJ,Huynh & Julakanti,1539.099,N
+225,Saratoga CZ,Chen & Zhao,1538.611,N
+226,Fairmont Prep KC,Cho & Kan,1538.242,N
+227,Strake Jesuit DS,Donovan & Sadare,1537.911,N
+228,Olympia WS,Senatus & Williams,1537.756,N
+229,Bergen YL,Li & Yang,1537.501,N
+230,Stuyvesant AS,Advani & Shahbaz,1537.324,N
+231,SFC VanDenTop & Johnson,Johnson & VanDenTop,1536.824,N
+232,George Washington SY,Sheehan & Yaakobi,1536.214,N
+233,Leland YH,Harsh & Yin,1536.195,N
+234,Dougherty Valley JC,Cheng & Jiang,1536.006,N
+235,Flintridge Prep LR,Liu & Rathi,1535.63,N
+236,SaiSou NL,Loh & Nguyen,1535.598,N
+237,Taipei American LP,Lee & Pimentel,1535.586,N
+238,SRV Independent TB,Barodawala & Thacker,1535.514,N
+239,SFJ Mayen & Hiruy,Hiruy & Mayen,1534.271,N
+240,Lincoln East NS,Ng & Suh,1533.817,N
+241,Nueva CW,Cedar & Wojin,1533.808,N
+242,Ridge PP,Pant & Pyloore,1533.774,N
+243,Lincoln East NP,Neamu & Peterson,1533.634,N
+244,Mountain View HK,Huang & Kim,1533.601,N
+245,Awty International XL,Lo & Xu,1533.486,N
+246,Ardrey Kell VS,Sureneni & Venkatachalam,1533.022,N
+247,Jellyfish Independent QY,Qiu & Yang,1532.887,N
+248,Regis AK,Anderson & Keller,1532.741,N
+249,Acton-Boxborough ND,Dibya & Nambiar,1532.584,N
+250,James Logan MJ,Juvekar & Mutti,1532.505,N
+251,Theodore Roosevelt MC,Chilongo & McIver,1532.422,N
+252,Cranbrook ZQ,Qian & Zhang,1532.297,N
+253,Taipei American CC,Chen & Chen,1532.249,N
+254,Blake SS,Silva & Smith,1532.242,N
+255,Cambridge DL,D'Souza & Lee,1532.11,N
+256,Southlake Carroll CT,Chelluri & Tummala,1532.071,N
+257,Bergen County Academies LP,Lee & Park,1531.767,N
+258,Ridge HS,Huang & Singh,1531.413,N
+259,Lexington GB,Basu & Gillen,1530.504,N
+260,Alta WH,Henderson & Welch,1529.383,N
+261,Bellaire HR,Hurtado & Rahman,1529.068,N
+262,RCS Birch & Burdick,Birch & Burdick,1528.87,N
+263,Richard Montgomery YM,Madia & Yu,1528.713,N
+264,Durham ND,Desai & Nanda,1528.474,N
+265,Strake Shatby & Gadin,Gadin & Shatby,1528.335,N
+266,Fairmont Prep NM,Milik & Ngo,1528.3,N
+267,Delbarton TT,Thomas & Thomas,1528.155,N
+268,Saratoga CV,Chen & Vu,1528.016,N
+269,Saigon South In MN,Mach & Nguyen,1527.991,N
+270,Livingston BR,Bhatt & Rao,1527.648,N
+271,Oxbridge VB,Bruneau & Vining,1527.249,N
+272,National Debate Club (NDC) ID,Dandekar & Iyengar,1527.057,N
+273,Trinity WW,Wagner & Watts,1526.633,N
+274,Bellarmine VA,Arutla & Vijendran,1526.435,N
+275,Horace Mann EH,Ergin & Hussain,1526.428,N
+276,SaiSou ZT,Tran & Zou,1526.064,N
+277,Buhler HB,Bradley & Harriman,1525.805,N
+278,Fairmont Prep GM,Ghaeli & Milik,1525.737,N
+279,Seven Lakes OW,Otieno & Wu,1525.501,N
+280,Summit SP,Patel & Shen,1525.351,N
+281,Bellarmine EJ,Ekanth & Jilani,1525.33,N
+282,Lawrenceville VA,Agarwal & Vattipulusu,1525.266,N
+283,New York State Independent CT,Chan & Tae,1525.253,N
+284,Fairmont Prep NL,Li & Ngo,1525.221,N
+285,SaiSou TB,Bautista & Truong,1524.833,N
+286,Newton South LuSo,Lu & Song,1524.45,N
+287,Seven Lakes YM,Mehta & Yechuri,1524.334,N
+288,Marist MB,Baldwin & Mastella,1523.649,N
+289,Strake Barron & Xiong,Barron & Xiong,1523.531,N
+290,Lincoln East BN,Bobaru & Neamu,1523.395,N
+291,Arlington MC,Carman & Munoz Broder,1523.177,N
+292,Delbarton HD,Dufner & Hosler,1523.086,N
+293,Nexus Mahajan & Baroda,Baroda & Mahajan,1523.015,N
+294,Nueva CH,Chen & Hui,1522.877,N
+295,Horace Mann PG,Gupta & Paksima,1522.734,N
+296,Cupertino XG,Gudala & Xiong,1522.729,N
+297,Fairmont Prep LH,Harrison & Li,1522.541,N
+298,Cambridge YC,Chan & Yang,1522.474,N
+299,Ransom Everglades CG,Chinoy & Gold,1522.062,N
+300,Horace Mann MP,Mandelli-Valla & Park,1521.775,N
+301,National Debate Club (NDC) RS,Rahemtulla & St. John,1521.757,N
+302,Durham RB,Bass & Rudolph,1521.73,N
+303,Archbishop Mitty DL,De Jesus & Lai,1521.335,N
+304,Regis MR,Moran & Ryan,1521.263,N
+305,McLean SK,Kim & Sandhu,1521.096,N
+306,Olympia PB,Nguyen & Phan,1521.06,N
+307,Eagan PS,Palanikumar & Simon,1520.656,N
+308,Bishop Moore Catholic NB,Brewer & Nadeau,1520.595,N
+309,Regis DR,Dominguez & Rodriguez,1519.863,N
+310,Strake Jesuit PD,Davis & Pruneda Hernandez,1519.76,N
+311,Bergen County Academies LW,Lee & Wu,1519.669,N
+312,Delta WH,Hickson & Whitaker,1519.618,N
+313,Colorado Academy Independent MI,Iyengar & Miller,1519.352,N
+314,Lambert School Independent SB,Baddela & Sood,1519.313,N
+315,Olympia MP,Meyers & Patel,1519.268,N
+316,Olympia GG,Gopaul & Grace,1519.039,N
+317,Regis CM,Cupido Carlorosi & Moszuti,1518.963,N
+318,Monte Vista HS Independent BM,Balaji & Muthuraman,1518.902,N
+319,Bronx Science CC,Comisarow & Croft,1518.86,N
+320,Horace Mann AD,Au & Desai,1518.804,N
+321,Cary Acad CS,Campbell & Shyamal,1518.778,N
+322,Orca Independent PR,Padwalkar & Ramaswamy,1518.676,N
+323,Ridgewood Independent ZY,Yang & Zhang,1518.633,N
+324,ModernBrain ZL,Lu & Zhang,1518.632,N
+325,Potomac NL,Lanke & Narang,1518.621,N
+326,Brentwood MW,Marassa & Wang,1518.482,N
+327,Jellyfish Independent WZ,Wu & Zheng,1518.045,N
+328,Brother Rice BS,Barbat & Szura,1517.731,N
+329,Brooklyn Technical AS,Ademi & Sharma,1517.662,N
+330,Avenues: The World BY,Boinpally & Yi,1517.662,N
+331,NS Independent WT,Thomas & Wang,1517.642,N
+332,Bronx Science QS,Qin & Surat,1517.423,N
+333,Cary Acad RK,Kantor & Rao,1517.38,N
+334,Delbarton HS,Hosler & Sardar,1517.203,N
+335,Lincoln Southwest KK,Kadiri & Keshk,1517.057,N
+336,ParCit DH,DuBois & Hadar,1516.998,N
+337,American Heritage Palm Beach ZG,Guan & Zhen,1516.556,N
+338,Southlake Carroll HR,Hussain & Reddy,1516.467,N
+339,Rock Ridge Independent UP,Paradkar & Uppalapati,1516.353,N
+340,Fairmont Prep HK,Ho & Kim,1516.314,N
+341,Elko SP,Pond & Sholty,1516.235,N
+342,Mira Loma GK,Gundimeda & Kate,1516.225,N
+343,Newsome SM,Mane & Surapuraju,1516.067,N
+344,Lynbrook XX,Xiong & Xu,1515.787,N
+345,HAR Berg & Mayland,Berg & Mayland,1515.749,N
+346,Leland ST,Sathya & Tsai,1515.691,N
+347,Nexus Qiu & Yang,Qiu & Yang,1515.662,N
+348,Germantown Friends PJ,Jun & Park,1515.651,N
+349,Nexus KZ,Kapasi & Ziv Petreanu,1515.549,N
+350,Miramonte CC,Chung & Chung,1515.524,N
+351,Southlake Carroll CV,Chitra & Vishnukumar,1515.42,N
+352,Harbinger ZA,Abulikemu & Zou,1515.198,N
+353,Chapin ST,Spence & Trinh,1515.146,N
+354,McLean SG,Glass & Sandhu,1514.609,N
+355,Bellarmine KV,Kumar & Vish,1514.319,N
+356,HAR Sharma & Olinger,Olinger & Sharma,1514.285,N
+357,Durham DN,Del gaizo & Nanda,1514.188,N
+358,Bethesda Chevy Chase SP,Puente & Skendaj,1514.043,N
+359,ABC Berg & Blackburn,Berg & Blackburn,1513.968,N
+360,Ridge NP,Narang & Pyloore,1513.827,N
+361,BASIS Scottsdale BP,Batra & Pomatto,1513.823,N
+362,Valley Christian MC,Chen & Ma,1513.792,N
+363,Nightingale Bamford BS,Berggrun & Spiridakis,1513.767,N
+364,Carrollton NW,Neill & Walker,1513.652,N
+365,Bronx Science BM,Buchalter & Makino Siller,1513.465,N
+366,Oakwood FL,Fischer & Light,1513.41,N
+367,National Debate Club (NDC) ZV,Varada & Zhou,1513.404,N
+368,Head-Royce LW,Le & Wong,1513.378,N
+369,Cary Acad XT,Thomas & Xia,1513.37,N
+370,National Debate Club (NDC) MG,Ge & Ma,1513.337,N
+371,Stockdale CJ,Corona & Jiang,1513.088,N
+372,Langley SK,Killian & Shi,1512.938,N
+373,Saigon South In LN,Loh & Nguyen,1512.931,N
+374,Unionville CF,Chen & Fan,1512.796,N
+375,College Prep YP,Perkins & Youman,1512.628,N
+376,Potomac MS,Mankovsky & Shanmugam,1512.519,N
+377,Newton South Independent AW,Ai & Wang,1512.509,N
+378,Nueva YA,Arkin & Yi,1512.49,N
+379,Jordan CJ,Chawla & Jahingir,1512.07,N
+380,Cambridge LT,Lee & Tang,1511.906,N
+381,McLean CL,Cai & Lowe,1511.771,N
+382,Lake Highland Prep SM,Mondal & Sambandam,1511.759,N
+383,Lexington CL,Chen & Liu,1511.574,N
+384,Westwood Shah & Puramandla,Puramandla & Shah,1511.489,N
+385,Midtown RW,Reed & Warrier,1511.478,N
+386,Durham LN,Lee & Nanzer,1511.335,N
+387,Lincoln East SJ,Jangala & Sathish,1511.316,N
+388,Olympia RM,Martin & Reed,1511.278,N
+389,Thomas Jefferson HSST independent Loren Zhouyin & Joshua Umapat,Umapathi & Zhouyin,1511.067,N
+390,Southlake Carroll DT,Dharani & Tummala,1511.059,N
+391,Ascent WL,Lung & Wei,1510.749,N
+392,James Clemens GS,Gollapudi & Sivasenthil,1510.681,N
+393,Saigon South In YK,Kim & Yeseong,1510.609,N
+394,Saigon South In SJ,Jin & Sam,1510.601,N
+395,Saigon South In PY,Ping & Yeh,1510.452,N
+396,Horace Mann MH,Hussain & Minervini,1510.356,N
+397,Olympia PFA,Nguyen & Tristan,1510.288,N
+398,Durham DR,Desai & Rudolph,1510.125,N
+399,Hamilton BM,Bhaskarpandit & Midhe,1510.041,N
+400,Durham BG,Barsoba & Gao,1509.78,N
+401,Marvin Ridge DK,Dadhania & Kale,1509.761,N
+402,Lambert Vishesh Sood & Neev Paul,Paul & Sood,1509.739,N
+403,Hamilton DG,Duan & Grewal,1509.507,N
+404,Eden Ridge Independent BM,Baroda & Mahajan,1509.47,N
+405,Emerald BA,Aroun & Bhandari,1509.454,N
+406,College Prep FP,Fiman & Perkins,1509.404,N
+407,Horace Mann AP,Au & Pinchuk,1509.39,N
+408,Strake Jesuit SD,Davis & Srinivas,1509.224,N
+409,Brearley ST,Sahni & Tsesarsky,1509.149,N
+410,Delbarton LK,Kapp & Leidl,1509.12,N
+411,Flintridge Prep ZL,Liu & Zhang,1509.068,N
+412,Zhouyin and Umapathi Indepedent UZ,Umapathi & Zhouyin,1509.029,N
+413,Bronx Science LP,Lin & Pathak Mehta,1508.99,N
+414,Alta TC,Carlton & Thaut-Lavange,1508.948,N
+415,Davis WH,Hardy & Widdison,1508.925,N
+416,College Prep BL,Boscardin & Lin,1508.853,N
+417,Gunn SK,Kabe & Swaminathan,1508.81,N
+418,Davis PR,Pulley & Roane,1508.789,N
+419,College Prep GY,Guan & Youman,1508.579,N
+420,Lincoln-Sudbury KS,Karmacharya & Sivaram,1508.54,N
+421,Archbishop Mitty YR,Raisinghani & Yang,1508.53,N
+422,Mountain Brook MH,Holden & Murphy,1508.504,N
+423,Bronx Science GM,Greenberg & Mattoo,1508.496,N
+424,Dougherty Valley RJ,Jiang & Ramanna,1508.467,N
+425,CR North AA,Acereda & Acereda,1508.391,N
+426,Bellarmine PM,Mitra & Prasanna,1508.381,N
+427,Bronx Science PA,Advani & Park,1508.319,N
+428,American JD,Devarashetty & Jindal,1508.318,N
+429,Monte Vista HS Independent GV,Gajjar & Vasudeva,1508.303,N
+430,Leland DQ,Dubey & Qamar,1508.296,N
+431,Oxbridge VP,Poikane & Vining,1508.296,N
+432,Winchester BZ,Bernstein & Zhang,1508.279,N
+433,Summit MK,Khan & Mazo,1508.108,N
+434,Archbishop Mitty CH,Chang & Han,1508.038,N
+435,Bronx Science EP,Elshaar & Potti,1508.018,N
+436,American JS,Jindal & Sinu,1507.932,N
+437,Regis AF,Abecasis & Forth-Sinclair,1507.863,N
+438,Cranbrook GE,Ezhil & Guo,1507.799,N
+439,Brooklyn Technical UK,Kakumanu & Urban,1507.735,N
+440,Arlington BR,Burke & Ryu,1507.706,N
+441,Chagrin Falls LS,Lyndall & Shein,1507.705,N
+442,Vel Phillips Memorial AS,Arianathan & Sadnoor,1507.682,N
+443,LEN Van Sickle & Sayler,Sayler & Van Sickle,1507.619,N
+444,Winchester AH,Apostadero & Hu,1507.573,N
+445,Bronx Science MH,Hia & Mahase,1507.568,N
+446,Harker BD,Bao & Du,1507.522,N
+447,Regis HB,Brennan & Haynes,1507.516,N
+448,Milpitas DN,Damaraju & Nguyen,1507.515,N
+449,Brearley AK,Agarwal & Kalaycioglu,1507.415,N
+450,Equality Independent ND,Davidowitz & Nabi,1507.363,N
+451,Bellarmine KE,Ekanth & Khurana,1507.329,N
+452,Marvin Ridge RD,Dasika & Ramakrishnan,1507.275,N
+453,Syosset HS,Huang & Sahu,1507.274,N
+454,Nexus Kapasi & Thomas,Kapasi & Thomas,1507.239,N
+455,Flintridge Prep DC,Chung & Ding,1507.229,N
+456,Stuyvesant ZZ,Zhang & Zheng,1507.124,N
+457,Nexus Fan & Yadav,Fan & Yadav,1507.124,N
+458,Oxbridge SM,Macias & Shrikhande,1507.075,N
+459,Newton South Independent KX,Kapasi & Xiong,1507.023,N
+460,Byram Hills BT,Bobra & Tardieu,1506.948,N
+461,Berkeley Carroll HL,Hirsch & Lieber,1506.91,N
+462,Robinson PB,Baker & Panos,1506.851,N
+463,Grace Church CT,Chin & Tanjga,1506.824,N
+464,Summit LD,Davies & Liang,1506.813,N
+465,George Washington SS,Sawyer & Sheehan,1506.636,N
+466,Carrollton YL,Long & Yancey,1506.626,N
+467,Unionville MC,Cai & Mohapatra,1506.619,N
+468,Strath Haven SZ,Singh & Zhu,1506.594,N
+469,Bronx Science LP,Leem & Pasman,1506.582,N
+470,LawS DP,Do Vuong Chinh & Phan,1506.573,N
+471,Taipei American SM,Ma & Shih,1506.53,N
+472,Magnolia NX,Nguyen & Xu,1506.416,N
+473,Brooks GP,Gopinath Mannar & Parhar,1506.329,N
+474,SaiSou LN,La & Nguyen,1506.31,N
+475,Canyon Crest PD,Ding & Peng,1506.221,N
+476,Robinson BM,Barna & Madabhushanam,1506.121,N
+477,Ransom Everglades SG,Geronemus & Sirinyan,1506.106,N
+478,Mission San Jose BM,Bhattiprolu & Mandala,1506.092,N
+479,Legacy Prep ZH,Heifetz & Zhao,1506.092,N
+480,Edina AG,Allocco & Gotte,1506.018,N
+481,Coppell SB,Balaji & Sanadi,1506.013,N
+482,Hun LT,Lee & Tran,1505.875,N
+483,Grace Church FF,Fennessey & Fiszel,1505.863,N
+484,Plano West JP,Jiang & Park,1505.859,N
+485,Rhodes GK,Guan & Ko,1505.616,N
+486,Solon HS Independant BS,Balasundaram & Song,1505.602,N
+487,Millburn CT,Chung & Tyagi,1505.586,N
+488,Frist Institute CG,Chen & Ganesh,1505.454,N
+489,Milpitas ML,Lo & Mathur,1505.438,N
+490,Saigon South NM,Mach & Nguyen,1505.415,N
+491,Archbishop Mitty YN,Nair & Yang,1505.415,N
+492,Lambert VP,Patil & Verma,1505.397,N
+493,Montville AB,Arora & Barve,1505.384,N
+494,Denver East CM,Cavens & Mohare,1505.171,N
+495,Southlake Carroll MK,Karna & Mallampati,1505.171,N
+496,Newton South WX,Wang & Xiao,1505.142,N
+497,Southlake Carroll SI,Ingu & Shah,1505.081,N
+498,Nexus Tian & Wang,Tian & Wang,1505.04,N
+499,ParCit KF,Fellow & Kuck,1505.006,N
+500,Lincoln-Sudbury GW,Ghalib & Wang,1504.855,N
