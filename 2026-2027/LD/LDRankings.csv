@@ -27,7 +27,7 @@ Rank,School,Name,Elo,DD Student
 26,Danville DN,David Nemoianu,1736.242,N
 27,Riverside Independent SH,Shiwen Huang,1730.666,N
 28,Harrison SE,Sebastian Engle,1727.642,N
-29,Horace Greeley CC,Chris Correia,1723.741,N
+29,Horace Greeley CC,Chris Correia,1723.741,Y
 30,Plano West ZM,Zayd Mahmud,1721.175,N
 31,Isidore Newman DC,Dylan Carey,1720.378,N
 32,Strake Jesuit MZ,Matthew Zong,1717.201,N
@@ -155,12 +155,12 @@ Rank,School,Name,Elo,DD Student
 154,Hastings KM,khris matul rosales,1549.993,N
 155,Hamilton GJ,Grace Jiao,1549.957,N
 156,SFW Owen Reed,Owen Reed,1549.901,N
-157,Montgomery Blair OR,Olivia Ren,1548.796,N
+157,Montgomery Blair OR,Olivia Ren,1548.796,Y
 158,Carlsbad GT,Graham Tipton,1548.481,N
 159,Laurel CW,Claire Witalec,1547.891,N
 160,Bronx Science SS,Sarita Satynarayana,1547.106,N
 161,Dougherty Valley Independent PN,Pranav Narra,1547.02,N
-162,Riverside Independent PK,Princeton Kang,1545.778,N
+162,Riverside Independent PK,Princeton Kang,1545.778,Y
 163,Little Rock Central KB,kaden buckner,1545.686,N
 164,Acton-Boxborough SD,Siddharth Deshmukh,1545.585,N
 165,West Des Moines Valley DN,Dannick Nzimi,1544.595,N
@@ -185,7 +185,7 @@ Rank,School,Name,Elo,DD Student
 184,California Online Public Schools Monterey Bay JX,Jayden Xing,1537.073,N
 185,Harker LX,Luke Xing,1536.867,N
 186,Strath Haven MC,Michael Chen,1536.375,N
-187,Memorial EW,Ethan Wu,1535.377,N
+187,Memorial EW,Ethan Wu,1535.377,Y
 188,Davis AF,Amelia Futey,1534.231,N
 189,Alliance MC,Mohnish Naga Satya Sai Chintalapudi,1534.001,N
 190,Cypress Ranch ML,Michelle Lee,1533.571,N
@@ -290,7 +290,7 @@ Rank,School,Name,Elo,DD Student
 289,Flower Mound KK,Krish Kulkarni,1508.104,N
 290,Rye SV,Sahil Velamoor,1508.091,N
 291,Peninsula AK,Adam Khaja,1507.901,N
-292,Edgemont AP,Anya Pathak,1507.899,N
+292,Edgemont AP,Anya Pathak,1507.899,Y
 293,Harvard-Westlake HP,Hattie Pfanschmidt,1507.792,N
 294,Lincoln Southeast RS,Ruthie Stokes,1507.699,N
 295,Scarsdale KL,Katherine Lin,1507.609,N
@@ -369,9 +369,9 @@ Rank,School,Name,Elo,DD Student
 368,Harker SG,Stephen Gao,1500.991,N
 369,Half Hollow Hills HS East ST,Spencer Tell,1500.909,N
 370,Stockdale WP,William Plank,1500.902,N
-371,Cupertino Independent AC,Aarini Chadha,1500.895,N
+371,Cupertino Independent AC,Aarini Chadha,1500.895,Y
 372,LEN Zachary Boysen,Zachary Boysen,1500.867,N
-373,Chaminade OS,Owen Sack,1500.799,N
+373,Chaminade OS,Owen Sack,1500.799,Y
 374,Peninsula JT,Jiayu Tang,1500.625,N
 375,Sacred Heart DM,Derek Meng,1500.61,N
 376,McNeil AP,Anshul Pancholi,1500.608,N
